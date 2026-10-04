@@ -67,6 +67,7 @@ DISCRIMINANT_REGION = "region"
 DISCRIMINANTS_NOM_REEL = (
     "ADDITIONAL_NAME_Akatsuki",  # Necrozma Ailes de l'Aurore
     "ADDITIONAL_NAME_Tasogare",  # Necrozma Crinière du Couchant
+    "ADDITIONAL_NAME_Hisui",  # Formes de Hisui (comme les autres régions)
 )
 # Mots initiaux exclus de la valeur d'une forme (d'autres peuvent s'ajouter)
 MOTS_EXCLUS_FORME = ("Forme",)
@@ -563,7 +564,7 @@ class Localisation:
         )
 
     def nom(self, cle, mode="plain", symbole=None):
-        """Retourner un nom de carte (plain, decore, base ou reel)."""
+        """Retourner un nom de carte (ex retiré en base/reel si symbole)."""
         ancien, self.mode = self.mode, mode
         try:
             texte = self.texte(cle)
@@ -573,7 +574,7 @@ class Localisation:
             return None
         if mode == "decore" and symbole:
             return symboliser_ex(texte, symbole)
-        if mode in ("base", "reel"):
+        if mode in ("base", "reel") and symbole:
             return nettoyer(EX_RE.sub("", texte, count=1))
         return texte
 
@@ -638,7 +639,8 @@ class Localisation:
         if valeur is None:
             return ""
         if "plural_only" in attributs:
-            return str(valeur) if (nombre(valeur) or 0) > 1 else ""
+            separateur = attributs["plural_only"]
+            return f"{valeur}{separateur}" if (nombre(valeur) or 0) > 1 else ""
         return str(valeur)
 
     def _accord(self, attributs, params):
@@ -783,6 +785,14 @@ def msid_nom(jeu, genre, carte):
     return jeu.personnages.get(personnage)
 
 
+def temps_paradoxe(personnage):
+    """Retourner « passé » ou « futur » pour un Pokémon ou un Dresseur."""
+    categories = personnage["AdditionalCategories"]
+    return next(
+        (t for c, t in TEMPS_PARADOXE.items() if c in categories), None
+    )
+
+
 def decrire_facultes_pokemon(jeu, loc, pokemon):
     """Décrire les talents puis les attaques d'un Pokémon."""
     facultes = []
@@ -811,7 +821,8 @@ def decrire_facultes_pokemon(jeu, loc, pokemon):
                 "types": "".join(
                     "{{type|" + (loc.nom_type(cout) or "").lower() + "|jcc}}"
                     for cout in attaque["AttackCost"]
-                ),
+                )
+                or "{{type|aucun|jcc}}",
                 "nom": loc.texte(
                     jeu.noms_attaques.get(attaque["PokemonAttackNameID"])
                 ),
@@ -851,14 +862,7 @@ def decrire_pokemon(jeu, loc, carte):
         "stade": pokemon["EvolutionStage"] - 1,
         "precedent": loc.texte(precedent),
         "precedent_base": loc.nom(precedent, "base"),
-        "temps": next(
-            (
-                temps
-                for categorie, temps in TEMPS_PARADOXE.items()
-                if categorie in pokemon["AdditionalCategories"]
-            ),
-            None,
-        ),
+        "temps": temps_paradoxe(pokemon),
         "retraite": pokemon["RetreatAmount"],
         "faiblesse": loc.nom_type(faiblesse) if faiblesse else None,
         "facultes": decrire_facultes_pokemon(jeu, loc, pokemon),
@@ -879,6 +883,7 @@ def decrire_dresseur(jeu, loc, carte):
         "sous_categories": list(
             SOUS_CATEGORIES_DRESSEUR.get(dresseur["TrainerType"], ())
         ),
+        "temps": temps_paradoxe(dresseur),
         "facultes": [{"prefixe": "faculté", "description": description}],
     }
 
@@ -919,7 +924,7 @@ def decrire_noms(donnees, genre, carte):
         mega = jeu.pokemon[carte["PokemonID"]]["IsMegaEvolution"]
         symbole = SYMBOLE_EX_MEGA if mega else SYMBOLE_EX
     loc_fr = donnees.locs[LANGUE_PRINCIPALE]
-    reel = loc_fr.nom(msid, "reel")
+    reel = loc_fr.nom(msid, "reel", symbole)
     formes = {"forme": None, "dresseur": None}
     for type_discriminant, cle, texte in loc_fr.discriminants(msid):
         if type_discriminant == DISCRIMINANT_DRESSEUR:
@@ -940,10 +945,11 @@ def cle_illustration(carte):
     suffixe = carte["IllustrationID"].rsplit("_", 1)[-1]
     classe = "normale" if suffixe in ILLUSTRATIONS_NORMALES else "speciale"
     correspondance = CARD_ID_RE.match(carte["CardID"])
-    return (
-        *(correspondance.groups() if correspondance else (carte["CardID"],)),
-        classe,
-    )
+    if not correspondance:
+        return (carte["CardID"], classe)
+    numero, version = correspondance.groups()
+    # Une carte reverse a l'illustration de sa jumelle (version 00)
+    return (numero, "00" if carte["MirrorType"] else version, classe)
 
 
 def creer_entree(jeu, code, entree):
