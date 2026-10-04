@@ -3,7 +3,7 @@ Scripts pour les articles wiki du *JCC Pokémon Pocket*.
 
 ## Prérequis
 * Avoir installé [Python](https://www.python.org/)
-* Avoir [https://realpython.com/add-python-to-path/](ajouté Python à son PATH)
+* Avoir [ajouté Python à son PATH](https://realpython.com/add-python-to-path/)
 
 ## Usage
 Ces scripts dépendent entièrement du dossier `data` qui contient les sous-dossiers :
