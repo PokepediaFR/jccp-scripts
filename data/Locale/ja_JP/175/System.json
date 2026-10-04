@@ -1,0 +1,11 @@
+{
+  "LOCAL_PUSH_1_BODY": "拡張パックを開封できます",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "パックパワーが1まで回復したときに通知します",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "パックパワー回復",
+  "LOCAL_PUSH_1_TITLE": "パックパワーが回復しました！",
+  "LOCAL_PUSH_2_BODY": "ゲットチャレンジをのぞいてみませんか？",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "チャレンジパワーが全回復したときに通知します",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "チャレンジパワー全回復",
+  "LOCAL_PUSH_2_TITLE": "チャレンジパワーが全回復しました！",
+  "LocalizeSystemLocalPush": "\u0010"
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "ID": "NORMAL_AR",
+  "CardKind": 0,
+  "Rarity": 500,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 4000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_C",
+  "CardKind": 0,
+  "Rarity": 100,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 0,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_R",
+  "CardKind": 0,
+  "Rarity": 300,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 1200,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_RR",
+  "CardKind": 0,
+  "Rarity": 400,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 5000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_S",
+  "CardKind": 0,
+  "Rarity": 830,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 10000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_SAR",
+  "CardKind": 0,
+  "Rarity": 700,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 25000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_SR",
+  "CardKind": 0,
+  "Rarity": 600,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 25000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_SSR",
+  "CardKind": 0,
+  "Rarity": 860,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 30000,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ },
+ {
+  "ID": "NORMAL_U",
+  "CardKind": 0,
+  "Rarity": 200,
+  "ExpansionID": "",
+  "DepositBrightSandAmount": 0,
+  "DepositTradeTicketID": "",
+  "DepositTradeTicketAmount": 0,
+  "ScheduleID": ""
+ }
+]

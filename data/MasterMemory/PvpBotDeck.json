@@ -1,0 +1,690 @@
+[
+ {
+  "BotDeckID": "BOT_DECK_00010",
+  "BotNameMSID": "BOT_NAME_00010",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 6,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   3,
+   4
+  ],
+  "MainCard": "BOT_DECK_00010_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00020",
+  "BotNameMSID": "BOT_NAME_00020",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 6,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4,
+   3,
+   5
+  ],
+  "MainCard": "BOT_DECK_00020_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 4,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00030",
+  "BotNameMSID": "BOT_NAME_00030",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 7,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3,
+   5,
+   7
+  ],
+  "MainCard": "BOT_DECK_00030_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00040",
+  "BotNameMSID": "BOT_NAME_00040",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 7,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   5,
+   6,
+   9
+  ],
+  "MainCard": "BOT_DECK_00040_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 5,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00050",
+  "BotNameMSID": "BOT_NAME_00050",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 8,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3,
+   6,
+   7
+  ],
+  "MainCard": "BOT_DECK_00050_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00060",
+  "BotNameMSID": "BOT_NAME_00060",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 8,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   7,
+   8
+  ],
+  "MainCard": "BOT_DECK_00060_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00070",
+  "BotNameMSID": "BOT_NAME_00070",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 9,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3,
+   8,
+   9
+  ],
+  "MainCard": "BOT_DECK_00070_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00080",
+  "BotNameMSID": "BOT_NAME_00080",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 9,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4,
+   6,
+   7
+  ],
+  "MainCard": "BOT_DECK_00080_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 10,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00090",
+  "BotNameMSID": "BOT_NAME_00090",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 10,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4,
+   5,
+   8
+  ],
+  "MainCard": "BOT_DECK_00090_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 10,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00100",
+  "BotNameMSID": "BOT_NAME_00100",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 10,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   3,
+   6
+  ],
+  "MainCard": "BOT_DECK_00100_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00110",
+  "BotNameMSID": "BOT_NAME_00110",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 11,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3,
+   5,
+   7
+  ],
+  "MainCard": "BOT_DECK_00110_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00120",
+  "BotNameMSID": "BOT_NAME_00120",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 11,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   5,
+   7,
+   9
+  ],
+  "MainCard": "BOT_DECK_00120_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 7,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00130",
+  "BotNameMSID": "BOT_NAME_00130",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 12,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   6,
+   7,
+   9
+  ],
+  "MainCard": "BOT_DECK_00130_CARD_6",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 7,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00140",
+  "BotNameMSID": "BOT_NAME_00140",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 12,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4,
+   6,
+   9
+  ],
+  "MainCard": "BOT_DECK_00140_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 4,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00150",
+  "BotNameMSID": "BOT_NAME_00150",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 13,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   6,
+   8
+  ],
+  "MainCard": "BOT_DECK_00150_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00160",
+  "BotNameMSID": "BOT_NAME_00160",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 13,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   6,
+   8,
+   9
+  ],
+  "MainCard": "BOT_DECK_00160_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 6,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00170",
+  "BotNameMSID": "BOT_NAME_00170",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 14,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   7,
+   8,
+   9
+  ],
+  "MainCard": "BOT_DECK_00170_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 7,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00180",
+  "BotNameMSID": "BOT_NAME_00180",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 14,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   5,
+   9
+  ],
+  "MainCard": "BOT_DECK_00180_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00190",
+  "BotNameMSID": "BOT_NAME_00190",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 15,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3,
+   6,
+   7
+  ],
+  "MainCard": "BOT_DECK_00190_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_00200",
+  "BotNameMSID": "BOT_NAME_00200",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 15,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2,
+   4,
+   8
+  ],
+  "MainCard": "BOT_DECK_00200_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01010",
+  "BotNameMSID": "BOT_NAME_00010",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 6,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4
+  ],
+  "MainCard": "BOT_DECK_01010_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 4,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01020",
+  "BotNameMSID": "BOT_NAME_00020",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 6,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2
+  ],
+  "MainCard": "BOT_DECK_01020_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01030",
+  "BotNameMSID": "BOT_NAME_00030",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 7,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3
+  ],
+  "MainCard": "BOT_DECK_01030_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01040",
+  "BotNameMSID": "BOT_NAME_00040",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 7,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   5
+  ],
+  "MainCard": "BOT_DECK_01040_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 5,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01050",
+  "BotNameMSID": "BOT_NAME_00050",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 8,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   6
+  ],
+  "MainCard": "BOT_DECK_01050_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 6,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01060",
+  "BotNameMSID": "BOT_NAME_00060",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 8,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   7
+  ],
+  "MainCard": "BOT_DECK_01060_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 7,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01070",
+  "BotNameMSID": "BOT_NAME_00070",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 9,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   8
+  ],
+  "MainCard": "BOT_DECK_01070_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 8,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01080",
+  "BotNameMSID": "BOT_NAME_00080",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 9,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2
+  ],
+  "MainCard": "BOT_DECK_01080_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01090",
+  "BotNameMSID": "BOT_NAME_00090",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 10,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3
+  ],
+  "MainCard": "BOT_DECK_01090_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01100",
+  "BotNameMSID": "BOT_NAME_00100",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 10,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4
+  ],
+  "MainCard": "BOT_DECK_01100_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 4,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01110",
+  "BotNameMSID": "BOT_NAME_00110",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 11,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   5
+  ],
+  "MainCard": "BOT_DECK_01110_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 5,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01120",
+  "BotNameMSID": "BOT_NAME_00120",
+  "ProfileIcon": "PROFILE_ICON_100030_EIEVUI",
+  "ProfileLevel": 11,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   8
+  ],
+  "MainCard": "BOT_DECK_01120_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 8,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01130",
+  "BotNameMSID": "BOT_NAME_00130",
+  "ProfileIcon": "PROFILE_ICON_100040_MARUMINE",
+  "ProfileLevel": 12,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   9
+  ],
+  "MainCard": "BOT_DECK_01130_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 9,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01140",
+  "BotNameMSID": "BOT_NAME_00140",
+  "ProfileIcon": "PROFILE_ICON_100050_NYARTH",
+  "ProfileLevel": 12,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   2
+  ],
+  "MainCard": "BOT_DECK_01140_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 2,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01150",
+  "BotNameMSID": "BOT_NAME_00150",
+  "ProfileIcon": "PROFILE_ICON_100060_LIZARDON",
+  "ProfileLevel": 13,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   3
+  ],
+  "MainCard": "BOT_DECK_01150_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 3,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ },
+ {
+  "BotDeckID": "BOT_DECK_01160",
+  "BotNameMSID": "BOT_NAME_00160",
+  "ProfileIcon": "PROFILE_ICON_100020_SIRNIGHT",
+  "ProfileLevel": 13,
+  "ProfileMessageID": "PROFILE_MESSAGE_1",
+  "ProfileEmblems": [],
+  "EnergyType": [
+   4
+  ],
+  "MainCard": "BOT_DECK_01160_CARD_1",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "DeckCaseType": 4,
+  "PlayMat": "",
+  "DeckShield": "",
+  "CoinSkin": ""
+ }
+]

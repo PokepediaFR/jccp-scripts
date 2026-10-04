@@ -1,0 +1,562 @@
+[
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_01",
+  "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+  "ClearCount": 1,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 24
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_02",
+  "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+  "ClearCount": 3,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 24
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_03",
+  "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+  "ClearCount": 5,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 24
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_DAILY_01_01",
+  "MissionGroupID": "MI_GR_0002010_DAILY_01",
+  "ClearCount": 3,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 4
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_01",
+  "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+  "ClearCount": 3,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 250
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_02",
+  "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+  "ClearCount": 6,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 500
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_03",
+  "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+  "ClearCount": 9,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 120
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_01",
+  "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+  "ClearCount": 1,
+  "ItemType": 9,
+  "ItemID": "BOARD_100420_Displayframe_winterholiday",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_02",
+  "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+  "ClearCount": 4,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_03",
+  "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+  "ClearCount": 7,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_01",
+  "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+  "ClearCount": 1,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_02",
+  "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+  "ClearCount": 4,
+  "ItemType": 9,
+  "ItemID": "BOARD_100430_Displayframe_newyear",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_03",
+  "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+  "ClearCount": 7,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2502010_SPECIAL_01_01",
+  "MissionGroupID": "MI_GR_2502010_SPECIAL_01",
+  "ClearCount": 2,
+  "ItemType": 9,
+  "ItemID": "BOARD_100440_Displayframe_brightroom",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2502010_SPECIAL_01_02",
+  "MissionGroupID": "MI_GR_2502010_SPECIAL_01",
+  "ClearCount": 5,
+  "ItemType": 8,
+  "ItemID": "AN003_0010_00_000",
+  "Amount": 3
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2502010_SPECIAL_01_03",
+  "MissionGroupID": "MI_GR_2502010_SPECIAL_01",
+  "ClearCount": 10,
+  "ItemType": 8,
+  "ItemID": "AN003_0020_00_000",
+  "Amount": 3
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2504010_SPECIAL_01_01",
+  "MissionGroupID": "MI_GR_2504010_SPECIAL_01",
+  "ClearCount": 5,
+  "ItemType": 9,
+  "ItemID": "BOARD_100660_CITY_CELEBRATION",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2504010_SPECIAL_01_02",
+  "MissionGroupID": "MI_GR_2504010_SPECIAL_01",
+  "ClearCount": 10,
+  "ItemType": 9,
+  "ItemID": "FILE_100530_CITY_CELEBRATION",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2504010_SPECIAL_01_03",
+  "MissionGroupID": "MI_GR_2504010_SPECIAL_01",
+  "ClearCount": 15,
+  "ItemType": 9,
+  "ItemID": "COIN_100440_SHAYMIN_SKYFORME",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2504010_SPECIAL_01_04",
+  "MissionGroupID": "MI_GR_2504010_SPECIAL_01",
+  "ClearCount": 20,
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100310_CITY_CELEBRATION",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2504010_SPECIAL_01_05",
+  "MissionGroupID": "MI_GR_2504010_SPECIAL_01",
+  "ClearCount": 25,
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100310_CITY_CELEBRATION",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2506000_SPECIAL_01_01",
+  "MissionGroupID": "MI_GR_2506000_SPECIAL_01",
+  "ClearCount": 2,
+  "ItemType": 9,
+  "ItemID": "BOARD_100850_Displayframe_Nine",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2506000_SPECIAL_01_02",
+  "MissionGroupID": "MI_GR_2506000_SPECIAL_01",
+  "ClearCount": 5,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2506000_SPECIAL_01_03",
+  "MissionGroupID": "MI_GR_2506000_SPECIAL_01",
+  "ClearCount": 8,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_1STANNIVERSARY_01",
+  "MissionGroupID": "MI_GR_2510000_1STANNIVERSARY_01",
+  "ClearCount": 3,
+  "ItemType": 9,
+  "ItemID": "BOARD_100930_MEGA_POKEMON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_1STANNIVERSARY_02",
+  "MissionGroupID": "MI_GR_2510000_1STANNIVERSARY_01",
+  "ClearCount": 5,
+  "ItemType": 9,
+  "ItemID": "FILE_100780_MEGA_POKEMON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_1STANNIVERSARY_03",
+  "MissionGroupID": "MI_GR_2510000_1STANNIVERSARY_01",
+  "ClearCount": 10,
+  "ItemType": 9,
+  "ItemID": "COIN_100690_MEGA_POKEMON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_1STANNIVERSARY_04",
+  "MissionGroupID": "MI_GR_2510000_1STANNIVERSARY_01",
+  "ClearCount": 15,
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100490_MEGA_POKEMON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_1STANNIVERSARY_05",
+  "MissionGroupID": "MI_GR_2510000_1STANNIVERSARY_01",
+  "ClearCount": 20,
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100490_MEGA_POKEMON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_DAILY_01_01",
+  "MissionGroupID": "MI_GR_2510000_DAILY_01",
+  "ClearCount": 2,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "Amount": 2
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_DAILY_01_02",
+  "MissionGroupID": "MI_GR_2510000_DAILY_01",
+  "ClearCount": 3,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 4
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_EVENT_04_01",
+  "MissionGroupID": "MI_GR_2510000_EVENT_04",
+  "ClearCount": 3,
+  "ItemType": 12,
+  "ItemID": "TICKET_2510000_EV_03",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2510000_EVENT_05_01",
+  "MissionGroupID": "MI_GR_2510000_EVENT_05",
+  "ClearCount": 3,
+  "ItemType": 12,
+  "ItemID": "TICKET_2510000_EV_04",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2602000_EVENT_04_01",
+  "MissionGroupID": "MI_GR_2602000_EVENT_04",
+  "ClearCount": 1,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 120
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2602000_EVENT_04_02",
+  "MissionGroupID": "MI_GR_2602000_EVENT_04",
+  "ClearCount": 15,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 120
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2602000_EVENT_04_03",
+  "MissionGroupID": "MI_GR_2602000_EVENT_04",
+  "ClearCount": 30,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 120
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2603000_COMM_01_01",
+  "MissionGroupID": "MI_GR_2603000_PKW_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2603000_COMM_01_02",
+  "MissionGroupID": "MI_GR_2603000_PKW_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2603000_COMM_01_03",
+  "MissionGroupID": "MI_GR_2603000_PKW_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_COMM_01_01",
+  "MissionGroupID": "MI_GR_2604000_PKW_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_COMM_01_02",
+  "MissionGroupID": "MI_GR_2604000_PKW_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_COMM_01_03",
+  "MissionGroupID": "MI_GR_2604000_PKW_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_SPECIAL_01_01",
+  "MissionGroupID": "MI_GR_2604000_SPECIAL_01",
+  "ClearCount": 3,
+  "ItemType": 9,
+  "ItemID": "BOARD_101230_ForestPokemons",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_SPECIAL_01_02",
+  "MissionGroupID": "MI_GR_2604000_SPECIAL_01",
+  "ClearCount": 6,
+  "ItemType": 9,
+  "ItemID": "FILE_101100_ForestPokemons",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_SPECIAL_01_03",
+  "MissionGroupID": "MI_GR_2604000_SPECIAL_01",
+  "ClearCount": 9,
+  "ItemType": 9,
+  "ItemID": "COIN_100890_MESSON",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_SPECIAL_01_04",
+  "MissionGroupID": "MI_GR_2604000_SPECIAL_01",
+  "ClearCount": 12,
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100700_ForestPokemons",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2604000_SPECIAL_01_05",
+  "MissionGroupID": "MI_GR_2604000_SPECIAL_01",
+  "ClearCount": 15,
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100700_ForestPokemons",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2605000_COMM_01_01",
+  "MissionGroupID": "MI_GR_2605000_PKW_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2605000_COMM_01_02",
+  "MissionGroupID": "MI_GR_2605000_PKW_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2605000_COMM_01_03",
+  "MissionGroupID": "MI_GR_2605000_PKW_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2606000_COMM_01_01",
+  "MissionGroupID": "MI_GR_2606000_PKW_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2606000_COMM_01_02",
+  "MissionGroupID": "MI_GR_2606000_PKW_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2606000_COMM_01_03",
+  "MissionGroupID": "MI_GR_2606000_PKW_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_COMM_01_01",
+  "MissionGroupID": "MI_GR_2607000_PKW_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_COMM_01_02",
+  "MissionGroupID": "MI_GR_2607000_PKW_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_COMM_01_03",
+  "MissionGroupID": "MI_GR_2607000_PKW_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_RETURN_01_01",
+  "MissionGroupID": "MI_GR_2607000_RETURN_01",
+  "ClearCount": 4,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 120
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_SPECIAL_01_01",
+  "MissionGroupID": "MI_GR_2607000_SPECIAL_01",
+  "ClearCount": 4,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2607000_SPECIAL_01_02",
+  "MissionGroupID": "MI_GR_2607000_SPECIAL_01",
+  "ClearCount": 7,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2608000_BONUS_01_01",
+  "MissionGroupID": "MI_GR_2608000_BONUS_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2608000_BONUS_01_02",
+  "MissionGroupID": "MI_GR_2608000_BONUS_01",
+  "ClearCount": 8,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 30
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2608000_BONUS_01_03",
+  "MissionGroupID": "MI_GR_2608000_BONUS_01",
+  "ClearCount": 12,
+  "ItemType": 16,
+  "ItemID": "TRADE_CHAGER_140010",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_BONUS_01_01",
+  "MissionGroupID": "MI_GR_2609000_BONUS_01",
+  "ClearCount": 1,
+  "ItemType": 9,
+  "ItemID": "BOARD_101730_PleasureCity",
+  "Amount": 1
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_BONUS_01_02",
+  "MissionGroupID": "MI_GR_2609000_BONUS_01",
+  "ClearCount": 4,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 10000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_BONUS_01_03",
+  "MissionGroupID": "MI_GR_2609000_BONUS_01",
+  "ClearCount": 8,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 60
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_EVENT_02_01",
+  "MissionGroupID": "MI_GR_2609000_EVENT_02",
+  "ClearCount": 3,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "Amount": 12
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_EVENT_02_02",
+  "MissionGroupID": "MI_GR_2609000_EVENT_02",
+  "ClearCount": 5,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 3000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_EVENT_02_03",
+  "MissionGroupID": "MI_GR_2609000_EVENT_02",
+  "ClearCount": 7,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 3000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_EVENT_02_04",
+  "MissionGroupID": "MI_GR_2609000_EVENT_02",
+  "ClearCount": 9,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 3000
+ },
+ {
+  "MissionGroupRewardStepID": "MI_GR_RS_2609000_EVENT_02_05",
+  "MissionGroupID": "MI_GR_2609000_EVENT_02",
+  "ClearCount": 12,
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "Amount": 3000
+ }
+]

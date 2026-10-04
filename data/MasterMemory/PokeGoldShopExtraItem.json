@@ -1,0 +1,954 @@
+[
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_001",
+  "ItemType": 9,
+  "ItemID": "BOARD_100180_SIRNIGHT",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_002",
+  "ItemType": 9,
+  "ItemID": "BOARD_100460_SHIRONA_MIKARUGE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_003",
+  "ItemType": 9,
+  "ItemID": "BOARD_100610_Shiny_glare",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_004",
+  "ItemType": 9,
+  "ItemID": "BOARD_100650_LILIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_005",
+  "ItemType": 9,
+  "ItemID": "BOARD_100760_EIFIE_BRACKY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_006",
+  "ItemType": 9,
+  "ItemID": "BOARD_100710_ACEROLA_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_007",
+  "ItemType": 9,
+  "ItemID": "BOARD_100750_NYMPHIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_008",
+  "ItemType": 9,
+  "ItemID": "BOARD_100840_PICHU_PY_BUBY_RURIRI",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_009",
+  "ItemType": 9,
+  "ItemID": "BOARD_101000_GEKKOUGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_011",
+  "ItemType": 9,
+  "ItemID": "BOARD_100860_MEGATYLTALIS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_012",
+  "ItemType": 9,
+  "ItemID": "BOARD_101090_SERENA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_013",
+  "ItemType": 9,
+  "ItemID": "BOARD_101040_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_014",
+  "ItemType": 9,
+  "ItemID": "BOARD_101010_1st_ANNIVERSARY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_015",
+  "ItemType": 9,
+  "ItemID": "BOARD_101140_NANJYAMO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_016",
+  "ItemType": 9,
+  "ItemID": "BOARD_101190_ZOROARK_ZORUA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_017",
+  "ItemType": 9,
+  "ItemID": "BOARD_101180_MORPEKO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_018",
+  "ItemType": 9,
+  "ItemID": "BOARD_101290_KORAIDON",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_019",
+  "ItemType": 9,
+  "ItemID": "BOARD_101390_METAGROSS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_020",
+  "ItemType": 9,
+  "ItemID": "BOARD_101250_KAMITSURE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_021",
+  "ItemType": 9,
+  "ItemID": "BOARD_101470_THUNDER_FREEZER_etc",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_BOARD_022",
+  "ItemType": 9,
+  "ItemID": "BOARD_101540_HOOPA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_CARD_001",
+  "ItemType": 0,
+  "ItemID": "PK_90_000940_02",
+  "ExpansionID": "PROMO-A",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_CARD_002",
+  "ItemType": 0,
+  "ItemID": "PK_90_001280_00",
+  "ExpansionID": "PROMO-A",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_CARD_003",
+  "ItemType": 0,
+  "ItemID": "PK_90_001290_00",
+  "ExpansionID": "PROMO-A",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_001",
+  "ItemType": 9,
+  "ItemID": "COIN_100130_SIRNIGHT",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_002",
+  "ItemType": 9,
+  "ItemID": "COIN_100290_SHIRONA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_003",
+  "ItemType": 9,
+  "ItemID": "COIN_100400_SHINY_MEWTWO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_004",
+  "ItemType": 9,
+  "ItemID": "COIN_100430_LILIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_005",
+  "ItemType": 9,
+  "ItemID": "COIN_100530_EIFIE_BRACKY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_006",
+  "ItemType": 9,
+  "ItemID": "COIN_100710_ACEROLA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_007",
+  "ItemType": 9,
+  "ItemID": "COIN_100720_NYMPHIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_008",
+  "ItemType": 9,
+  "ItemID": "COIN_100730_PICHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_009",
+  "ItemType": 9,
+  "ItemID": "COIN_100630_GEKKOUGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_011",
+  "ItemType": 9,
+  "ItemID": "COIN_100640_MEGATYLTALIS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_012",
+  "ItemType": 9,
+  "ItemID": "COIN_100790_SERENA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_013",
+  "ItemType": 9,
+  "ItemID": "COIN_100740_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_014",
+  "ItemType": 9,
+  "ItemID": "COIN_100620_PIKACHU_2",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_015",
+  "ItemType": 9,
+  "ItemID": "COIN_100820_NANJYAMO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_016",
+  "ItemType": 9,
+  "ItemID": "COIN_100860_ZOROARK",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_017",
+  "ItemType": 9,
+  "ItemID": "COIN_100850_MORPEKO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_018",
+  "ItemType": 9,
+  "ItemID": "COIN_100930_KORAIDON",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_019",
+  "ItemType": 9,
+  "ItemID": "COIN_100990_METAGROSS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_020",
+  "ItemType": 9,
+  "ItemID": "COIN_100900_KAMITSURE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_021",
+  "ItemType": 9,
+  "ItemID": "COIN_101020_THUNDER",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_COIN_022",
+  "ItemType": 9,
+  "ItemID": "COIN_101060_HOOPA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_001",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100090_SIRNIGHT",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_002",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100180_SHIRONA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_003",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100270_SHINY_MEWTWO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_004",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100300_LILIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_005",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100380_EIFIE_BRACKY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_006",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100340_ACEROLA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_007",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100370_NYMPHIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_008",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100430_PICHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_009",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100530_GEKKOUGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_011",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100440_MEGATYLTALIS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_012",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100600_SERENA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_013",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100550_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_014",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100540_1st_ANNIVERSARY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_015",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100630_NANJYAMO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_016",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100670_ZOROARK",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_017",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100660_MORPEKO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_018",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100740_KORAIDON",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_019",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100800_METAGROSS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_020",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100710_KAMITSURE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_021",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100830_THUNDER_FREEZER_etc",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_DECKSHIELD_022",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100870_HOOPA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_001",
+  "ItemType": 9,
+  "ItemID": "FILE_100120_SIRNIGHT",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_002",
+  "ItemType": 9,
+  "ItemID": "FILE_100360_SHIRONA_GABURIAS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_003",
+  "ItemType": 9,
+  "ItemID": "FILE_100480_SHINY_GLARE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_004",
+  "ItemType": 9,
+  "ItemID": "FILE_100520_LILIE_LUNALA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_005",
+  "ItemType": 9,
+  "ItemID": "FILE_100640_EIFIE_BRACKY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_006",
+  "ItemType": 9,
+  "ItemID": "FILE_100580_ACEROLA_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_007",
+  "ItemType": 9,
+  "ItemID": "FILE_100620_NYMPHIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_008",
+  "ItemType": 9,
+  "ItemID": "FILE_100710_PICHU_PY_BUBY_RURIRI",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_009",
+  "ItemType": 9,
+  "ItemID": "FILE_100870_GEKKOUGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_011",
+  "ItemType": 9,
+  "ItemID": "FILE_100730_MEGATYLTALIS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_012",
+  "ItemType": 9,
+  "ItemID": "FILE_100970_SERENA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_013",
+  "ItemType": 9,
+  "ItemID": "FILE_100900_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_014",
+  "ItemType": 9,
+  "ItemID": "FILE_100880_1st_ANNIVERSARY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_015",
+  "ItemType": 9,
+  "ItemID": "FILE_101010_NANJYAMO_HARABARIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_016",
+  "ItemType": 9,
+  "ItemID": "FILE_101070_ZOROARK_ZORUA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_017",
+  "ItemType": 9,
+  "ItemID": "FILE_101050_MORPEKO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_018",
+  "ItemType": 9,
+  "ItemID": "FILE_101170_KORAIDON",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_019",
+  "ItemType": 9,
+  "ItemID": "FILE_101230_METAGROSS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_020",
+  "ItemType": 9,
+  "ItemID": "FILE_101120_KAMITSURE_EMOLGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_021",
+  "ItemType": 9,
+  "ItemID": "FILE_101270_THUNDER_FREEZER_etc",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_FILE_022",
+  "ItemType": 9,
+  "ItemID": "FILE_101320_HOOPA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_001",
+  "ItemType": 8,
+  "ItemID": "AN001_0020_00_000",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_002",
+  "ItemType": 8,
+  "ItemID": "AN001_0030_00_000",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_003",
+  "ItemType": 8,
+  "ItemID": "AN001_0010_00_000",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_004",
+  "ItemType": 8,
+  "ItemID": "AN001_0030_00_000",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_005",
+  "ItemType": 8,
+  "ItemID": "AN001_0010_00_000",
+  "ExpansionID": "",
+  "Amount": 5
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_006",
+  "ItemType": 8,
+  "ItemID": "AN001_0020_00_000",
+  "ExpansionID": "",
+  "Amount": 5
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_007",
+  "ItemType": 8,
+  "ItemID": "AN001_0030_00_000",
+  "ExpansionID": "",
+  "Amount": 5
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_008",
+  "ItemType": 8,
+  "ItemID": "AN001_0010_00_000",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_009",
+  "ItemType": 8,
+  "ItemID": "AN001_0010_00_000",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PACK_010",
+  "ItemType": 8,
+  "ItemID": "AN001_0020_00_000",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_001",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100090_SIRNIGHT",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_002",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100180_SHIRONA_GABURIAS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_003",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100270_SHINY_MEWTWO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_004",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100300_LILIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_005",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100380_EIFIE_BRACKY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_006",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100340_ACEROLA_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_007",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100370_NYMPHIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_008",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100430_PICHU_PY_BUBY_RURIRI",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_009",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100530_GEKKOUGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_011",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100440_MEGATYLTALIS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_012",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100600_SERENA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_013",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100550_MIMIKKYU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_014",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100540_1st_ANNIVERSARY",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_015",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100630_NANJYAMO_HARABARIE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_016",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100670_ZOROARK_ZORUA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_017",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100660_MORPEKO",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_018",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100740_KORAIDON",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_019",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100800_METAGROSS",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_020",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100710_KAMITSURE_EMOLGA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_021",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100830_THUNDER_FREEZER_etc",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_PLAYMAT_022",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100870_HOOPA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_001",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_002",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 5
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_003",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 7
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_004",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 15
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_005",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 20
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_006",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 45
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_007",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 50
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_008",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 100
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_009",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 190
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_010",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 22
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_011",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 30
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_012",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 39
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_013",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 110
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_014",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 60
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_015",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 160
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_016",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 41
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_017",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 80
+ },
+ {
+  "ExtraItemID": "SH_EX_PG_POKEGOLD_018",
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 145
+ }
+]

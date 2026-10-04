@@ -1,0 +1,10 @@
+[
+ {
+  "ID": "MI_COMEBACK_B4_001",
+  "ComebackThresholdDays": 14,
+  "ComebackMissionValidityDays": 10,
+  "ComebackMissionAttentionIntervalHours": 12,
+  "ComebackMissionAttentionThresholdClearCount": 1,
+  "ComebackCooldownDays": 45
+ }
+]

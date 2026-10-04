@@ -1,0 +1,182 @@
+[
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00010",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00010"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00020",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00020"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00030",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00030"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00040",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00040"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00050",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00050"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00060",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00060"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00070",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00070"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00080",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00080"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00090",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00090"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00100",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00100"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00110",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00110"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00120",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00120"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00130",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00130"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00140",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00140"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00150",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00150"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00160",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00160"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00170",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00170"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00180",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00180"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00190",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00190"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_1_BOT_DECK_00200",
+  "PvpBotGroup": "BOT_GROUP_1",
+  "BotDeck": "BOT_DECK_00200"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01010",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01010"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01020",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01020"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01030",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01030"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01040",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01040"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01050",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01050"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01060",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01060"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01070",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01070"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01080",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01080"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01090",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01090"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01100",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01100"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01110",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01110"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01120",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01120"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01130",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01130"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01140",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01140"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01150",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01150"
+ },
+ {
+  "PvpBotGroupDeckID": "BOT_GROUP_3_BOT_DECK_01160",
+  "PvpBotGroup": "BOT_GROUP_3",
+  "BotDeck": "BOT_DECK_01160"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "ExtraID": "SH_EX_GD_BOARD_001",
+  "ItemType": 9,
+  "ItemID": "BOARD_100170_ERIKA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_BOARD_002",
+  "ItemType": 9,
+  "ItemID": "BOARD_100590_RED_PIKACHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_BOARD_003",
+  "ItemType": 9,
+  "ItemID": "BOARD_100540_SEKI_KAI",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_DECKSHIELD_001",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100080_ERIKA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_DECKSHIELD_002",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100260_RED_PIKACHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_DECKSHIELD_003",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100230_LEAFIA_GLACIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_FILE_001",
+  "ItemType": 9,
+  "ItemID": "FILE_100110_ERIKA_RUFFRESIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_FILE_002",
+  "ItemType": 9,
+  "ItemID": "FILE_100470_RED_PIKACHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_FILE_003",
+  "ItemType": 9,
+  "ItemID": "FILE_100430_SEKI_KAI_LEAFIA_GLACIA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_PLAYMAT_001",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100080_ERIKA",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_PLAYMAT_002",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100260_RED_PIKACHU",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ExtraID": "SH_EX_GD_PLAYMAT_003",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100230_SEKI_KAI_LEAFIA_GLACIA",
+  "ExpansionID": "",
+  "Amount": 1
+ }
+]

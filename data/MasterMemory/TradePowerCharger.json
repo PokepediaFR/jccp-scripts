@@ -1,0 +1,8 @@
+[
+ {
+  "ID": "TRADE_CHAGER_140010",
+  "NameMSID": "ITEM_NAME_CHARGER_T1",
+  "DescriptionMSID": "ITEM_DESC_CHARGER_T1",
+  "RecoveryDuration": 60
+ }
+]

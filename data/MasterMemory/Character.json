@@ -1,0 +1,5534 @@
+[
+ {
+  "CharacterID": "ABAGOURA",
+  "DisplayNameMSID": "CARD_NAME_876"
+ },
+ {
+  "CharacterID": "ABSOL",
+  "DisplayNameMSID": "CARD_NAME_571"
+ },
+ {
+  "CharacterID": "ABULY",
+  "DisplayNameMSID": "CARD_NAME_540"
+ },
+ {
+  "CharacterID": "ABURIBBON",
+  "DisplayNameMSID": "CARD_NAME_541"
+ },
+ {
+  "CharacterID": "ACEBURN",
+  "DisplayNameMSID": "CARD_NAME_988"
+ },
+ {
+  "CharacterID": "ACEROLA",
+  "DisplayNameMSID": "CARD_NAME_606"
+ },
+ {
+  "CharacterID": "ACHAMO",
+  "DisplayNameMSID": "CARD_NAME_852"
+ },
+ {
+  "CharacterID": "ACHIGATOR",
+  "DisplayNameMSID": "CARD_NAME_1078"
+ },
+ {
+  "CharacterID": "AGEHUNT",
+  "DisplayNameMSID": "CARD_NAME_835"
+ },
+ {
+  "CharacterID": "AGILDER",
+  "DisplayNameMSID": "CARD_NAME_1286"
+ },
+ {
+  "CharacterID": "AGNOME",
+  "DisplayNameMSID": "CARD_NAME_340"
+ },
+ {
+  "CharacterID": "AGOJIMUSHI",
+  "DisplayNameMSID": "CARD_NAME_495"
+ },
+ {
+  "CharacterID": "AGONOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_1051"
+ },
+ {
+  "CharacterID": "AGOYON",
+  "DisplayNameMSID": "CARD_NAME_649"
+ },
+ {
+  "CharacterID": "AIANT",
+  "DisplayNameMSID": "CARD_NAME_796"
+ },
+ {
+  "CharacterID": "AIRMD",
+  "DisplayNameMSID": "CARD_NAME_371"
+ },
+ {
+  "CharacterID": "AIRMD_EX",
+  "DisplayNameMSID": "CARD_NAME_759"
+ },
+ {
+  "CharacterID": "AKAGI",
+  "DisplayNameMSID": "CARD_NAME_405"
+ },
+ {
+  "CharacterID": "AKANE",
+  "DisplayNameMSID": "CARD_NAME_825"
+ },
+ {
+  "CharacterID": "AKUZIKING",
+  "DisplayNameMSID": "CARD_NAME_1031"
+ },
+ {
+  "CharacterID": "AKUZIKING_EX",
+  "DisplayNameMSID": "CARD_NAME_648"
+ },
+ {
+  "CharacterID": "ALLIGATES",
+  "DisplayNameMSID": "CARD_NAME_715"
+ },
+ {
+  "CharacterID": "ALOLABETBETER",
+  "DisplayNameMSID": "CARD_NAME_569"
+ },
+ {
+  "CharacterID": "ALOLABETBETON",
+  "DisplayNameMSID": "CARD_NAME_1024"
+ },
+ {
+  "CharacterID": "ALOLABETBETON_EX",
+  "DisplayNameMSID": "CARD_NAME_570"
+ },
+ {
+  "CharacterID": "ALOLADIGDA",
+  "DisplayNameMSID": "CARD_NAME_576"
+ },
+ {
+  "CharacterID": "ALOLADUGTRIO",
+  "DisplayNameMSID": "CARD_NAME_577"
+ },
+ {
+  "CharacterID": "ALOLADUGTRIO_EX",
+  "DisplayNameMSID": "CARD_NAME_650"
+ },
+ {
+  "CharacterID": "ALOLAGARAGARA",
+  "DisplayNameMSID": "CARD_NAME_505"
+ },
+ {
+  "CharacterID": "ALOLAGOLONE",
+  "DisplayNameMSID": "CARD_NAME_528"
+ },
+ {
+  "CharacterID": "ALOLAGOLONYA",
+  "DisplayNameMSID": "CARD_NAME_529"
+ },
+ {
+  "CharacterID": "ALOLAISITSUBUTE",
+  "DisplayNameMSID": "CARD_NAME_527"
+ },
+ {
+  "CharacterID": "ALOLAKORATTA",
+  "DisplayNameMSID": "CARD_NAME_565"
+ },
+ {
+  "CharacterID": "ALOLAKYUKON",
+  "DisplayNameMSID": "CARD_NAME_516"
+ },
+ {
+  "CharacterID": "ALOLAKYUKON_EX",
+  "DisplayNameMSID": "CARD_NAME_990"
+ },
+ {
+  "CharacterID": "ALOLANASSY",
+  "DisplayNameMSID": "CARD_NAME_485"
+ },
+ {
+  "CharacterID": "ALOLANYARTH",
+  "DisplayNameMSID": "CARD_NAME_567"
+ },
+ {
+  "CharacterID": "ALOLAPERSIAN",
+  "DisplayNameMSID": "CARD_NAME_568"
+ },
+ {
+  "CharacterID": "ALOLARAICHU",
+  "DisplayNameMSID": "CARD_NAME_1000"
+ },
+ {
+  "CharacterID": "ALOLARAICHU_EX",
+  "DisplayNameMSID": "CARD_NAME_526"
+ },
+ {
+  "CharacterID": "ALOLARATTA",
+  "DisplayNameMSID": "CARD_NAME_566"
+ },
+ {
+  "CharacterID": "ALOLAROKON",
+  "DisplayNameMSID": "CARD_NAME_515"
+ },
+ {
+  "CharacterID": "ALOLASAND",
+  "DisplayNameMSID": "CARD_NAME_513"
+ },
+ {
+  "CharacterID": "ALOLASANDPAN",
+  "DisplayNameMSID": "CARD_NAME_514"
+ },
+ {
+  "CharacterID": "AMAJO",
+  "DisplayNameMSID": "CARD_NAME_500"
+ },
+ {
+  "CharacterID": "AMAKAJI",
+  "DisplayNameMSID": "CARD_NAME_498"
+ },
+ {
+  "CharacterID": "AMAKUKAORUMORI",
+  "DisplayNameMSID": "CARD_NAME_1216"
+ },
+ {
+  "CharacterID": "AMAMAIKO",
+  "DisplayNameMSID": "CARD_NAME_499"
+ },
+ {
+  "CharacterID": "AMARURUGA",
+  "DisplayNameMSID": "CARD_NAME_998"
+ },
+ {
+  "CharacterID": "AMARUS",
+  "DisplayNameMSID": "CARD_NAME_997"
+ },
+ {
+  "CharacterID": "AMEMOTH",
+  "DisplayNameMSID": "CARD_NAME_487"
+ },
+ {
+  "CharacterID": "AMETAMA",
+  "DisplayNameMSID": "CARD_NAME_486"
+ },
+ {
+  "CharacterID": "ANOHORAGUSA",
+  "DisplayNameMSID": "CARD_NAME_1072"
+ },
+ {
+  "CharacterID": "ANOKUSA",
+  "DisplayNameMSID": "CARD_NAME_1071"
+ },
+ {
+  "CharacterID": "ANOPTH",
+  "DisplayNameMSID": "CARD_NAME_1306"
+ },
+ {
+  "CharacterID": "AOGARASU",
+  "DisplayNameMSID": "CARD_NAME_937"
+ },
+ {
+  "CharacterID": "AOI",
+  "DisplayNameMSID": "CARD_NAME_1254"
+ },
+ {
+  "CharacterID": "APPRYU",
+  "DisplayNameMSID": "CARD_NAME_1157"
+ },
+ {
+  "CharacterID": "ARABURUTAKE",
+  "DisplayNameMSID": "CARD_NAME_1219"
+ },
+ {
+  "CharacterID": "ARBO",
+  "DisplayNameMSID": "CARD_NAME_164"
+ },
+ {
+  "CharacterID": "ARBOK",
+  "DisplayNameMSID": "CARD_NAME_165"
+ },
+ {
+  "CharacterID": "ARCEUS",
+  "DisplayNameMSID": "CARD_NAME_444"
+ },
+ {
+  "CharacterID": "ARCEUS_EX",
+  "DisplayNameMSID": "CARD_NAME_445"
+ },
+ {
+  "CharacterID": "ARCHEN",
+  "DisplayNameMSID": "CARD_NAME_898"
+ },
+ {
+  "CharacterID": "ARCHEOS",
+  "DisplayNameMSID": "CARD_NAME_899"
+ },
+ {
+  "CharacterID": "ARIADOS",
+  "DisplayNameMSID": "CARD_NAME_753"
+ },
+ {
+  "CharacterID": "ARMALDO",
+  "DisplayNameMSID": "CARD_NAME_1307"
+ },
+ {
+  "CharacterID": "ARMORGA",
+  "DisplayNameMSID": "CARD_NAME_920"
+ },
+ {
+  "CharacterID": "ARMORGA_EX",
+  "DisplayNameMSID": "CARD_NAME_1205"
+ },
+ {
+  "CharacterID": "ARUKUJIRA",
+  "DisplayNameMSID": "CARD_NAME_1089"
+ },
+ {
+  "CharacterID": "ASANAN",
+  "DisplayNameMSID": "CARD_NAME_436"
+ },
+ {
+  "CharacterID": "ASHIMARI",
+  "DisplayNameMSID": "CARD_NAME_517"
+ },
+ {
+  "CharacterID": "ASHIRENE",
+  "DisplayNameMSID": "CARD_NAME_519"
+ },
+ {
+  "CharacterID": "ASHIRENE_EX",
+  "DisplayNameMSID": "CARD_NAME_678"
+ },
+ {
+  "CharacterID": "ATARITSUKIAISU",
+  "DisplayNameMSID": "CARD_NAME_1052"
+ },
+ {
+  "CharacterID": "AZUMAO",
+  "DisplayNameMSID": "CARD_NAME_73"
+ },
+ {
+  "CharacterID": "BABYMET",
+  "DisplayNameMSID": "CARD_NAME_944"
+ },
+ {
+  "CharacterID": "BACHINKEY",
+  "DisplayNameMSID": "CARD_NAME_848"
+ },
+ {
+  "CharacterID": "BACHINUNI",
+  "DisplayNameMSID": "CARD_NAME_112"
+ },
+ {
+  "CharacterID": "BACHURU",
+  "DisplayNameMSID": "CARD_NAME_249"
+ },
+ {
+  "CharacterID": "BAIVANILLA",
+  "DisplayNameMSID": "CARD_NAME_676"
+ },
+ {
+  "CharacterID": "BAIWOOLUU",
+  "DisplayNameMSID": "CARD_NAME_213"
+ },
+ {
+  "CharacterID": "BAKECCHA",
+  "DisplayNameMSID": "CARD_NAME_1011"
+ },
+ {
+  "CharacterID": "BAKPHOON",
+  "DisplayNameMSID": "CARD_NAME_706"
+ },
+ {
+  "CharacterID": "BAKPHOON_EX",
+  "DisplayNameMSID": "CARD_NAME_1290"
+ },
+ {
+  "CharacterID": "BAKUGAMES",
+  "DisplayNameMSID": "CARD_NAME_512"
+ },
+ {
+  "CharacterID": "BAKUONG",
+  "DisplayNameMSID": "CARD_NAME_929"
+ },
+ {
+  "CharacterID": "BAKUUDA",
+  "DisplayNameMSID": "CARD_NAME_1159"
+ },
+ {
+  "CharacterID": "BALKIE",
+  "DisplayNameMSID": "CARD_NAME_748"
+ },
+ {
+  "CharacterID": "BANBADORO",
+  "DisplayNameMSID": "CARD_NAME_562"
+ },
+ {
+  "CharacterID": "BANEBOO",
+  "DisplayNameMSID": "CARD_NAME_535"
+ },
+ {
+  "CharacterID": "BANGIRAS",
+  "DisplayNameMSID": "CARD_NAME_435"
+ },
+ {
+  "CharacterID": "BAOKKIE",
+  "DisplayNameMSID": "CARD_NAME_857"
+ },
+ {
+  "CharacterID": "BAOPPU",
+  "DisplayNameMSID": "CARD_NAME_856"
+ },
+ {
+  "CharacterID": "BARRIERD",
+  "DisplayNameMSID": "CARD_NAME_126"
+ },
+ {
+  "CharacterID": "BARUBEAT",
+  "DisplayNameMSID": "CARD_NAME_1133"
+ },
+ {
+  "CharacterID": "BASSRAO",
+  "DisplayNameMSID": "CARD_NAME_958"
+ },
+ {
+  "CharacterID": "BAYLEAF",
+  "DisplayNameMSID": "CARD_NAME_692"
+ },
+ {
+  "CharacterID": "BEADARU",
+  "DisplayNameMSID": "CARD_NAME_392"
+ },
+ {
+  "CharacterID": "BEADARU_EX",
+  "DisplayNameMSID": "CARD_NAME_480"
+ },
+ {
+  "CharacterID": "BEEDLE",
+  "DisplayNameMSID": "CARD_NAME_8"
+ },
+ {
+  "CharacterID": "BEEQUEN",
+  "DisplayNameMSID": "CARD_NAME_291"
+ },
+ {
+  "CharacterID": "BEEQUEN_EX",
+  "DisplayNameMSID": "CARD_NAME_1284"
+ },
+ {
+  "CharacterID": "BERACAS",
+  "DisplayNameMSID": "CARD_NAME_1103"
+ },
+ {
+  "CharacterID": "BEROBA",
+  "DisplayNameMSID": "CARD_NAME_912"
+ },
+ {
+  "CharacterID": "BEROBELT",
+  "DisplayNameMSID": "CARD_NAME_479"
+ },
+ {
+  "CharacterID": "BEROBELT_EX",
+  "DisplayNameMSID": "CARD_NAME_383"
+ },
+ {
+  "CharacterID": "BERORINGA",
+  "DisplayNameMSID": "CARD_NAME_201"
+ },
+ {
+  "CharacterID": "BETBETER",
+  "DisplayNameMSID": "CARD_NAME_174"
+ },
+ {
+  "CharacterID": "BETBETON",
+  "DisplayNameMSID": "CARD_NAME_175"
+ },
+ {
+  "CharacterID": "BEVENOM",
+  "DisplayNameMSID": "CARD_NAME_627"
+ },
+ {
+  "CharacterID": "BIGAIRBALLOON",
+  "DisplayNameMSID": "CARD_NAME_1126"
+ },
+ {
+  "CharacterID": "BIPPA",
+  "DisplayNameMSID": "CARD_NAME_391"
+ },
+ {
+  "CharacterID": "BIRIRIDAMA",
+  "DisplayNameMSID": "CARD_NAME_99"
+ },
+ {
+  "CharacterID": "BISUTONAITO",
+  "DisplayNameMSID": "CARD_NAME_665"
+ },
+ {
+  "CharacterID": "BISUTOWORU",
+  "DisplayNameMSID": "CARD_NAME_662"
+ },
+ {
+  "CharacterID": "BLOSTER",
+  "DisplayNameMSID": "CARD_NAME_960"
+ },
+ {
+  "CharacterID": "BOCHI",
+  "DisplayNameMSID": "CARD_NAME_1106"
+ },
+ {
+  "CharacterID": "BOHMANDER",
+  "DisplayNameMSID": "CARD_NAME_1038"
+ },
+ {
+  "CharacterID": "BOKUREI",
+  "DisplayNameMSID": "CARD_NAME_490"
+ },
+ {
+  "CharacterID": "BOOBER",
+  "DisplayNameMSID": "CARD_NAME_44"
+ },
+ {
+  "CharacterID": "BOOBURN",
+  "DisplayNameMSID": "CARD_NAME_296"
+ },
+ {
+  "CharacterID": "BOOPIG",
+  "DisplayNameMSID": "CARD_NAME_536"
+ },
+ {
+  "CharacterID": "BOOSTER",
+  "DisplayNameMSID": "CARD_NAME_45"
+ },
+ {
+  "CharacterID": "BOOSTER_EX",
+  "DisplayNameMSID": "CARD_NAME_672"
+ },
+ {
+  "CharacterID": "BOSSGODORA",
+  "DisplayNameMSID": "CARD_NAME_653"
+ },
+ {
+  "CharacterID": "BOTAN",
+  "DisplayNameMSID": "CARD_NAME_690"
+ },
+ {
+  "CharacterID": "BOWTZEL",
+  "DisplayNameMSID": "CARD_NAME_1101"
+ },
+ {
+  "CharacterID": "BRACKY",
+  "DisplayNameMSID": "CARD_NAME_683"
+ },
+ {
+  "CharacterID": "BRACKY_EX",
+  "DisplayNameMSID": "CARD_NAME_754"
+ },
+ {
+  "CharacterID": "BRIDURAS",
+  "DisplayNameMSID": "CARD_NAME_1317"
+ },
+ {
+  "CharacterID": "BRIGARRON",
+  "DisplayNameMSID": "CARD_NAME_976"
+ },
+ {
+  "CharacterID": "BRIMUON",
+  "DisplayNameMSID": "CARD_NAME_1187"
+ },
+ {
+  "CharacterID": "BUBY",
+  "DisplayNameMSID": "CARD_NAME_707"
+ },
+ {
+  "CharacterID": "BUFFRON",
+  "DisplayNameMSID": "CARD_NAME_772"
+ },
+ {
+  "CharacterID": "BULU",
+  "DisplayNameMSID": "CARD_NAME_743"
+ },
+ {
+  "CharacterID": "BUNYATTO",
+  "DisplayNameMSID": "CARD_NAME_396"
+ },
+ {
+  "CharacterID": "BUOYSEL",
+  "DisplayNameMSID": "CARD_NAME_310"
+ },
+ {
+  "CharacterID": "BURORON",
+  "DisplayNameMSID": "CARD_NAME_476"
+ },
+ {
+  "CharacterID": "BUROROROOM",
+  "DisplayNameMSID": "CARD_NAME_477"
+ },
+ {
+  "CharacterID": "BURSYAMO",
+  "DisplayNameMSID": "CARD_NAME_854"
+ },
+ {
+  "CharacterID": "BURUNGEL",
+  "DisplayNameMSID": "CARD_NAME_808"
+ },
+ {
+  "CharacterID": "BUSUTOENAJIKODAI",
+  "DisplayNameMSID": "CARD_NAME_1252"
+ },
+ {
+  "CharacterID": "BUSUTOENAJIMIRAI",
+  "DisplayNameMSID": "CARD_NAME_1253"
+ },
+ {
+  "CharacterID": "BUTTERFREE",
+  "DisplayNameMSID": "CARD_NAME_7"
+ },
+ {
+  "CharacterID": "CALAMANERO",
+  "DisplayNameMSID": "CARD_NAME_815"
+ },
+ {
+  "CharacterID": "CALME",
+  "DisplayNameMSID": "CARD_NAME_1147"
+ },
+ {
+  "CharacterID": "CAMOME",
+  "DisplayNameMSID": "CARD_NAME_1342"
+ },
+ {
+  "CharacterID": "CAPSAIJI",
+  "DisplayNameMSID": "CARD_NAME_1073"
+ },
+ {
+  "CharacterID": "CARBOU",
+  "DisplayNameMSID": "CARD_NAME_1080"
+ },
+ {
+  "CharacterID": "CARNE",
+  "DisplayNameMSID": "CARD_NAME_1056"
+ },
+ {
+  "CharacterID": "CASEY",
+  "DisplayNameMSID": "CARD_NAME_115"
+ },
+ {
+  "CharacterID": "CATERPIE",
+  "DisplayNameMSID": "CARD_NAME_5"
+ },
+ {
+  "CharacterID": "CELEBI",
+  "DisplayNameMSID": "CARD_NAME_795"
+ },
+ {
+  "CharacterID": "CELEBI_EX",
+  "DisplayNameMSID": "CARD_NAME_234"
+ },
+ {
+  "CharacterID": "CHADEATH",
+  "DisplayNameMSID": "CARD_NAME_1287"
+ },
+ {
+  "CharacterID": "CHANDELA",
+  "DisplayNameMSID": "CARD_NAME_860"
+ },
+ {
+  "CharacterID": "CHAOBOO",
+  "DisplayNameMSID": "CARD_NAME_1164"
+ },
+ {
+  "CharacterID": "CHAREM",
+  "DisplayNameMSID": "CARD_NAME_437"
+ },
+ {
+  "CharacterID": "CHEREN",
+  "DisplayNameMSID": "CARD_NAME_1214"
+ },
+ {
+  "CharacterID": "CHERINBO",
+  "DisplayNameMSID": "CARD_NAME_413"
+ },
+ {
+  "CharacterID": "CHERRIM",
+  "DisplayNameMSID": "CARD_NAME_414"
+ },
+ {
+  "CharacterID": "CHEVARGO",
+  "DisplayNameMSID": "CARD_NAME_579"
+ },
+ {
+  "CharacterID": "CHICORITA",
+  "DisplayNameMSID": "CARD_NAME_691"
+ },
+ {
+  "CharacterID": "CHIGORAS",
+  "DisplayNameMSID": "CARD_NAME_1020"
+ },
+ {
+  "CharacterID": "CHIISANAFUUSEN",
+  "DisplayNameMSID": "CARD_NAME_1276"
+ },
+ {
+  "CharacterID": "CHILLACCINO",
+  "DisplayNameMSID": "CARD_NAME_211"
+ },
+ {
+  "CharacterID": "CHILLARMY",
+  "DisplayNameMSID": "CARD_NAME_210"
+ },
+ {
+  "CharacterID": "CHIONJEN",
+  "DisplayNameMSID": "CARD_NAME_1076"
+ },
+ {
+  "CharacterID": "CHIREAN",
+  "DisplayNameMSID": "CARD_NAME_1303"
+ },
+ {
+  "CharacterID": "CHIWOHAUHANE",
+  "DisplayNameMSID": "CARD_NAME_1220"
+ },
+ {
+  "CharacterID": "CHOBOMAKI",
+  "DisplayNameMSID": "CARD_NAME_1285"
+ },
+ {
+  "CharacterID": "CHONCHIE",
+  "DisplayNameMSID": "CARD_NAME_727"
+ },
+ {
+  "CharacterID": "CHORONEKO",
+  "DisplayNameMSID": "CARD_NAME_264"
+ },
+ {
+  "CharacterID": "CHURINE",
+  "DisplayNameMSID": "CARD_NAME_29"
+ },
+ {
+  "CharacterID": "CITRON",
+  "DisplayNameMSID": "CARD_NAME_969"
+ },
+ {
+  "CharacterID": "CITRONNORYUKKU",
+  "DisplayNameMSID": "CARD_NAME_967"
+ },
+ {
+  "CharacterID": "CLEFFY",
+  "DisplayNameMSID": "CARD_NAME_580"
+ },
+ {
+  "CharacterID": "COBALON",
+  "DisplayNameMSID": "CARD_NAME_915"
+ },
+ {
+  "CharacterID": "COCOON",
+  "DisplayNameMSID": "CARD_NAME_9"
+ },
+ {
+  "CharacterID": "COIL",
+  "DisplayNameMSID": "CARD_NAME_97"
+ },
+ {
+  "CharacterID": "COKODORA",
+  "DisplayNameMSID": "CARD_NAME_651"
+ },
+ {
+  "CharacterID": "COLLECUREI",
+  "DisplayNameMSID": "CARD_NAME_466"
+ },
+ {
+  "CharacterID": "CORNI",
+  "DisplayNameMSID": "CARD_NAME_1212"
+ },
+ {
+  "CharacterID": "COSMOG",
+  "DisplayNameMSID": "CARD_NAME_547"
+ },
+ {
+  "CharacterID": "COSMOVUM",
+  "DisplayNameMSID": "CARD_NAME_548"
+ },
+ {
+  "CharacterID": "COTOISE",
+  "DisplayNameMSID": "CARD_NAME_673"
+ },
+ {
+  "CharacterID": "CRAB",
+  "DisplayNameMSID": "CARD_NAME_68"
+ },
+ {
+  "CharacterID": "CREBASE",
+  "DisplayNameMSID": "CARD_NAME_880"
+ },
+ {
+  "CharacterID": "CRESSELIA",
+  "DisplayNameMSID": "CARD_NAME_342"
+ },
+ {
+  "CharacterID": "CRESSELIA_EX",
+  "DisplayNameMSID": "CARD_NAME_450"
+ },
+ {
+  "CharacterID": "CRIMGAN",
+  "DisplayNameMSID": "CARD_NAME_269"
+ },
+ {
+  "CharacterID": "CROBAT",
+  "DisplayNameMSID": "CARD_NAME_439"
+ },
+ {
+  "CharacterID": "CROBAT_EX",
+  "DisplayNameMSID": "CARD_NAME_751"
+ },
+ {
+  "CharacterID": "CUESPATRA",
+  "DisplayNameMSID": "CARD_NAME_1105"
+ },
+ {
+  "CharacterID": "CUT ROTOM",
+  "DisplayNameMSID": "CARD_NAME_294"
+ },
+ {
+  "CharacterID": "CUWAWA",
+  "DisplayNameMSID": "CARD_NAME_542"
+ },
+ {
+  "CharacterID": "DADARIN",
+  "DisplayNameMSID": "CARD_NAME_240"
+ },
+ {
+  "CharacterID": "DADARIN_EX",
+  "DisplayNameMSID": "CARD_NAME_503"
+ },
+ {
+  "CharacterID": "DAGEKI",
+  "DisplayNameMSID": "CARD_NAME_1193"
+ },
+ {
+  "CharacterID": "DAIKENKI",
+  "DisplayNameMSID": "CARD_NAME_1299"
+ },
+ {
+  "CharacterID": "DAINOSE",
+  "DisplayNameMSID": "CARD_NAME_377"
+ },
+ {
+  "CharacterID": "DAINOSE_EX",
+  "DisplayNameMSID": "CARD_NAME_440"
+ },
+ {
+  "CharacterID": "DAIOUDOU",
+  "DisplayNameMSID": "CARD_NAME_1244"
+ },
+ {
+  "CharacterID": "DAKUMA",
+  "DisplayNameMSID": "CARD_NAME_1197"
+ },
+ {
+  "CharacterID": "DANGORO",
+  "DisplayNameMSID": "CARD_NAME_1017"
+ },
+ {
+  "CharacterID": "DARKPENDANTO",
+  "DisplayNameMSID": "CARD_NAME_776"
+ },
+ {
+  "CharacterID": "DARKRAI",
+  "DisplayNameMSID": "CARD_NAME_369"
+ },
+ {
+  "CharacterID": "DARKRAI_EX",
+  "DisplayNameMSID": "CARD_NAME_370"
+ },
+ {
+  "CharacterID": "DARUMAKKA",
+  "DisplayNameMSID": "CARD_NAME_710"
+ },
+ {
+  "CharacterID": "DEDENNE",
+  "DisplayNameMSID": "CARD_NAME_251"
+ },
+ {
+  "CharacterID": "DEDENNE_EX",
+  "DisplayNameMSID": "CARD_NAME_1266"
+ },
+ {
+  "CharacterID": "DEKAGOOSE",
+  "DisplayNameMSID": "CARD_NAME_595"
+ },
+ {
+  "CharacterID": "DEKANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_1119"
+ },
+ {
+  "CharacterID": "DEKANUCHAN_EX",
+  "DisplayNameMSID": "CARD_NAME_475"
+ },
+ {
+  "CharacterID": "DELIBIRD",
+  "DisplayNameMSID": "CARD_NAME_723"
+ },
+ {
+  "CharacterID": "DELVIL",
+  "DisplayNameMSID": "CARD_NAME_416"
+ },
+ {
+  "CharacterID": "DENDIMUSHI",
+  "DisplayNameMSID": "CARD_NAME_530"
+ },
+ {
+  "CharacterID": "DENJYUMOKU",
+  "DisplayNameMSID": "CARD_NAME_619"
+ },
+ {
+  "CharacterID": "DENRYU",
+  "DisplayNameMSID": "CARD_NAME_732"
+ },
+ {
+  "CharacterID": "DENTULA",
+  "DisplayNameMSID": "CARD_NAME_250"
+ },
+ {
+  "CharacterID": "DENZI",
+  "DisplayNameMSID": "CARD_NAME_408"
+ },
+ {
+  "CharacterID": "DESUKARN",
+  "DisplayNameMSID": "CARD_NAME_890"
+ },
+ {
+  "CharacterID": "DESUMASU",
+  "DisplayNameMSID": "CARD_NAME_889"
+ },
+ {
+  "CharacterID": "DIALGA_EX",
+  "DisplayNameMSID": "CARD_NAME_378"
+ },
+ {
+  "CharacterID": "DIANCIE",
+  "DisplayNameMSID": "CARD_NAME_1184"
+ },
+ {
+  "CharacterID": "DIGDA",
+  "DisplayNameMSID": "CARD_NAME_139"
+ },
+ {
+  "CharacterID": "DIHEAD",
+  "DisplayNameMSID": "CARD_NAME_908"
+ },
+ {
+  "CharacterID": "DINLU",
+  "DisplayNameMSID": "CARD_NAME_1112"
+ },
+ {
+  "CharacterID": "DIRTENG",
+  "DisplayNameMSID": "CARD_NAME_840"
+ },
+ {
+  "CharacterID": "DOBLE",
+  "DisplayNameMSID": "CARD_NAME_770"
+ },
+ {
+  "CharacterID": "DODAITOSE",
+  "DisplayNameMSID": "CARD_NAME_285"
+ },
+ {
+  "CharacterID": "DODEKABASHI",
+  "DisplayNameMSID": "CARD_NAME_593"
+ },
+ {
+  "CharacterID": "DODO",
+  "DisplayNameMSID": "CARD_NAME_199"
+ },
+ {
+  "CharacterID": "DODOGEZAN",
+  "DisplayNameMSID": "CARD_NAME_1238"
+ },
+ {
+  "CharacterID": "DODORIO",
+  "DisplayNameMSID": "CARD_NAME_200"
+ },
+ {
+  "CharacterID": "DOGARS",
+  "DisplayNameMSID": "CARD_NAME_176"
+ },
+ {
+  "CharacterID": "DOGOHMB",
+  "DisplayNameMSID": "CARD_NAME_928"
+ },
+ {
+  "CharacterID": "DOHIDOIDE",
+  "DisplayNameMSID": "CARD_NAME_575"
+ },
+ {
+  "CharacterID": "DOHMIRROR",
+  "DisplayNameMSID": "CARD_NAME_375"
+ },
+ {
+  "CharacterID": "DOHTAKUN",
+  "DisplayNameMSID": "CARD_NAME_376"
+ },
+ {
+  "CharacterID": "DOJOACH",
+  "DisplayNameMSID": "CARD_NAME_420"
+ },
+ {
+  "CharacterID": "DOKKORER",
+  "DisplayNameMSID": "CARD_NAME_555"
+ },
+ {
+  "CharacterID": "DOKUBARI",
+  "DisplayNameMSID": "CARD_NAME_604"
+ },
+ {
+  "CharacterID": "DOKUCALE",
+  "DisplayNameMSID": "CARD_NAME_837"
+ },
+ {
+  "CharacterID": "DOKUKURAGE",
+  "DisplayNameMSID": "CARD_NAME_63"
+ },
+ {
+  "CharacterID": "DOKUROG",
+  "DisplayNameMSID": "CARD_NAME_368"
+ },
+ {
+  "CharacterID": "DONFAN",
+  "DisplayNameMSID": "CARD_NAME_432"
+ },
+ {
+  "CharacterID": "DONFAN_EX",
+  "DisplayNameMSID": "CARD_NAME_747"
+ },
+ {
+  "CharacterID": "DONGKARASU",
+  "DisplayNameMSID": "CARD_NAME_357"
+ },
+ {
+  "CharacterID": "DONMEL",
+  "DisplayNameMSID": "CARD_NAME_1158"
+ },
+ {
+  "CharacterID": "DORAPION",
+  "DisplayNameMSID": "CARD_NAME_366"
+ },
+ {
+  "CharacterID": "DOROBANKO",
+  "DisplayNameMSID": "CARD_NAME_561"
+ },
+ {
+  "CharacterID": "DORYUZU",
+  "DisplayNameMSID": "CARD_NAME_578"
+ },
+ {
+  "CharacterID": "DOSIDON",
+  "DisplayNameMSID": "CARD_NAME_343"
+ },
+ {
+  "CharacterID": "DOTEKKOTSU",
+  "DisplayNameMSID": "CARD_NAME_556"
+ },
+ {
+  "CharacterID": "DOUBLAN",
+  "DisplayNameMSID": "CARD_NAME_962"
+ },
+ {
+  "CharacterID": "DRAMIDORO",
+  "DisplayNameMSID": "CARD_NAME_817"
+ },
+ {
+  "CharacterID": "DRAMIDORO_EX",
+  "DisplayNameMSID": "CARD_NAME_911"
+ },
+ {
+  "CharacterID": "DREDEAR",
+  "DisplayNameMSID": "CARD_NAME_30"
+ },
+ {
+  "CharacterID": "DUGTRIO",
+  "DisplayNameMSID": "CARD_NAME_140"
+ },
+ {
+  "CharacterID": "DUMBBER",
+  "DisplayNameMSID": "CARD_NAME_1312"
+ },
+ {
+  "CharacterID": "DURALUDON",
+  "DisplayNameMSID": "CARD_NAME_1316"
+ },
+ {
+  "CharacterID": "DUSTDAS",
+  "DisplayNameMSID": "CARD_NAME_573"
+ },
+ {
+  "CharacterID": "EBIWALAR",
+  "DisplayNameMSID": "CARD_NAME_155"
+ },
+ {
+  "CharacterID": "EBIWALAR_EX",
+  "DisplayNameMSID": "CARD_NAME_897"
+ },
+ {
+  "CharacterID": "EIEVUI",
+  "DisplayNameMSID": "CARD_NAME_206"
+ },
+ {
+  "CharacterID": "EIEVUI_EX",
+  "DisplayNameMSID": "CARD_NAME_685"
+ },
+ {
+  "CharacterID": "EIFIE",
+  "DisplayNameMSID": "CARD_NAME_679"
+ },
+ {
+  "CharacterID": "EIFIE_EX",
+  "DisplayNameMSID": "CARD_NAME_740"
+ },
+ {
+  "CharacterID": "EIPAM",
+  "DisplayNameMSID": "CARD_NAME_386"
+ },
+ {
+  "CharacterID": "ELEBOO",
+  "DisplayNameMSID": "CARD_NAME_101"
+ },
+ {
+  "CharacterID": "ELECTRICGENERATOR",
+  "DisplayNameMSID": "CARD_NAME_1125"
+ },
+ {
+  "CharacterID": "ELEKIBLE",
+  "DisplayNameMSID": "CARD_NAME_322"
+ },
+ {
+  "CharacterID": "ELEKID",
+  "DisplayNameMSID": "CARD_NAME_733"
+ },
+ {
+  "CharacterID": "ELESON",
+  "DisplayNameMSID": "CARD_NAME_1003"
+ },
+ {
+  "CharacterID": "ELEZARD",
+  "DisplayNameMSID": "CARD_NAME_111"
+ },
+ {
+  "CharacterID": "ELFUUN",
+  "DisplayNameMSID": "CARD_NAME_28"
+ },
+ {
+  "CharacterID": "ELFUUN_EX",
+  "DisplayNameMSID": "CARD_NAME_845"
+ },
+ {
+  "CharacterID": "EMOLGA",
+  "DisplayNameMSID": "CARD_NAME_639"
+ },
+ {
+  "CharacterID": "EMPERTE",
+  "DisplayNameMSID": "CARD_NAME_309"
+ },
+ {
+  "CharacterID": "EMRIT",
+  "DisplayNameMSID": "CARD_NAME_339"
+ },
+ {
+  "CharacterID": "ENBUOH",
+  "DisplayNameMSID": "CARD_NAME_1165"
+ },
+ {
+  "CharacterID": "ENECO",
+  "DisplayNameMSID": "CARD_NAME_587"
+ },
+ {
+  "CharacterID": "ENEKORORO",
+  "DisplayNameMSID": "CARD_NAME_588"
+ },
+ {
+  "CharacterID": "ENNEWT",
+  "DisplayNameMSID": "CARD_NAME_50"
+ },
+ {
+  "CharacterID": "ENTEI",
+  "DisplayNameMSID": "CARD_NAME_708"
+ },
+ {
+  "CharacterID": "ENTEI_EX",
+  "DisplayNameMSID": "CARD_NAME_791"
+ },
+ {
+  "CharacterID": "EREKIKORD",
+  "DisplayNameMSID": "CARD_NAME_664"
+ },
+ {
+  "CharacterID": "EREMENTARUTSUKEKAE",
+  "DisplayNameMSID": "CARD_NAME_773"
+ },
+ {
+  "CharacterID": "ERIAZERO",
+  "DisplayNameMSID": "CARD_NAME_1257"
+ },
+ {
+  "CharacterID": "ERIKA",
+  "DisplayNameMSID": "CARD_NAME_217"
+ },
+ {
+  "CharacterID": "ERIKITERU",
+  "DisplayNameMSID": "CARD_NAME_110"
+ },
+ {
+  "CharacterID": "ERUREIDO",
+  "DisplayNameMSID": "CARD_NAME_1191"
+ },
+ {
+  "CharacterID": "ERUREIDO_EX",
+  "DisplayNameMSID": "CARD_NAME_355"
+ },
+ {
+  "CharacterID": "ETEBOTH",
+  "DisplayNameMSID": "CARD_NAME_387"
+ },
+ {
+  "CharacterID": "EXLEG",
+  "DisplayNameMSID": "CARD_NAME_1115"
+ },
+ {
+  "CharacterID": "FIARROW",
+  "DisplayNameMSID": "CARD_NAME_507"
+ },
+ {
+  "CharacterID": "FIELDBLOWER",
+  "DisplayNameMSID": "CARD_NAME_1210"
+ },
+ {
+  "CharacterID": "FIRE",
+  "DisplayNameMSID": "CARD_NAME_46"
+ },
+ {
+  "CharacterID": "FIRE_EX",
+  "DisplayNameMSID": "CARD_NAME_47"
+ },
+ {
+  "CharacterID": "FISHER",
+  "DisplayNameMSID": "CARD_NAME_781"
+ },
+ {
+  "CharacterID": "FLABEBE",
+  "DisplayNameMSID": "CARD_NAME_256"
+ },
+ {
+  "CharacterID": "FLOAZEL",
+  "DisplayNameMSID": "CARD_NAME_311"
+ },
+ {
+  "CharacterID": "FLOETTE",
+  "DisplayNameMSID": "CARD_NAME_257"
+ },
+ {
+  "CharacterID": "FLORGES",
+  "DisplayNameMSID": "CARD_NAME_258"
+ },
+ {
+  "CharacterID": "FLYGON_EX",
+  "DisplayNameMSID": "CARD_NAME_1207"
+ },
+ {
+  "CharacterID": "FOKKO",
+  "DisplayNameMSID": "CARD_NAME_1345"
+ },
+ {
+  "CharacterID": "FOODIN",
+  "DisplayNameMSID": "CARD_NAME_117"
+ },
+ {
+  "CharacterID": "FORETOS",
+  "DisplayNameMSID": "CARD_NAME_756"
+ },
+ {
+  "CharacterID": "FREEGEO",
+  "DisplayNameMSID": "CARD_NAME_799"
+ },
+ {
+  "CharacterID": "FREEZER",
+  "DisplayNameMSID": "CARD_NAME_83"
+ },
+ {
+  "CharacterID": "FREEZER_EX",
+  "DisplayNameMSID": "CARD_NAME_84"
+ },
+ {
+  "CharacterID": "FREFUWAN",
+  "DisplayNameMSID": "CARD_NAME_895"
+ },
+ {
+  "CharacterID": "FROST ROTOM",
+  "DisplayNameMSID": "CARD_NAME_318"
+ },
+ {
+  "CharacterID": "FUKAMARU",
+  "DisplayNameMSID": "CARD_NAME_380"
+ },
+ {
+  "CharacterID": "FUKUTHROW",
+  "DisplayNameMSID": "CARD_NAME_493"
+ },
+ {
+  "CharacterID": "FUREIMUPACCHI",
+  "DisplayNameMSID": "CARD_NAME_941"
+ },
+ {
+  "CharacterID": "FUSHIDE",
+  "DisplayNameMSID": "CARD_NAME_266"
+ },
+ {
+  "CharacterID": "FUSHIGIBANA",
+  "DisplayNameMSID": "CARD_NAME_3"
+ },
+ {
+  "CharacterID": "FUSHIGIBANA_EX",
+  "DisplayNameMSID": "CARD_NAME_4"
+ },
+ {
+  "CharacterID": "FUSHIGIDANE",
+  "DisplayNameMSID": "CARD_NAME_1"
+ },
+ {
+  "CharacterID": "FUSHIGINAAME",
+  "DisplayNameMSID": "CARD_NAME_602"
+ },
+ {
+  "CharacterID": "FUSHIGINAHIROBA",
+  "DisplayNameMSID": "CARD_NAME_1062"
+ },
+ {
+  "CharacterID": "FUSHIGISOU",
+  "DisplayNameMSID": "CARD_NAME_2"
+ },
+ {
+  "CharacterID": "FUTACHIMARU",
+  "DisplayNameMSID": "CARD_NAME_1298"
+ },
+ {
+  "CharacterID": "FUTANOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_940"
+ },
+ {
+  "CharacterID": "FUTUHAKASE",
+  "DisplayNameMSID": "CARD_NAME_1256"
+ },
+ {
+  "CharacterID": "FUWANTE",
+  "DisplayNameMSID": "CARD_NAME_336"
+ },
+ {
+  "CharacterID": "FUWARIDE",
+  "DisplayNameMSID": "CARD_NAME_337"
+ },
+ {
+  "CharacterID": "GABITE",
+  "DisplayNameMSID": "CARD_NAME_381"
+ },
+ {
+  "CharacterID": "GABURIAS",
+  "DisplayNameMSID": "CARD_NAME_382"
+ },
+ {
+  "CharacterID": "GABURIAS_EX",
+  "DisplayNameMSID": "CARD_NAME_438"
+ },
+ {
+  "CharacterID": "GACHIGORAS",
+  "DisplayNameMSID": "CARD_NAME_1021"
+ },
+ {
+  "CharacterID": "GACHIGUMA",
+  "DisplayNameMSID": "CARD_NAME_1274"
+ },
+ {
+  "CharacterID": "GAKEGANI",
+  "DisplayNameMSID": "CARD_NAME_1111"
+ },
+ {
+  "CharacterID": "GALARBARRIERD",
+  "DisplayNameMSID": "CARD_NAME_991"
+ },
+ {
+  "CharacterID": "GALARBARRIKOHRU",
+  "DisplayNameMSID": "CARD_NAME_992"
+ },
+ {
+  "CharacterID": "GALARGALLOP",
+  "DisplayNameMSID": "CARD_NAME_1008"
+ },
+ {
+  "CharacterID": "GALARJIGUZAGUMA",
+  "DisplayNameMSID": "CARD_NAME_1025"
+ },
+ {
+  "CharacterID": "GALARMAGGYO",
+  "DisplayNameMSID": "CARD_NAME_1035"
+ },
+ {
+  "CharacterID": "GALARMASSUGUMA",
+  "DisplayNameMSID": "CARD_NAME_1026"
+ },
+ {
+  "CharacterID": "GALARNYAIKING",
+  "DisplayNameMSID": "CARD_NAME_1033"
+ },
+ {
+  "CharacterID": "GALARNYARTH",
+  "DisplayNameMSID": "CARD_NAME_1032"
+ },
+ {
+  "CharacterID": "GALARPONYTA",
+  "DisplayNameMSID": "CARD_NAME_1007"
+ },
+ {
+  "CharacterID": "GALARSUNIGOON",
+  "DisplayNameMSID": "CARD_NAME_806"
+ },
+ {
+  "CharacterID": "GALARSUNNYGO",
+  "DisplayNameMSID": "CARD_NAME_805"
+ },
+ {
+  "CharacterID": "GALARTACHIFUSAGUMA",
+  "DisplayNameMSID": "CARD_NAME_1027"
+ },
+ {
+  "CharacterID": "GALLOP",
+  "DisplayNameMSID": "CARD_NAME_43"
+ },
+ {
+  "CharacterID": "GALLOP_EX",
+  "DisplayNameMSID": "CARD_NAME_850"
+ },
+ {
+  "CharacterID": "GAMAGARU",
+  "DisplayNameMSID": "CARD_NAME_873"
+ },
+ {
+  "CharacterID": "GAMAGEROGE",
+  "DisplayNameMSID": "CARD_NAME_874"
+ },
+ {
+  "CharacterID": "GAMALE",
+  "DisplayNameMSID": "CARD_NAME_412"
+ },
+ {
+  "CharacterID": "GAMECENTER",
+  "DisplayNameMSID": "CARD_NAME_1389"
+ },
+ {
+  "CharacterID": "GAMENODES",
+  "DisplayNameMSID": "CARD_NAME_750"
+ },
+ {
+  "CharacterID": "GANGAR",
+  "DisplayNameMSID": "CARD_NAME_122"
+ },
+ {
+  "CharacterID": "GANGAR_EX",
+  "DisplayNameMSID": "CARD_NAME_123"
+ },
+ {
+  "CharacterID": "GANTLE",
+  "DisplayNameMSID": "CARD_NAME_1018"
+ },
+ {
+  "CharacterID": "GAOGAEN",
+  "DisplayNameMSID": "CARD_NAME_674"
+ },
+ {
+  "CharacterID": "GAOGAEN_EX",
+  "DisplayNameMSID": "CARD_NAME_510"
+ },
+ {
+  "CharacterID": "GARAGARA",
+  "DisplayNameMSID": "CARD_NAME_152"
+ },
+ {
+  "CharacterID": "GARAGARA_EX",
+  "DisplayNameMSID": "CARD_NAME_153"
+ },
+ {
+  "CharacterID": "GARDIE",
+  "DisplayNameMSID": "CARD_NAME_39"
+ },
+ {
+  "CharacterID": "GARURA",
+  "DisplayNameMSID": "CARD_NAME_203"
+ },
+ {
+  "CharacterID": "GEKKOUGA",
+  "DisplayNameMSID": "CARD_NAME_89"
+ },
+ {
+  "CharacterID": "GEKKOUGA_EX",
+  "DisplayNameMSID": "CARD_NAME_878"
+ },
+ {
+  "CharacterID": "GEKOGASHIRA",
+  "DisplayNameMSID": "CARD_NAME_88"
+ },
+ {
+  "CharacterID": "GENESECT",
+  "DisplayNameMSID": "CARD_NAME_953"
+ },
+ {
+  "CharacterID": "GHOS",
+  "DisplayNameMSID": "CARD_NAME_120"
+ },
+ {
+  "CharacterID": "GHOST",
+  "DisplayNameMSID": "CARD_NAME_121"
+ },
+ {
+  "CharacterID": "GIARU",
+  "DisplayNameMSID": "CARD_NAME_760"
+ },
+ {
+  "CharacterID": "GIGAIATH_EX",
+  "DisplayNameMSID": "CARD_NAME_1019"
+ },
+ {
+  "CharacterID": "GIGIARU",
+  "DisplayNameMSID": "CARD_NAME_761"
+ },
+ {
+  "CharacterID": "GIGIGIARU",
+  "DisplayNameMSID": "CARD_NAME_762"
+ },
+ {
+  "CharacterID": "GILLGARD",
+  "DisplayNameMSID": "CARD_NAME_918"
+ },
+ {
+  "CharacterID": "GIMOH",
+  "DisplayNameMSID": "CARD_NAME_913"
+ },
+ {
+  "CharacterID": "GINGADANNOSHITAPPA",
+  "DisplayNameMSID": "CARD_NAME_406"
+ },
+ {
+  "CharacterID": "GIRATINA",
+  "DisplayNameMSID": "CARD_NAME_341"
+ },
+ {
+  "CharacterID": "GIRATINA_EX",
+  "DisplayNameMSID": "CARD_NAME_465"
+ },
+ {
+  "CharacterID": "GLACIA",
+  "DisplayNameMSID": "CARD_NAME_316"
+ },
+ {
+  "CharacterID": "GLACIA_EX",
+  "DisplayNameMSID": "CARD_NAME_424"
+ },
+ {
+  "CharacterID": "GLANTH",
+  "DisplayNameMSID": "CARD_NAME_810"
+ },
+ {
+  "CharacterID": "GLAZIO",
+  "DisplayNameMSID": "CARD_NAME_666"
+ },
+ {
+  "CharacterID": "GLIGER",
+  "DisplayNameMSID": "CARD_NAME_344"
+ },
+ {
+  "CharacterID": "GLION",
+  "DisplayNameMSID": "CARD_NAME_345"
+ },
+ {
+  "CharacterID": "GOBIT",
+  "DisplayNameMSID": "CARD_NAME_135"
+ },
+ {
+  "CharacterID": "GOGOAT",
+  "DisplayNameMSID": "CARD_NAME_32"
+ },
+ {
+  "CharacterID": "GOKULIN",
+  "DisplayNameMSID": "CARD_NAME_1309"
+ },
+ {
+  "CharacterID": "GOLBAT",
+  "DisplayNameMSID": "CARD_NAME_173"
+ },
+ {
+  "CharacterID": "GOLDUCK",
+  "DisplayNameMSID": "CARD_NAME_58"
+ },
+ {
+  "CharacterID": "GOLONE",
+  "DisplayNameMSID": "CARD_NAME_148"
+ },
+ {
+  "CharacterID": "GOLONYA",
+  "DisplayNameMSID": "CARD_NAME_149"
+ },
+ {
+  "CharacterID": "GOLOOG",
+  "DisplayNameMSID": "CARD_NAME_136"
+ },
+ {
+  "CharacterID": "GOMAZOU",
+  "DisplayNameMSID": "CARD_NAME_431"
+ },
+ {
+  "CharacterID": "GONBE",
+  "DisplayNameMSID": "CARD_NAME_1273"
+ },
+ {
+  "CharacterID": "GONYONYO",
+  "DisplayNameMSID": "CARD_NAME_927"
+ },
+ {
+  "CharacterID": "GORIKY",
+  "DisplayNameMSID": "CARD_NAME_144"
+ },
+ {
+  "CharacterID": "GORIRANDER",
+  "DisplayNameMSID": "CARD_NAME_849"
+ },
+ {
+  "CharacterID": "GORONDA",
+  "DisplayNameMSID": "CARD_NAME_910"
+ },
+ {
+  "CharacterID": "GOTHIMIRU",
+  "DisplayNameMSID": "CARD_NAME_892"
+ },
+ {
+  "CharacterID": "GOTHIMU",
+  "DisplayNameMSID": "CARD_NAME_891"
+ },
+ {
+  "CharacterID": "GOTHIRUSELLE",
+  "DisplayNameMSID": "CARD_NAME_893"
+ },
+ {
+  "CharacterID": "GOTSUGOTSUMETTO",
+  "DisplayNameMSID": "CARD_NAME_403"
+ },
+ {
+  "CharacterID": "GOUKAZARU_EX",
+  "DisplayNameMSID": "CARD_NAME_301"
+ },
+ {
+  "CharacterID": "GOURTON",
+  "DisplayNameMSID": "CARD_NAME_1122"
+ },
+ {
+  "CharacterID": "GOUTETUNOMAEKAKE",
+  "DisplayNameMSID": "CARD_NAME_775"
+ },
+ {
+  "CharacterID": "GRAENA",
+  "DisplayNameMSID": "CARD_NAME_361"
+ },
+ {
+  "CharacterID": "GRANBULU",
+  "DisplayNameMSID": "CARD_NAME_744"
+ },
+ {
+  "CharacterID": "GREEN",
+  "DisplayNameMSID": "CARD_NAME_275"
+ },
+ {
+  "CharacterID": "GROUDON",
+  "DisplayNameMSID": "CARD_NAME_1138"
+ },
+ {
+  "CharacterID": "GUREGGRU",
+  "DisplayNameMSID": "CARD_NAME_367"
+ },
+ {
+  "CharacterID": "GURENARMA_EX",
+  "DisplayNameMSID": "CARD_NAME_1081"
+ },
+ {
+  "CharacterID": "GUSOKUMUSHA",
+  "DisplayNameMSID": "CARD_NAME_502"
+ },
+ {
+  "CharacterID": "GUZUMA",
+  "DisplayNameMSID": "CARD_NAME_609"
+ },
+ {
+  "CharacterID": "GYARADOS",
+  "DisplayNameMSID": "CARD_NAME_78"
+ },
+ {
+  "CharacterID": "GYARADOS_EX",
+  "DisplayNameMSID": "CARD_NAME_243"
+ },
+ {
+  "CharacterID": "HABATAKUKAMI",
+  "DisplayNameMSID": "CARD_NAME_1269"
+ },
+ {
+  "CharacterID": "HABATAKUKAMI_EX",
+  "DisplayNameMSID": "CARD_NAME_1227"
+ },
+ {
+  "CharacterID": "HABUNAKE",
+  "DisplayNameMSID": "CARD_NAME_813"
+ },
+ {
+  "CharacterID": "HAGANEIL",
+  "DisplayNameMSID": "CARD_NAME_757"
+ },
+ {
+  "CharacterID": "HAGIGISHIRI",
+  "DisplayNameMSID": "CARD_NAME_91"
+ },
+ {
+  "CharacterID": "HAHAKOMORI",
+  "DisplayNameMSID": "CARD_NAME_1156"
+ },
+ {
+  "CharacterID": "HAIKINGUCOURSE",
+  "DisplayNameMSID": "CARD_NAME_1148"
+ },
+ {
+  "CharacterID": "HAJIMARINOHEIGEN",
+  "DisplayNameMSID": "CARD_NAME_1061"
+ },
+ {
+  "CharacterID": "HAKADOG",
+  "DisplayNameMSID": "CARD_NAME_1107"
+ },
+ {
+  "CharacterID": "HAKASENOKENKYU",
+  "DisplayNameMSID": "CARD_NAME_229"
+ },
+ {
+  "CharacterID": "HAKURYU",
+  "DisplayNameMSID": "CARD_NAME_184"
+ },
+ {
+  "CharacterID": "HALA",
+  "DisplayNameMSID": "CARD_NAME_947"
+ },
+ {
+  "CharacterID": "HANDSCOPE",
+  "DisplayNameMSID": "CARD_NAME_230"
+ },
+ {
+  "CharacterID": "HANDSOME",
+  "DisplayNameMSID": "CARD_NAME_667"
+ },
+ {
+  "CharacterID": "HANECCO",
+  "DisplayNameMSID": "CARD_NAME_696"
+ },
+ {
+  "CharacterID": "HANENOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_939"
+ },
+ {
+  "CharacterID": "HAPPINAS",
+  "DisplayNameMSID": "CARD_NAME_763"
+ },
+ {
+  "CharacterID": "HAPPINAS_EX",
+  "DisplayNameMSID": "CARD_NAME_784"
+ },
+ {
+  "CharacterID": "HAPPINESSEGG",
+  "DisplayNameMSID": "CARD_NAME_1211"
+ },
+ {
+  "CharacterID": "HARABARIE",
+  "DisplayNameMSID": "CARD_NAME_1006"
+ },
+ {
+  "CharacterID": "HARABARIE_EX",
+  "DisplayNameMSID": "CARD_NAME_1096"
+ },
+ {
+  "CharacterID": "HARIBORG",
+  "DisplayNameMSID": "CARD_NAME_975"
+ },
+ {
+  "CharacterID": "HARIMARON",
+  "DisplayNameMSID": "CARD_NAME_974"
+ },
+ {
+  "CharacterID": "HARITEYAMA",
+  "DisplayNameMSID": "CARD_NAME_552"
+ },
+ {
+  "CharacterID": "HARUKA",
+  "DisplayNameMSID": "CARD_NAME_948"
+ },
+ {
+  "CharacterID": "HARYSEN",
+  "DisplayNameMSID": "CARD_NAME_719"
+ },
+ {
+  "CharacterID": "HASSAM",
+  "DisplayNameMSID": "CARD_NAME_758"
+ },
+ {
+  "CharacterID": "HASSBOH",
+  "DisplayNameMSID": "CARD_NAME_864"
+ },
+ {
+  "CharacterID": "HASUBRERO",
+  "DisplayNameMSID": "CARD_NAME_865"
+ },
+ {
+  "CharacterID": "HATOBOH",
+  "DisplayNameMSID": "CARD_NAME_1325"
+ },
+ {
+  "CharacterID": "HAU",
+  "DisplayNameMSID": "CARD_NAME_689"
+ },
+ {
+  "CharacterID": "HAYASHIGAME",
+  "DisplayNameMSID": "CARD_NAME_284"
+ },
+ {
+  "CharacterID": "HEAT ROTOM",
+  "DisplayNameMSID": "CARD_NAME_302"
+ },
+ {
+  "CharacterID": "HEATRAN",
+  "DisplayNameMSID": "CARD_NAME_379"
+ },
+ {
+  "CharacterID": "HEIGANI",
+  "DisplayNameMSID": "CARD_NAME_725"
+ },
+ {
+  "CharacterID": "HELLGAR",
+  "DisplayNameMSID": "CARD_NAME_417"
+ },
+ {
+  "CharacterID": "HERACROS",
+  "DisplayNameMSID": "CARD_NAME_411"
+ },
+ {
+  "CharacterID": "HERDERRIE",
+  "DisplayNameMSID": "CARD_NAME_657"
+ },
+ {
+  "CharacterID": "HEYRUSHER",
+  "DisplayNameMSID": "CARD_NAME_461"
+ },
+ {
+  "CharacterID": "HIBANNY",
+  "DisplayNameMSID": "CARD_NAME_986"
+ },
+ {
+  "CharacterID": "HIDOIDE",
+  "DisplayNameMSID": "CARD_NAME_574"
+ },
+ {
+  "CharacterID": "HIHIDARUMA",
+  "DisplayNameMSID": "CARD_NAME_711"
+ },
+ {
+  "CharacterID": "HIKARI",
+  "DisplayNameMSID": "CARD_NAME_409"
+ },
+ {
+  "CharacterID": "HIKER",
+  "DisplayNameMSID": "CARD_NAME_783"
+ },
+ {
+  "CharacterID": "HIKOZARU",
+  "DisplayNameMSID": "CARD_NAME_299"
+ },
+ {
+  "CharacterID": "HIMANUTS",
+  "DisplayNameMSID": "CARD_NAME_699"
+ },
+ {
+  "CharacterID": "HIMEGUMA",
+  "DisplayNameMSID": "CARD_NAME_767"
+ },
+ {
+  "CharacterID": "HIMENKA",
+  "DisplayNameMSID": "CARD_NAME_981"
+ },
+ {
+  "CharacterID": "HIMITSUNOKOHAKU",
+  "DisplayNameMSID": "CARD_NAME_216"
+ },
+ {
+  "CharacterID": "HINBASS",
+  "DisplayNameMSID": "CARD_NAME_792"
+ },
+ {
+  "CharacterID": "HINOARASHI",
+  "DisplayNameMSID": "CARD_NAME_704"
+ },
+ {
+  "CharacterID": "HINOYAKOMA",
+  "DisplayNameMSID": "CARD_NAME_506"
+ },
+ {
+  "CharacterID": "HIPPOPOTAS",
+  "DisplayNameMSID": "CARD_NAME_353"
+ },
+ {
+  "CharacterID": "HIRAHINA",
+  "DisplayNameMSID": "CARD_NAME_1104"
+ },
+ {
+  "CharacterID": "HIRENOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_1053"
+ },
+ {
+  "CharacterID": "HISUIBASSRAO",
+  "DisplayNameMSID": "CARD_NAME_1354"
+ },
+ {
+  "CharacterID": "HISUIDREDEAR",
+  "DisplayNameMSID": "CARD_NAME_1263"
+ },
+ {
+  "CharacterID": "HISUIIDAITOU",
+  "DisplayNameMSID": "CARD_NAME_1355"
+ },
+ {
+  "CharacterID": "HISUINUMEIL",
+  "DisplayNameMSID": "CARD_NAME_1271"
+ },
+ {
+  "CharacterID": "HISUINUMELGON",
+  "DisplayNameMSID": "CARD_NAME_1272"
+ },
+ {
+  "CharacterID": "HISUIZOROARK_EX",
+  "DisplayNameMSID": "CARD_NAME_1275"
+ },
+ {
+  "CharacterID": "HISUIZORUA",
+  "DisplayNameMSID": "CARD_NAME_1262"
+ },
+ {
+  "CharacterID": "HITHAMMER",
+  "DisplayNameMSID": "CARD_NAME_942"
+ },
+ {
+  "CharacterID": "HITODEMAN",
+  "DisplayNameMSID": "CARD_NAME_74"
+ },
+ {
+  "CharacterID": "HITOKAGE",
+  "DisplayNameMSID": "CARD_NAME_33"
+ },
+ {
+  "CharacterID": "HITOMOSHI",
+  "DisplayNameMSID": "CARD_NAME_858"
+ },
+ {
+  "CharacterID": "HITOTSUKI",
+  "DisplayNameMSID": "CARD_NAME_916"
+ },
+ {
+  "CharacterID": "HIYAKKIE",
+  "DisplayNameMSID": "CARD_NAME_871"
+ },
+ {
+  "CharacterID": "HIYAPPU",
+  "DisplayNameMSID": "CARD_NAME_870"
+ },
+ {
+  "CharacterID": "HOERUKO",
+  "DisplayNameMSID": "CARD_NAME_867"
+ },
+ {
+  "CharacterID": "HOGATOR",
+  "DisplayNameMSID": "CARD_NAME_1077"
+ },
+ {
+  "CharacterID": "HOHO",
+  "DisplayNameMSID": "CARD_NAME_442"
+ },
+ {
+  "CharacterID": "HOOPA",
+  "DisplayNameMSID": "CARD_NAME_1305"
+ },
+ {
+  "CharacterID": "HOOPA_EX",
+  "DisplayNameMSID": "CARD_NAME_1311"
+ },
+ {
+  "CharacterID": "HORUBEE",
+  "DisplayNameMSID": "CARD_NAME_1047"
+ },
+ {
+  "CharacterID": "HORUDO",
+  "DisplayNameMSID": "CARD_NAME_1048"
+ },
+ {
+  "CharacterID": "HOSHIGARISU",
+  "DisplayNameMSID": "CARD_NAME_632"
+ },
+ {
+  "CharacterID": "HOUOU",
+  "DisplayNameMSID": "CARD_NAME_851"
+ },
+ {
+  "CharacterID": "HOUOU_EX",
+  "DisplayNameMSID": "CARD_NAME_709"
+ },
+ {
+  "CharacterID": "HULKUJIRA",
+  "DisplayNameMSID": "CARD_NAME_1090"
+ },
+ {
+  "CharacterID": "HUNTAIL",
+  "DisplayNameMSID": "CARD_NAME_1170"
+ },
+ {
+  "CharacterID": "HUURO",
+  "DisplayNameMSID": "CARD_NAME_1335"
+ },
+ {
+  "CharacterID": "IDAINAKIBA",
+  "DisplayNameMSID": "CARD_NAME_1235"
+ },
+ {
+  "CharacterID": "IIBUINOBAKKU",
+  "DisplayNameMSID": "CARD_NAME_687"
+ },
+ {
+  "CharacterID": "IJIWARULETTER",
+  "DisplayNameMSID": "CARD_NAME_1144"
+ },
+ {
+  "CharacterID": "IKIRINKO",
+  "DisplayNameMSID": "CARD_NAME_1124"
+ },
+ {
+  "CharacterID": "IKKANEZUMI",
+  "DisplayNameMSID": "CARD_NAME_1050"
+ },
+ {
+  "CharacterID": "ILIMA",
+  "DisplayNameMSID": "CARD_NAME_607"
+ },
+ {
+  "CharacterID": "ILLUMISE",
+  "DisplayNameMSID": "CARD_NAME_1134"
+ },
+ {
+  "CharacterID": "INCHIKIBARI",
+  "DisplayNameMSID": "CARD_NAME_1331"
+ },
+ {
+  "CharacterID": "INISHIENOTOUGIJYOU",
+  "DisplayNameMSID": "CARD_NAME_1217"
+ },
+ {
+  "CharacterID": "INOMOO",
+  "DisplayNameMSID": "CARD_NAME_304"
+ },
+ {
+  "CharacterID": "INTEREON",
+  "DisplayNameMSID": "CARD_NAME_1176"
+ },
+ {
+  "CharacterID": "IRIS",
+  "DisplayNameMSID": "CARD_NAME_1146"
+ },
+ {
+  "CharacterID": "IRUKAMAN",
+  "DisplayNameMSID": "CARD_NAME_1088"
+ },
+ {
+  "CharacterID": "ISHIHENGIN",
+  "DisplayNameMSID": "CARD_NAME_263"
+ },
+ {
+  "CharacterID": "ISHIZUMAI",
+  "DisplayNameMSID": "CARD_NAME_811"
+ },
+ {
+  "CharacterID": "ISITSUBUTE",
+  "DisplayNameMSID": "CARD_NAME_147"
+ },
+ {
+  "CharacterID": "ITAZURAROULETTE",
+  "DisplayNameMSID": "CARD_NAME_938"
+ },
+ {
+  "CharacterID": "ITOMARU",
+  "DisplayNameMSID": "CARD_NAME_752"
+ },
+ {
+  "CharacterID": "ITSUKI",
+  "DisplayNameMSID": "CARD_NAME_778"
+ },
+ {
+  "CharacterID": "IWANKO",
+  "DisplayNameMSID": "CARD_NAME_559"
+ },
+ {
+  "CharacterID": "IWAPALACE",
+  "DisplayNameMSID": "CARD_NAME_812"
+ },
+ {
+  "CharacterID": "IWAPALACE_EX",
+  "DisplayNameMSID": "CARD_NAME_1194"
+ },
+ {
+  "CharacterID": "IWARK",
+  "DisplayNameMSID": "CARD_NAME_150"
+ },
+ {
+  "CharacterID": "IYASHINOUMIBE",
+  "DisplayNameMSID": "CARD_NAME_1337"
+ },
+ {
+  "CharacterID": "JAGURA",
+  "DisplayNameMSID": "CARD_NAME_1058"
+ },
+ {
+  "CharacterID": "JALORDA",
+  "DisplayNameMSID": "CARD_NAME_237"
+ },
+ {
+  "CharacterID": "JANOVY",
+  "DisplayNameMSID": "CARD_NAME_236"
+ },
+ {
+  "CharacterID": "JIBACOIL",
+  "DisplayNameMSID": "CARD_NAME_321"
+ },
+ {
+  "CharacterID": "JIBACOIL_EX",
+  "DisplayNameMSID": "CARD_NAME_1178"
+ },
+ {
+  "CharacterID": "JIGUZAGUMA",
+  "DisplayNameMSID": "CARD_NAME_925"
+ },
+ {
+  "CharacterID": "JIJILONG",
+  "DisplayNameMSID": "CARD_NAME_583"
+ },
+ {
+  "CharacterID": "JIMEREON",
+  "DisplayNameMSID": "CARD_NAME_1175"
+ },
+ {
+  "CharacterID": "JIODUMU",
+  "DisplayNameMSID": "CARD_NAME_1233"
+ },
+ {
+  "CharacterID": "JIRACHI",
+  "DisplayNameMSID": "CARD_NAME_887"
+ },
+ {
+  "CharacterID": "JUGON",
+  "DisplayNameMSID": "CARD_NAME_65"
+ },
+ {
+  "CharacterID": "JUKAIN",
+  "DisplayNameMSID": "CARD_NAME_1151"
+ },
+ {
+  "CharacterID": "JUN",
+  "DisplayNameMSID": "CARD_NAME_448"
+ },
+ {
+  "CharacterID": "JUNAIPER",
+  "DisplayNameMSID": "CARD_NAME_633"
+ },
+ {
+  "CharacterID": "JUNAIPER_EX",
+  "DisplayNameMSID": "CARD_NAME_494"
+ },
+ {
+  "CharacterID": "JUPPETA",
+  "DisplayNameMSID": "CARD_NAME_539"
+ },
+ {
+  "CharacterID": "JUPTILE",
+  "DisplayNameMSID": "CARD_NAME_1150"
+ },
+ {
+  "CharacterID": "JYARAKO",
+  "DisplayNameMSID": "CARD_NAME_584"
+ },
+ {
+  "CharacterID": "JYARANGO",
+  "DisplayNameMSID": "CARD_NAME_585"
+ },
+ {
+  "CharacterID": "JYARARANGA",
+  "DisplayNameMSID": "CARD_NAME_586"
+ },
+ {
+  "CharacterID": "KABALDON",
+  "DisplayNameMSID": "CARD_NAME_354"
+ },
+ {
+  "CharacterID": "KABIGON",
+  "DisplayNameMSID": "CARD_NAME_209"
+ },
+ {
+  "CharacterID": "KABIGON_EX",
+  "DisplayNameMSID": "CARD_NAME_686"
+ },
+ {
+  "CharacterID": "KABURUMO",
+  "DisplayNameMSID": "CARD_NAME_489"
+ },
+ {
+  "CharacterID": "KABUTO",
+  "DisplayNameMSID": "CARD_NAME_158"
+ },
+ {
+  "CharacterID": "KABUTOPS",
+  "DisplayNameMSID": "CARD_NAME_159"
+ },
+ {
+  "CharacterID": "KACHIKOHRU",
+  "DisplayNameMSID": "CARD_NAME_879"
+ },
+ {
+  "CharacterID": "KAENJISHI",
+  "DisplayNameMSID": "CARD_NAME_862"
+ },
+ {
+  "CharacterID": "KAGEBOUZU",
+  "DisplayNameMSID": "CARD_NAME_538"
+ },
+ {
+  "CharacterID": "KAI",
+  "DisplayNameMSID": "CARD_NAME_446"
+ },
+ {
+  "CharacterID": "KAIDEN",
+  "DisplayNameMSID": "CARD_NAME_1097"
+ },
+ {
+  "CharacterID": "KAILIOS",
+  "DisplayNameMSID": "CARD_NAME_26"
+ },
+ {
+  "CharacterID": "KAINOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_214"
+ },
+ {
+  "CharacterID": "KAIRIKY",
+  "DisplayNameMSID": "CARD_NAME_145"
+ },
+ {
+  "CharacterID": "KAIRIKY_EX",
+  "DisplayNameMSID": "CARD_NAME_146"
+ },
+ {
+  "CharacterID": "KAIRYU",
+  "DisplayNameMSID": "CARD_NAME_185"
+ },
+ {
+  "CharacterID": "KAIRYU_EX",
+  "DisplayNameMSID": "CARD_NAME_684"
+ },
+ {
+  "CharacterID": "KAJICCHU",
+  "DisplayNameMSID": "CARD_NAME_670"
+ },
+ {
+  "CharacterID": "KAJIRIGAME",
+  "DisplayNameMSID": "CARD_NAME_247"
+ },
+ {
+  "CharacterID": "KAKEDASHICHOSAIN",
+  "DisplayNameMSID": "CARD_NAME_274"
+ },
+ {
+  "CharacterID": "KAKI",
+  "DisplayNameMSID": "CARD_NAME_608"
+ },
+ {
+  "CharacterID": "KAKUREON",
+  "DisplayNameMSID": "CARD_NAME_1323"
+ },
+ {
+  "CharacterID": "KAMASUJAW",
+  "DisplayNameMSID": "CARD_NAME_882"
+ },
+ {
+  "CharacterID": "KAMEIL",
+  "DisplayNameMSID": "CARD_NAME_54"
+ },
+ {
+  "CharacterID": "KAMETETE",
+  "DisplayNameMSID": "CARD_NAME_749"
+ },
+ {
+  "CharacterID": "KAMEX",
+  "DisplayNameMSID": "CARD_NAME_55"
+ },
+ {
+  "CharacterID": "KAMEX_EX",
+  "DisplayNameMSID": "CARD_NAME_56"
+ },
+ {
+  "CharacterID": "KAMICCHU",
+  "DisplayNameMSID": "CARD_NAME_1321"
+ },
+ {
+  "CharacterID": "KAMITSUOROCHI",
+  "DisplayNameMSID": "CARD_NAME_1322"
+ },
+ {
+  "CharacterID": "KAMITSURE",
+  "DisplayNameMSID": "CARD_NAME_1278"
+ },
+ {
+  "CharacterID": "KAMITURUGI",
+  "DisplayNameMSID": "CARD_NAME_617"
+ },
+ {
+  "CharacterID": "KAMONEGI",
+  "DisplayNameMSID": "CARD_NAME_198"
+ },
+ {
+  "CharacterID": "KAMUKAME",
+  "DisplayNameMSID": "CARD_NAME_246"
+ },
+ {
+  "CharacterID": "KANKOUKYAKU",
+  "DisplayNameMSID": "CARD_NAME_1057"
+ },
+ {
+  "CharacterID": "KANNAGITOWNNOTYOUROU",
+  "DisplayNameMSID": "CARD_NAME_447"
+ },
+ {
+  "CharacterID": "KANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_473"
+ },
+ {
+  "CharacterID": "KAPOERER",
+  "DisplayNameMSID": "CARD_NAME_346"
+ },
+ {
+  "CharacterID": "KAPU-BULUL",
+  "DisplayNameMSID": "CARD_NAME_504"
+ },
+ {
+  "CharacterID": "KAPU-KOKEKO",
+  "DisplayNameMSID": "CARD_NAME_533"
+ },
+ {
+  "CharacterID": "KAPU-KOKEKO_EX",
+  "DisplayNameMSID": "CARD_NAME_630"
+ },
+ {
+  "CharacterID": "KAPU-REHIRE",
+  "DisplayNameMSID": "CARD_NAME_525"
+ },
+ {
+  "CharacterID": "KAPU-TETEFU",
+  "DisplayNameMSID": "CARD_NAME_546"
+ },
+ {
+  "CharacterID": "KARAKARA",
+  "DisplayNameMSID": "CARD_NAME_151"
+ },
+ {
+  "CharacterID": "KARAMINGO",
+  "DisplayNameMSID": "CARD_NAME_468"
+ },
+ {
+  "CharacterID": "KARANAKUSHI",
+  "DisplayNameMSID": "CARD_NAME_312"
+ },
+ {
+  "CharacterID": "KARASALIS",
+  "DisplayNameMSID": "CARD_NAME_834"
+ },
+ {
+  "CharacterID": "KARIKIRI",
+  "DisplayNameMSID": "CARD_NAME_496"
+ },
+ {
+  "CharacterID": "KASUMI",
+  "DisplayNameMSID": "CARD_NAME_218"
+ },
+ {
+  "CharacterID": "KATSURA",
+  "DisplayNameMSID": "CARD_NAME_219"
+ },
+ {
+  "CharacterID": "KEIKOUO",
+  "DisplayNameMSID": "CARD_NAME_244"
+ },
+ {
+  "CharacterID": "KEKENKANI",
+  "DisplayNameMSID": "CARD_NAME_902"
+ },
+ {
+  "CharacterID": "KEKENKANI_EX",
+  "DisplayNameMSID": "CARD_NAME_520"
+ },
+ {
+  "CharacterID": "KEKKAINOFIELD",
+  "DisplayNameMSID": "CARD_NAME_1218"
+ },
+ {
+  "CharacterID": "KEKKING",
+  "DisplayNameMSID": "CARD_NAME_1045"
+ },
+ {
+  "CharacterID": "KELDEO",
+  "DisplayNameMSID": "CARD_NAME_877"
+ },
+ {
+  "CharacterID": "KEMUSSO",
+  "DisplayNameMSID": "CARD_NAME_833"
+ },
+ {
+  "CharacterID": "KENHALLOW",
+  "DisplayNameMSID": "CARD_NAME_1326"
+ },
+ {
+  "CharacterID": "KENTAUROS",
+  "DisplayNameMSID": "CARD_NAME_204"
+ },
+ {
+  "CharacterID": "KENTAUROS_EX",
+  "DisplayNameMSID": "CARD_NAME_924"
+ },
+ {
+  "CharacterID": "KERARAPPA",
+  "DisplayNameMSID": "CARD_NAME_592"
+ },
+ {
+  "CharacterID": "KEROMATSU",
+  "DisplayNameMSID": "CARD_NAME_87"
+ },
+ {
+  "CharacterID": "KIBAGO",
+  "DisplayNameMSID": "CARD_NAME_1142"
+ },
+ {
+  "CharacterID": "KIBANHA",
+  "DisplayNameMSID": "CARD_NAME_637"
+ },
+ {
+  "CharacterID": "KIMAWARI",
+  "DisplayNameMSID": "CARD_NAME_700"
+ },
+ {
+  "CharacterID": "KIMORI",
+  "DisplayNameMSID": "CARD_NAME_1149"
+ },
+ {
+  "CharacterID": "KINGDRA_EX",
+  "DisplayNameMSID": "CARD_NAME_713"
+ },
+ {
+  "CharacterID": "KINGLER",
+  "DisplayNameMSID": "CARD_NAME_69"
+ },
+ {
+  "CharacterID": "KINOCOCO",
+  "DisplayNameMSID": "CARD_NAME_841"
+ },
+ {
+  "CharacterID": "KINOGASSA",
+  "DisplayNameMSID": "CARD_NAME_842"
+ },
+ {
+  "CharacterID": "KIRAFLOR",
+  "DisplayNameMSID": "CARD_NAME_1240"
+ },
+ {
+  "CharacterID": "KIRAME",
+  "DisplayNameMSID": "CARD_NAME_1239"
+ },
+ {
+  "CharacterID": "KIREIHANA",
+  "DisplayNameMSID": "CARD_NAME_277"
+ },
+ {
+  "CharacterID": "KIRIKIZAN",
+  "DisplayNameMSID": "CARD_NAME_180"
+ },
+ {
+  "CharacterID": "KIRINRIKI",
+  "DisplayNameMSID": "CARD_NAME_742"
+ },
+ {
+  "CharacterID": "KIRLIA",
+  "DisplayNameMSID": "CARD_NAME_131"
+ },
+ {
+  "CharacterID": "KITERUGUMA",
+  "DisplayNameMSID": "CARD_NAME_597"
+ },
+ {
+  "CharacterID": "KIZUGUSURI",
+  "DisplayNameMSID": "CARD_NAME_226"
+ },
+ {
+  "CharacterID": "KOARUHIE",
+  "DisplayNameMSID": "CARD_NAME_85"
+ },
+ {
+  "CharacterID": "KODOMOBEYA",
+  "DisplayNameMSID": "CARD_NAME_1281"
+ },
+ {
+  "CharacterID": "KODORA",
+  "DisplayNameMSID": "CARD_NAME_652"
+ },
+ {
+  "CharacterID": "KODUCK",
+  "DisplayNameMSID": "CARD_NAME_57"
+ },
+ {
+  "CharacterID": "KOFUKIMUSHI",
+  "DisplayNameMSID": "CARD_NAME_977"
+ },
+ {
+  "CharacterID": "KOFUURAI",
+  "DisplayNameMSID": "CARD_NAME_978"
+ },
+ {
+  "CharacterID": "KOIKING",
+  "DisplayNameMSID": "CARD_NAME_77"
+ },
+ {
+  "CharacterID": "KOINUDAISUKIGARL",
+  "DisplayNameMSID": "CARD_NAME_1279"
+ },
+ {
+  "CharacterID": "KOJIO",
+  "DisplayNameMSID": "CARD_NAME_1232"
+ },
+ {
+  "CharacterID": "KOJOFU",
+  "DisplayNameMSID": "CARD_NAME_160"
+ },
+ {
+  "CharacterID": "KOJONDO",
+  "DisplayNameMSID": "CARD_NAME_161"
+ },
+ {
+  "CharacterID": "KOKOGARA",
+  "DisplayNameMSID": "CARD_NAME_936"
+ },
+ {
+  "CharacterID": "KOKOROMORI",
+  "DisplayNameMSID": "CARD_NAME_134"
+ },
+ {
+  "CharacterID": "KOLINK",
+  "DisplayNameMSID": "CARD_NAME_323"
+ },
+ {
+  "CharacterID": "KOMATANA",
+  "DisplayNameMSID": "CARD_NAME_179"
+ },
+ {
+  "CharacterID": "KOMORUU",
+  "DisplayNameMSID": "CARD_NAME_1037"
+ },
+ {
+  "CharacterID": "KONGPANG",
+  "DisplayNameMSID": "CARD_NAME_16"
+ },
+ {
+  "CharacterID": "KONOHANA",
+  "DisplayNameMSID": "CARD_NAME_839"
+ },
+ {
+  "CharacterID": "KONOYOZARU",
+  "DisplayNameMSID": "CARD_NAME_1108"
+ },
+ {
+  "CharacterID": "KORAIDON",
+  "DisplayNameMSID": "CARD_NAME_1113"
+ },
+ {
+  "CharacterID": "KORAIDON_EX",
+  "DisplayNameMSID": "CARD_NAME_1237"
+ },
+ {
+  "CharacterID": "KORATTA",
+  "DisplayNameMSID": "CARD_NAME_189"
+ },
+ {
+  "CharacterID": "KORIPPO",
+  "DisplayNameMSID": "CARD_NAME_883"
+ },
+ {
+  "CharacterID": "KOROBOHSHI",
+  "DisplayNameMSID": "CARD_NAME_286"
+ },
+ {
+  "CharacterID": "KOROMORI",
+  "DisplayNameMSID": "CARD_NAME_133"
+ },
+ {
+  "CharacterID": "KOROTOCK",
+  "DisplayNameMSID": "CARD_NAME_287"
+ },
+ {
+  "CharacterID": "KOSOKUMUSHI",
+  "DisplayNameMSID": "CARD_NAME_501"
+ },
+ {
+  "CharacterID": "KOTONE",
+  "DisplayNameMSID": "CARD_NAME_779"
+ },
+ {
+  "CharacterID": "KOURANOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_215"
+ },
+ {
+  "CharacterID": "KUCHEAT",
+  "DisplayNameMSID": "CARD_NAME_178"
+ },
+ {
+  "CharacterID": "KUITARAN",
+  "DisplayNameMSID": "CARD_NAME_48"
+ },
+ {
+  "CharacterID": "KUMASYUN",
+  "DisplayNameMSID": "CARD_NAME_1172"
+ },
+ {
+  "CharacterID": "KUNUGIDAMA",
+  "DisplayNameMSID": "CARD_NAME_702"
+ },
+ {
+  "CharacterID": "KURIAVEIL",
+  "DisplayNameMSID": "CARD_NAME_1332"
+ },
+ {
+  "CharacterID": "KURUMAYU",
+  "DisplayNameMSID": "CARD_NAME_1155"
+ },
+ {
+  "CharacterID": "KURUMIRU",
+  "DisplayNameMSID": "CARD_NAME_1154"
+ },
+ {
+  "CharacterID": "KUSAIHANA",
+  "DisplayNameMSID": "CARD_NAME_12"
+ },
+ {
+  "CharacterID": "KUWAGANNON",
+  "DisplayNameMSID": "CARD_NAME_531"
+ },
+ {
+  "CharacterID": "KUWASSU",
+  "DisplayNameMSID": "CARD_NAME_1083"
+ },
+ {
+  "CharacterID": "KUZUMO",
+  "DisplayNameMSID": "CARD_NAME_816"
+ },
+ {
+  "CharacterID": "KYOGRE",
+  "DisplayNameMSID": "CARD_NAME_1296"
+ },
+ {
+  "CharacterID": "KYOJIOHN",
+  "DisplayNameMSID": "CARD_NAME_1234"
+ },
+ {
+  "CharacterID": "KYOU",
+  "DisplayNameMSID": "CARD_NAME_220"
+ },
+ {
+  "CharacterID": "KYUKON",
+  "DisplayNameMSID": "CARD_NAME_38"
+ },
+ {
+  "CharacterID": "LAGLARGE",
+  "DisplayNameMSID": "CARD_NAME_995"
+ },
+ {
+  "CharacterID": "LALANTES",
+  "DisplayNameMSID": "CARD_NAME_497"
+ },
+ {
+  "CharacterID": "LAMPLER",
+  "DisplayNameMSID": "CARD_NAME_859"
+ },
+ {
+  "CharacterID": "LANCULUS",
+  "DisplayNameMSID": "CARD_NAME_963"
+ },
+ {
+  "CharacterID": "LANDLOS",
+  "DisplayNameMSID": "CARD_NAME_1366"
+ },
+ {
+  "CharacterID": "LANTERN",
+  "DisplayNameMSID": "CARD_NAME_1179"
+ },
+ {
+  "CharacterID": "LANTERN_EX",
+  "DisplayNameMSID": "CARD_NAME_728"
+ },
+ {
+  "CharacterID": "LAPLACE",
+  "DisplayNameMSID": "CARD_NAME_79"
+ },
+ {
+  "CharacterID": "LAPLACE_EX",
+  "DisplayNameMSID": "CARD_NAME_233"
+ },
+ {
+  "CharacterID": "LATIAS",
+  "DisplayNameMSID": "CARD_NAME_790"
+ },
+ {
+  "CharacterID": "LATIOS",
+  "DisplayNameMSID": "CARD_NAME_793"
+ },
+ {
+  "CharacterID": "LAUDBON",
+  "DisplayNameMSID": "CARD_NAME_1079"
+ },
+ {
+  "CharacterID": "LEAF",
+  "DisplayNameMSID": "CARD_NAME_276"
+ },
+ {
+  "CharacterID": "LEAFIA",
+  "DisplayNameMSID": "CARD_NAME_293"
+ },
+ {
+  "CharacterID": "LEAFIA_EX",
+  "DisplayNameMSID": "CARD_NAME_415"
+ },
+ {
+  "CharacterID": "LEAFMANTO",
+  "DisplayNameMSID": "CARD_NAME_605"
+ },
+ {
+  "CharacterID": "LEPARDAS",
+  "DisplayNameMSID": "CARD_NAME_265"
+ },
+ {
+  "CharacterID": "LIGRAY",
+  "DisplayNameMSID": "CARD_NAME_254"
+ },
+ {
+  "CharacterID": "LILIE",
+  "DisplayNameMSID": "CARD_NAME_613"
+ },
+ {
+  "CharacterID": "LILYLA",
+  "DisplayNameMSID": "CARD_NAME_1282"
+ },
+ {
+  "CharacterID": "LISYAN",
+  "DisplayNameMSID": "CARD_NAME_888"
+ },
+ {
+  "CharacterID": "LIVOLT",
+  "DisplayNameMSID": "CARD_NAME_428"
+ },
+ {
+  "CharacterID": "LIZARDO",
+  "DisplayNameMSID": "CARD_NAME_34"
+ },
+ {
+  "CharacterID": "LIZARDON",
+  "DisplayNameMSID": "CARD_NAME_35"
+ },
+ {
+  "CharacterID": "LIZARDON_EX",
+  "DisplayNameMSID": "CARD_NAME_36"
+ },
+ {
+  "CharacterID": "LOVECUS",
+  "DisplayNameMSID": "CARD_NAME_869"
+ },
+ {
+  "CharacterID": "LOVETOLOS",
+  "DisplayNameMSID": "CARD_NAME_1268"
+ },
+ {
+  "CharacterID": "LUCARIO",
+  "DisplayNameMSID": "CARD_NAME_352"
+ },
+ {
+  "CharacterID": "LUCARIO_EX",
+  "DisplayNameMSID": "CARD_NAME_467"
+ },
+ {
+  "CharacterID": "LUCHABULL",
+  "DisplayNameMSID": "CARD_NAME_590"
+ },
+ {
+  "CharacterID": "LUCKY",
+  "DisplayNameMSID": "CARD_NAME_202"
+ },
+ {
+  "CharacterID": "LUCKYMITTENS",
+  "DisplayNameMSID": "CARD_NAME_945"
+ },
+ {
+  "CharacterID": "LUGARUGAN",
+  "DisplayNameMSID": "CARD_NAME_560"
+ },
+ {
+  "CharacterID": "LUGARUGAN_EX",
+  "DisplayNameMSID": "CARD_NAME_642"
+ },
+ {
+  "CharacterID": "LUGIA",
+  "DisplayNameMSID": "CARD_NAME_1040"
+ },
+ {
+  "CharacterID": "LUGIA_EX",
+  "DisplayNameMSID": "CARD_NAME_771"
+ },
+ {
+  "CharacterID": "LUNALA_EX",
+  "DisplayNameMSID": "CARD_NAME_549"
+ },
+ {
+  "CharacterID": "LUNATONE",
+  "DisplayNameMSID": "CARD_NAME_537"
+ },
+ {
+  "CharacterID": "LUSAMINE",
+  "DisplayNameMSID": "CARD_NAME_668"
+ },
+ {
+  "CharacterID": "LUXIO",
+  "DisplayNameMSID": "CARD_NAME_324"
+ },
+ {
+  "CharacterID": "MAAIIKA",
+  "DisplayNameMSID": "CARD_NAME_814"
+ },
+ {
+  "CharacterID": "MABOROSHINOSEKIBAN",
+  "DisplayNameMSID": "CARD_NAME_273"
+ },
+ {
+  "CharacterID": "MADATSUBOMI",
+  "DisplayNameMSID": "CARD_NAME_18"
+ },
+ {
+  "CharacterID": "MAFITIFF",
+  "DisplayNameMSID": "CARD_NAME_1117"
+ },
+ {
+  "CharacterID": "MAGCARGOT",
+  "DisplayNameMSID": "CARD_NAME_298"
+ },
+ {
+  "CharacterID": "MAGEARNA",
+  "DisplayNameMSID": "CARD_NAME_582"
+ },
+ {
+  "CharacterID": "MAGGYO",
+  "DisplayNameMSID": "CARD_NAME_801"
+ },
+ {
+  "CharacterID": "MAGMAG",
+  "DisplayNameMSID": "CARD_NAME_297"
+ },
+ {
+  "CharacterID": "MAGMARASHI",
+  "DisplayNameMSID": "CARD_NAME_705"
+ },
+ {
+  "CharacterID": "MAHOMIL",
+  "DisplayNameMSID": "CARD_NAME_631"
+ },
+ {
+  "CharacterID": "MAHOXY",
+  "DisplayNameMSID": "CARD_NAME_1351"
+ },
+ {
+  "CharacterID": "MAINTENANCE",
+  "DisplayNameMSID": "CARD_NAME_1145"
+ },
+ {
+  "CharacterID": "MAKENKANI",
+  "DisplayNameMSID": "CARD_NAME_558"
+ },
+ {
+  "CharacterID": "MAKUNOSHITA",
+  "DisplayNameMSID": "CARD_NAME_551"
+ },
+ {
+  "CharacterID": "MAMANBOU",
+  "DisplayNameMSID": "CARD_NAME_677"
+ },
+ {
+  "CharacterID": "MAMANE",
+  "DisplayNameMSID": "CARD_NAME_611"
+ },
+ {
+  "CharacterID": "MAMEBATTA",
+  "DisplayNameMSID": "CARD_NAME_1067"
+ },
+ {
+  "CharacterID": "MAMEPATO",
+  "DisplayNameMSID": "CARD_NAME_1324"
+ },
+ {
+  "CharacterID": "MAMMOO",
+  "DisplayNameMSID": "CARD_NAME_305"
+ },
+ {
+  "CharacterID": "MAMORINOPONCHO",
+  "DisplayNameMSID": "CARD_NAME_1054"
+ },
+ {
+  "CharacterID": "MANAPHY",
+  "DisplayNameMSID": "CARD_NAME_320"
+ },
+ {
+  "CharacterID": "MANENE",
+  "DisplayNameMSID": "CARD_NAME_1302"
+ },
+ {
+  "CharacterID": "MANKEY",
+  "DisplayNameMSID": "CARD_NAME_141"
+ },
+ {
+  "CharacterID": "MANTAIN",
+  "DisplayNameMSID": "CARD_NAME_636"
+ },
+ {
+  "CharacterID": "MANYULA",
+  "DisplayNameMSID": "CARD_NAME_755"
+ },
+ {
+  "CharacterID": "MANYULA_EX",
+  "DisplayNameMSID": "CARD_NAME_359"
+ },
+ {
+  "CharacterID": "MAO",
+  "DisplayNameMSID": "CARD_NAME_612"
+ },
+ {
+  "CharacterID": "MARACACCHI",
+  "DisplayNameMSID": "CARD_NAME_488"
+ },
+ {
+  "CharacterID": "MARIL",
+  "DisplayNameMSID": "CARD_NAME_418"
+ },
+ {
+  "CharacterID": "MARILLI",
+  "DisplayNameMSID": "CARD_NAME_419"
+ },
+ {
+  "CharacterID": "MARS",
+  "DisplayNameMSID": "CARD_NAME_410"
+ },
+ {
+  "CharacterID": "MARSHADOW",
+  "DisplayNameMSID": "CARD_NAME_262"
+ },
+ {
+  "CharacterID": "MARUMINE",
+  "DisplayNameMSID": "CARD_NAME_100"
+ },
+ {
+  "CharacterID": "MARUNOOM",
+  "DisplayNameMSID": "CARD_NAME_1310"
+ },
+ {
+  "CharacterID": "MARUYAKUDE",
+  "DisplayNameMSID": "CARD_NAME_52"
+ },
+ {
+  "CharacterID": "MASHADE",
+  "DisplayNameMSID": "CARD_NAME_239"
+ },
+ {
+  "CharacterID": "MASQUERNYA",
+  "DisplayNameMSID": "CARD_NAME_457"
+ },
+ {
+  "CharacterID": "MASQUERNYA_EX",
+  "DisplayNameMSID": "CARD_NAME_1064"
+ },
+ {
+  "CharacterID": "MASSIVOON",
+  "DisplayNameMSID": "CARD_NAME_980"
+ },
+ {
+  "CharacterID": "MASSIVOON_EX",
+  "DisplayNameMSID": "CARD_NAME_634"
+ },
+ {
+  "CharacterID": "MASSUGUMA",
+  "DisplayNameMSID": "CARD_NAME_926"
+ },
+ {
+  "CharacterID": "MATADOGAS",
+  "DisplayNameMSID": "CARD_NAME_177"
+ },
+ {
+  "CharacterID": "MATISSE",
+  "DisplayNameMSID": "CARD_NAME_224"
+ },
+ {
+  "CharacterID": "MATSUBA",
+  "DisplayNameMSID": "CARD_NAME_827"
+ },
+ {
+  "CharacterID": "MAWHIP",
+  "DisplayNameMSID": "CARD_NAME_625"
+ },
+ {
+  "CharacterID": "MAYULD",
+  "DisplayNameMSID": "CARD_NAME_836"
+ },
+ {
+  "CharacterID": "MEECLE",
+  "DisplayNameMSID": "CARD_NAME_31"
+ },
+ {
+  "CharacterID": "MEGAABSOL_EX",
+  "DisplayNameMSID": "CARD_NAME_906"
+ },
+ {
+  "CharacterID": "MEGABAKUUDA_EX",
+  "DisplayNameMSID": "CARD_NAME_1160"
+ },
+ {
+  "CharacterID": "MEGABURSYAMO_EX",
+  "DisplayNameMSID": "CARD_NAME_855"
+ },
+ {
+  "CharacterID": "MEGACHAREM_EX",
+  "DisplayNameMSID": "CARD_NAME_1131"
+ },
+ {
+  "CharacterID": "MEGADENRYU_EX",
+  "DisplayNameMSID": "CARD_NAME_885"
+ },
+ {
+  "CharacterID": "MEGADIANCIE_EX",
+  "DisplayNameMSID": "CARD_NAME_1267"
+ },
+ {
+  "CharacterID": "MEGAERUREIDO_EX",
+  "DisplayNameMSID": "CARD_NAME_1308"
+ },
+ {
+  "CharacterID": "MEGAFUSHIGIBANA_EX",
+  "DisplayNameMSID": "CARD_NAME_955"
+ },
+ {
+  "CharacterID": "MEGAGABURIAS_EX",
+  "DisplayNameMSID": "CARD_NAME_1344"
+ },
+ {
+  "CharacterID": "MEGAGANGAR_EX",
+  "DisplayNameMSID": "CARD_NAME_1139"
+ },
+ {
+  "CharacterID": "MEGAGARURA_EX",
+  "DisplayNameMSID": "CARD_NAME_1039"
+ },
+ {
+  "CharacterID": "MEGAGYARADOS_EX",
+  "DisplayNameMSID": "CARD_NAME_863"
+ },
+ {
+  "CharacterID": "MEGAHAGANEIL_EX",
+  "DisplayNameMSID": "CARD_NAME_966"
+ },
+ {
+  "CharacterID": "MEGAHASSAM_EX",
+  "DisplayNameMSID": "CARD_NAME_1141"
+ },
+ {
+  "CharacterID": "MEGAHELLGAR_EX",
+  "DisplayNameMSID": "CARD_NAME_1339"
+ },
+ {
+  "CharacterID": "MEGAHERACROS_EX",
+  "DisplayNameMSID": "CARD_NAME_1260"
+ },
+ {
+  "CharacterID": "MEGAJUKAIN_EX",
+  "DisplayNameMSID": "CARD_NAME_1152"
+ },
+ {
+  "CharacterID": "MEGAKAILIOS_EX",
+  "DisplayNameMSID": "CARD_NAME_832"
+ },
+ {
+  "CharacterID": "MEGAKAMEX_EX",
+  "DisplayNameMSID": "CARD_NAME_957"
+ },
+ {
+  "CharacterID": "MEGAKUCHEAT_EX",
+  "DisplayNameMSID": "CARD_NAME_1034"
+ },
+ {
+  "CharacterID": "MEGALAGLARGE_EX",
+  "DisplayNameMSID": "CARD_NAME_996"
+ },
+ {
+  "CharacterID": "MEGALATIOS_EX",
+  "DisplayNameMSID": "CARD_NAME_954"
+ },
+ {
+  "CharacterID": "MEGALIVOLT_EX",
+  "DisplayNameMSID": "CARD_NAME_1137"
+ },
+ {
+  "CharacterID": "MEGALIZARDONX_EX",
+  "DisplayNameMSID": "CARD_NAME_1135"
+ },
+ {
+  "CharacterID": "MEGALIZARDONY_EX",
+  "DisplayNameMSID": "CARD_NAME_1063"
+ },
+ {
+  "CharacterID": "MEGALUCARIO_EX",
+  "DisplayNameMSID": "CARD_NAME_1190"
+ },
+ {
+  "CharacterID": "MEGAMETAGROSS_EX",
+  "DisplayNameMSID": "CARD_NAME_1315"
+ },
+ {
+  "CharacterID": "MEGAMIMILOP_EX",
+  "DisplayNameMSID": "CARD_NAME_965"
+ },
+ {
+  "CharacterID": "MEGANIUM",
+  "DisplayNameMSID": "CARD_NAME_693"
+ },
+ {
+  "CharacterID": "MEGAPIGEOT_EX",
+  "DisplayNameMSID": "CARD_NAME_952"
+ },
+ {
+  "CharacterID": "MEGARAYQUAZA_EX",
+  "DisplayNameMSID": "CARD_NAME_1318"
+ },
+ {
+  "CharacterID": "MEGASAMEHADER_EX",
+  "DisplayNameMSID": "CARD_NAME_1291"
+ },
+ {
+  "CharacterID": "MEGASIRNIGHT_EX",
+  "DisplayNameMSID": "CARD_NAME_1009"
+ },
+ {
+  "CharacterID": "MEGATABUNNE_EX",
+  "DisplayNameMSID": "CARD_NAME_1209"
+ },
+ {
+  "CharacterID": "MEGATYLTALIS_EX",
+  "DisplayNameMSID": "CARD_NAME_886"
+ },
+ {
+  "CharacterID": "MEGAYADORAN_EX",
+  "DisplayNameMSID": "CARD_NAME_1136"
+ },
+ {
+  "CharacterID": "MEGAYAMIRAMI_EX",
+  "DisplayNameMSID": "CARD_NAME_1270"
+ },
+ {
+  "CharacterID": "MEGAYANMA",
+  "DisplayNameMSID": "CARD_NAME_701"
+ },
+ {
+  "CharacterID": "MEGAYANMA_EX",
+  "DisplayNameMSID": "CARD_NAME_280"
+ },
+ {
+  "CharacterID": "MEGUROCO",
+  "DisplayNameMSID": "CARD_NAME_644"
+ },
+ {
+  "CharacterID": "MELECIE",
+  "DisplayNameMSID": "CARD_NAME_682"
+ },
+ {
+  "CharacterID": "MELISSA",
+  "DisplayNameMSID": "CARD_NAME_949"
+ },
+ {
+  "CharacterID": "MELMETAL",
+  "DisplayNameMSID": "CARD_NAME_182"
+ },
+ {
+  "CharacterID": "MELMETAL_EX",
+  "DisplayNameMSID": "CARD_NAME_919"
+ },
+ {
+  "CharacterID": "MELOETTA",
+  "DisplayNameMSID": "CARD_NAME_1010"
+ },
+ {
+  "CharacterID": "MELTAN",
+  "DisplayNameMSID": "CARD_NAME_181"
+ },
+ {
+  "CharacterID": "MEMORYLIGHT",
+  "DisplayNameMSID": "CARD_NAME_824"
+ },
+ {
+  "CharacterID": "MENOKURAGE",
+  "DisplayNameMSID": "CARD_NAME_62"
+ },
+ {
+  "CharacterID": "MERLARVA",
+  "DisplayNameMSID": "CARD_NAME_241"
+ },
+ {
+  "CharacterID": "MERRIEP",
+  "DisplayNameMSID": "CARD_NAME_730"
+ },
+ {
+  "CharacterID": "MESSON",
+  "DisplayNameMSID": "CARD_NAME_1174"
+ },
+ {
+  "CharacterID": "METAGROSS",
+  "DisplayNameMSID": "CARD_NAME_1314"
+ },
+ {
+  "CharacterID": "METAMON",
+  "DisplayNameMSID": "CARD_NAME_205"
+ },
+ {
+  "CharacterID": "METANG",
+  "DisplayNameMSID": "CARD_NAME_1313"
+ },
+ {
+  "CharacterID": "METARUKOABARIA",
+  "DisplayNameMSID": "CARD_NAME_1055"
+ },
+ {
+  "CharacterID": "METENO",
+  "DisplayNameMSID": "CARD_NAME_564"
+ },
+ {
+  "CharacterID": "MEW",
+  "DisplayNameMSID": "CARD_NAME_225"
+ },
+ {
+  "CharacterID": "MEWTWO",
+  "DisplayNameMSID": "CARD_NAME_128"
+ },
+ {
+  "CharacterID": "MEWTWO_EX",
+  "DisplayNameMSID": "CARD_NAME_129"
+ },
+ {
+  "CharacterID": "MEW_EX",
+  "DisplayNameMSID": "CARD_NAME_252"
+ },
+ {
+  "CharacterID": "MIBRIM",
+  "DisplayNameMSID": "CARD_NAME_1185"
+ },
+ {
+  "CharacterID": "MIGALUSA",
+  "DisplayNameMSID": "CARD_NAME_1091"
+ },
+ {
+  "CharacterID": "MIJUMARU",
+  "DisplayNameMSID": "CARD_NAME_1297"
+ },
+ {
+  "CharacterID": "MIKAN",
+  "DisplayNameMSID": "CARD_NAME_782"
+ },
+ {
+  "CharacterID": "MIKARUGE",
+  "DisplayNameMSID": "CARD_NAME_364"
+ },
+ {
+  "CharacterID": "MIKURI",
+  "DisplayNameMSID": "CARD_NAME_1280"
+ },
+ {
+  "CharacterID": "MILOKAROSS",
+  "DisplayNameMSID": "CARD_NAME_785"
+ },
+ {
+  "CharacterID": "MILOKAROSS_EX",
+  "DisplayNameMSID": "CARD_NAME_1264"
+ },
+ {
+  "CharacterID": "MILTANK",
+  "DisplayNameMSID": "CARD_NAME_789"
+ },
+ {
+  "CharacterID": "MIMIKKYU",
+  "DisplayNameMSID": "CARD_NAME_545"
+ },
+ {
+  "CharacterID": "MIMIKKYU_EX",
+  "DisplayNameMSID": "CARD_NAME_1013"
+ },
+ {
+  "CharacterID": "MIMILOP",
+  "DisplayNameMSID": "CARD_NAME_394"
+ },
+ {
+  "CharacterID": "MIMIROL",
+  "DisplayNameMSID": "CARD_NAME_393"
+ },
+ {
+  "CharacterID": "MIMIZUZU",
+  "DisplayNameMSID": "CARD_NAME_1120"
+ },
+ {
+  "CharacterID": "MINEZUMI",
+  "DisplayNameMSID": "CARD_NAME_931"
+ },
+ {
+  "CharacterID": "MINIRYU",
+  "DisplayNameMSID": "CARD_NAME_183"
+ },
+ {
+  "CharacterID": "MINIVE",
+  "DisplayNameMSID": "CARD_NAME_1068"
+ },
+ {
+  "CharacterID": "MINOMADAM",
+  "DisplayNameMSID": "CARD_NAME_289"
+ },
+ {
+  "CharacterID": "MINOMUCCHI",
+  "DisplayNameMSID": "CARD_NAME_288"
+ },
+ {
+  "CharacterID": "MINUN",
+  "DisplayNameMSID": "CARD_NAME_1002"
+ },
+ {
+  "CharacterID": "MIRAIDON",
+  "DisplayNameMSID": "CARD_NAME_1099"
+ },
+ {
+  "CharacterID": "MIRAIDON_EX",
+  "DisplayNameMSID": "CARD_NAME_1225"
+ },
+ {
+  "CharacterID": "MIRUHOG",
+  "DisplayNameMSID": "CARD_NAME_932"
+ },
+ {
+  "CharacterID": "MITSUHONEY",
+  "DisplayNameMSID": "CARD_NAME_290"
+ },
+ {
+  "CharacterID": "MITSURU",
+  "DisplayNameMSID": "CARD_NAME_1336"
+ },
+ {
+  "CharacterID": "MIZUGOROU",
+  "DisplayNameMSID": "CARD_NAME_993"
+ },
+ {
+  "CharacterID": "MOGUREW",
+  "DisplayNameMSID": "CARD_NAME_554"
+ },
+ {
+  "CharacterID": "MOJUMBO",
+  "DisplayNameMSID": "CARD_NAME_278"
+ },
+ {
+  "CharacterID": "MOKOKO",
+  "DisplayNameMSID": "CARD_NAME_731"
+ },
+ {
+  "CharacterID": "MOKUROH",
+  "DisplayNameMSID": "CARD_NAME_492"
+ },
+ {
+  "CharacterID": "MONJARA",
+  "DisplayNameMSID": "CARD_NAME_24"
+ },
+ {
+  "CharacterID": "MONMEN",
+  "DisplayNameMSID": "CARD_NAME_27"
+ },
+ {
+  "CharacterID": "MONOMANEMUSUME",
+  "DisplayNameMSID": "CARD_NAME_950"
+ },
+ {
+  "CharacterID": "MONOZU",
+  "DisplayNameMSID": "CARD_NAME_907"
+ },
+ {
+  "CharacterID": "MONSTERBALL",
+  "DisplayNameMSID": "CARD_NAME_228"
+ },
+ {
+  "CharacterID": "MOOLAND",
+  "DisplayNameMSID": "CARD_NAME_658"
+ },
+ {
+  "CharacterID": "MOROBARERU",
+  "DisplayNameMSID": "CARD_NAME_1200"
+ },
+ {
+  "CharacterID": "MORPEKO",
+  "DisplayNameMSID": "CARD_NAME_1140"
+ },
+ {
+  "CharacterID": "MORPHON",
+  "DisplayNameMSID": "CARD_NAME_17"
+ },
+ {
+  "CharacterID": "MOTHNOW",
+  "DisplayNameMSID": "CARD_NAME_93"
+ },
+ {
+  "CharacterID": "MOTOTOKAGE",
+  "DisplayNameMSID": "CARD_NAME_454"
+ },
+ {
+  "CharacterID": "MOUKAZARU",
+  "DisplayNameMSID": "CARD_NAME_300"
+ },
+ {
+  "CharacterID": "MUCHUL",
+  "DisplayNameMSID": "CARD_NAME_736"
+ },
+ {
+  "CharacterID": "MUKKURU",
+  "DisplayNameMSID": "CARD_NAME_388"
+ },
+ {
+  "CharacterID": "MUKUBIRD",
+  "DisplayNameMSID": "CARD_NAME_389"
+ },
+ {
+  "CharacterID": "MUKUHAWK",
+  "DisplayNameMSID": "CARD_NAME_390"
+ },
+ {
+  "CharacterID": "MUMA",
+  "DisplayNameMSID": "CARD_NAME_331"
+ },
+ {
+  "CharacterID": "MUMARGI",
+  "DisplayNameMSID": "CARD_NAME_804"
+ },
+ {
+  "CharacterID": "MUMARGI_EX",
+  "DisplayNameMSID": "CARD_NAME_332"
+ },
+ {
+  "CharacterID": "MUNNA",
+  "DisplayNameMSID": "CARD_NAME_745"
+ },
+ {
+  "CharacterID": "MUSHARNA",
+  "DisplayNameMSID": "CARD_NAME_746"
+ },
+ {
+  "CharacterID": "MUSHIYOKESUPUREI",
+  "DisplayNameMSID": "CARD_NAME_663"
+ },
+ {
+  "CharacterID": "MUSKIPPA",
+  "DisplayNameMSID": "CARD_NAME_292"
+ },
+ {
+  "CharacterID": "NAETLE",
+  "DisplayNameMSID": "CARD_NAME_283"
+ },
+ {
+  "CharacterID": "NAGEKI",
+  "DisplayNameMSID": "CARD_NAME_1192"
+ },
+ {
+  "CharacterID": "NAGETUKESARU",
+  "DisplayNameMSID": "CARD_NAME_643"
+ },
+ {
+  "CharacterID": "NAGETUKESARU_EX",
+  "DisplayNameMSID": "CARD_NAME_563"
+ },
+ {
+  "CharacterID": "NAKANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_474"
+ },
+ {
+  "CharacterID": "NAMAKERO",
+  "DisplayNameMSID": "CARD_NAME_1043"
+ },
+ {
+  "CharacterID": "NAMAKOBUSHI",
+  "DisplayNameMSID": "CARD_NAME_90"
+ },
+ {
+  "CharacterID": "NAMAZUN",
+  "DisplayNameMSID": "CARD_NAME_421"
+ },
+ {
+  "CharacterID": "NAMIIRUKA",
+  "DisplayNameMSID": "CARD_NAME_1087"
+ },
+ {
+  "CharacterID": "NANJYAMO",
+  "DisplayNameMSID": "CARD_NAME_481"
+ },
+ {
+  "CharacterID": "NASSY",
+  "DisplayNameMSID": "CARD_NAME_22"
+ },
+ {
+  "CharacterID": "NASSY_EX",
+  "DisplayNameMSID": "CARD_NAME_23"
+ },
+ {
+  "CharacterID": "NATIO",
+  "DisplayNameMSID": "CARD_NAME_739"
+ },
+ {
+  "CharacterID": "NATSUME",
+  "DisplayNameMSID": "CARD_NAME_223"
+ },
+ {
+  "CharacterID": "NATY",
+  "DisplayNameMSID": "CARD_NAME_738"
+ },
+ {
+  "CharacterID": "NAZONOKUSA",
+  "DisplayNameMSID": "CARD_NAME_11"
+ },
+ {
+  "CharacterID": "NECROZMA",
+  "DisplayNameMSID": "CARD_NAME_550"
+ },
+ {
+  "CharacterID": "NECROZMAAKATSUKINOTSUBASA",
+  "DisplayNameMSID": "CARD_NAME_620"
+ },
+ {
+  "CharacterID": "NECROZMATASOGARENOTATEGAMI",
+  "DisplayNameMSID": "CARD_NAME_621"
+ },
+ {
+  "CharacterID": "NECROZMAULTRANECROZMA_EX",
+  "DisplayNameMSID": "CARD_NAME_623"
+ },
+ {
+  "CharacterID": "NEKKOARA",
+  "DisplayNameMSID": "CARD_NAME_599"
+ },
+ {
+  "CharacterID": "NEKKONOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_1330"
+ },
+ {
+  "CharacterID": "NEMASYU",
+  "DisplayNameMSID": "CARD_NAME_238"
+ },
+ {
+  "CharacterID": "NEMO",
+  "DisplayNameMSID": "CARD_NAME_1128"
+ },
+ {
+  "CharacterID": "NENDOLL",
+  "DisplayNameMSID": "CARD_NAME_641"
+ },
+ {
+  "CharacterID": "NEOLANT",
+  "DisplayNameMSID": "CARD_NAME_245"
+ },
+ {
+  "CharacterID": "NEZU",
+  "DisplayNameMSID": "CARD_NAME_1059"
+ },
+ {
+  "CharacterID": "NIDANGILL",
+  "DisplayNameMSID": "CARD_NAME_917"
+ },
+ {
+  "CharacterID": "NIDOKING",
+  "DisplayNameMSID": "CARD_NAME_171"
+ },
+ {
+  "CharacterID": "NIDOQUEEN",
+  "DisplayNameMSID": "CARD_NAME_168"
+ },
+ {
+  "CharacterID": "NIDORAN♀",
+  "DisplayNameMSID": "CARD_NAME_166"
+ },
+ {
+  "CharacterID": "NIDORAN♂",
+  "DisplayNameMSID": "CARD_NAME_169"
+ },
+ {
+  "CharacterID": "NIDORINA",
+  "DisplayNameMSID": "CARD_NAME_167"
+ },
+ {
+  "CharacterID": "NIDORINO",
+  "DisplayNameMSID": "CARD_NAME_170"
+ },
+ {
+  "CharacterID": "NIJIIRONODOUKUTSU",
+  "DisplayNameMSID": "CARD_NAME_1338"
+ },
+ {
+  "CharacterID": "NOCTUS",
+  "DisplayNameMSID": "CARD_NAME_973"
+ },
+ {
+  "CharacterID": "NOKOCCHI",
+  "DisplayNameMSID": "CARD_NAME_766"
+ },
+ {
+  "CharacterID": "NOKOKOCCHI",
+  "DisplayNameMSID": "CARD_NAME_1250"
+ },
+ {
+  "CharacterID": "NONOKURAGE",
+  "DisplayNameMSID": "CARD_NAME_1109"
+ },
+ {
+  "CharacterID": "NOSEPASS",
+  "DisplayNameMSID": "CARD_NAME_347"
+ },
+ {
+  "CharacterID": "NUCKRAR",
+  "DisplayNameMSID": "CARD_NAME_1188"
+ },
+ {
+  "CharacterID": "NUIKOGUMA",
+  "DisplayNameMSID": "CARD_NAME_596"
+ },
+ {
+  "CharacterID": "NUMACRAW",
+  "DisplayNameMSID": "CARD_NAME_994"
+ },
+ {
+  "CharacterID": "NUMEIL",
+  "DisplayNameMSID": "CARD_NAME_922"
+ },
+ {
+  "CharacterID": "NUMELGON",
+  "DisplayNameMSID": "CARD_NAME_923"
+ },
+ {
+  "CharacterID": "NUMERA",
+  "DisplayNameMSID": "CARD_NAME_921"
+ },
+ {
+  "CharacterID": "NUOH",
+  "DisplayNameMSID": "CARD_NAME_718"
+ },
+ {
+  "CharacterID": "NUTREY",
+  "DisplayNameMSID": "CARD_NAME_655"
+ },
+ {
+  "CharacterID": "NYABBY",
+  "DisplayNameMSID": "CARD_NAME_508"
+ },
+ {
+  "CharacterID": "NYAHEAT",
+  "DisplayNameMSID": "CARD_NAME_509"
+ },
+ {
+  "CharacterID": "NYAHOJA",
+  "DisplayNameMSID": "CARD_NAME_453"
+ },
+ {
+  "CharacterID": "NYAONIX",
+  "DisplayNameMSID": "CARD_NAME_1183"
+ },
+ {
+  "CharacterID": "NYARMAR",
+  "DisplayNameMSID": "CARD_NAME_395"
+ },
+ {
+  "CharacterID": "NYAROTE",
+  "DisplayNameMSID": "CARD_NAME_456"
+ },
+ {
+  "CharacterID": "NYARTH",
+  "DisplayNameMSID": "CARD_NAME_196"
+ },
+ {
+  "CharacterID": "NYASPER",
+  "DisplayNameMSID": "CARD_NAME_1182"
+ },
+ {
+  "CharacterID": "NYMPHIA",
+  "DisplayNameMSID": "CARD_NAME_680"
+ },
+ {
+  "CharacterID": "NYMPHIA_EX",
+  "DisplayNameMSID": "CARD_NAME_681"
+ },
+ {
+  "CharacterID": "NYOROBON",
+  "DisplayNameMSID": "CARD_NAME_61"
+ },
+ {
+  "CharacterID": "NYOROBON_EX",
+  "DisplayNameMSID": "CARD_NAME_809"
+ },
+ {
+  "CharacterID": "NYOROMO",
+  "DisplayNameMSID": "CARD_NAME_59"
+ },
+ {
+  "CharacterID": "NYOROTONO",
+  "DisplayNameMSID": "CARD_NAME_712"
+ },
+ {
+  "CharacterID": "NYOROZO",
+  "DisplayNameMSID": "CARD_NAME_60"
+ },
+ {
+  "CharacterID": "NYULA",
+  "DisplayNameMSID": "CARD_NAME_358"
+ },
+ {
+  "CharacterID": "OBONNOMI",
+  "DisplayNameMSID": "CARD_NAME_943"
+ },
+ {
+  "CharacterID": "ODORIDORI",
+  "DisplayNameMSID": "CARD_NAME_511"
+ },
+ {
+  "CharacterID": "ODOSHISHI",
+  "DisplayNameMSID": "CARD_NAME_769"
+ },
+ {
+  "CharacterID": "OGERPONIDONOMEN",
+  "DisplayNameMSID": "CARD_NAME_999"
+ },
+ {
+  "CharacterID": "OGERPONISHIZUENOMEN",
+  "DisplayNameMSID": "CARD_NAME_1023"
+ },
+ {
+  "CharacterID": "OGERPONKAMADONOMEN",
+  "DisplayNameMSID": "CARD_NAME_989"
+ },
+ {
+  "CharacterID": "OGERPONMIDORINOMEN",
+  "DisplayNameMSID": "CARD_NAME_1289"
+ },
+ {
+  "CharacterID": "OGERPONMIDORINOMEN_EX",
+  "DisplayNameMSID": "CARD_NAME_983"
+ },
+ {
+  "CharacterID": "OHBEM",
+  "DisplayNameMSID": "CARD_NAME_255"
+ },
+ {
+  "CharacterID": "OHLONGE",
+  "DisplayNameMSID": "CARD_NAME_914"
+ },
+ {
+  "CharacterID": "OHROT",
+  "DisplayNameMSID": "CARD_NAME_491"
+ },
+ {
+  "CharacterID": "OHSUBAME",
+  "DisplayNameMSID": "CARD_NAME_1042"
+ },
+ {
+  "CharacterID": "OKORIZARU",
+  "DisplayNameMSID": "CARD_NAME_142"
+ },
+ {
+  "CharacterID": "OKUTANK",
+  "DisplayNameMSID": "CARD_NAME_722"
+ },
+ {
+  "CharacterID": "OLIMHAKASE",
+  "DisplayNameMSID": "CARD_NAME_1255"
+ },
+ {
+  "CharacterID": "OLINYO",
+  "DisplayNameMSID": "CARD_NAME_1069"
+ },
+ {
+  "CharacterID": "OLIVA",
+  "DisplayNameMSID": "CARD_NAME_1070"
+ },
+ {
+  "CharacterID": "OMNITE",
+  "DisplayNameMSID": "CARD_NAME_81"
+ },
+ {
+  "CharacterID": "OMSTAR",
+  "DisplayNameMSID": "CARD_NAME_82"
+ },
+ {
+  "CharacterID": "ONBAT",
+  "DisplayNameMSID": "CARD_NAME_1319"
+ },
+ {
+  "CharacterID": "ONIDRILL",
+  "DisplayNameMSID": "CARD_NAME_192"
+ },
+ {
+  "CharacterID": "ONISHIZUKUMO",
+  "DisplayNameMSID": "CARD_NAME_524"
+ },
+ {
+  "CharacterID": "ONISUZUME",
+  "DisplayNameMSID": "CARD_NAME_191"
+ },
+ {
+  "CharacterID": "ONONDO",
+  "DisplayNameMSID": "CARD_NAME_1143"
+ },
+ {
+  "CharacterID": "ONONOKUS",
+  "DisplayNameMSID": "CARD_NAME_1132"
+ },
+ {
+  "CharacterID": "ONVERN",
+  "DisplayNameMSID": "CARD_NAME_1320"
+ },
+ {
+  "CharacterID": "OOKIIMARASADA",
+  "DisplayNameMSID": "CARD_NAME_600"
+ },
+ {
+  "CharacterID": "OOKINAMANTO",
+  "DisplayNameMSID": "CARD_NAME_402"
+ },
+ {
+  "CharacterID": "OOTACHI",
+  "DisplayNameMSID": "CARD_NAME_765"
+ },
+ {
+  "CharacterID": "ORACHIFU",
+  "DisplayNameMSID": "CARD_NAME_1116"
+ },
+ {
+  "CharacterID": "ORDILE",
+  "DisplayNameMSID": "CARD_NAME_716"
+ },
+ {
+  "CharacterID": "ORIGINDIALGA",
+  "DisplayNameMSID": "CARD_NAME_441"
+ },
+ {
+  "CharacterID": "ORIGINPALKIA",
+  "DisplayNameMSID": "CARD_NAME_425"
+ },
+ {
+  "CharacterID": "OSAKANANETTO",
+  "DisplayNameMSID": "CARD_NAME_601"
+ },
+ {
+  "CharacterID": "OSYAMARI",
+  "DisplayNameMSID": "CARD_NAME_518"
+ },
+ {
+  "CharacterID": "OTACHI",
+  "DisplayNameMSID": "CARD_NAME_764"
+ },
+ {
+  "CharacterID": "OTAMARO",
+  "DisplayNameMSID": "CARD_NAME_872"
+ },
+ {
+  "CharacterID": "OTORIYOSEPADDO",
+  "DisplayNameMSID": "CARD_NAME_1328"
+ },
+ {
+  "CharacterID": "OTOSHIDORI",
+  "DisplayNameMSID": "CARD_NAME_1118"
+ },
+ {
+  "CharacterID": "OTOSUPUS",
+  "DisplayNameMSID": "CARD_NAME_163"
+ },
+ {
+  "CharacterID": "PACHIRISU",
+  "DisplayNameMSID": "CARD_NAME_452"
+ },
+ {
+  "CharacterID": "PACHIRISU_EX",
+  "DisplayNameMSID": "CARD_NAME_326"
+ },
+ {
+  "CharacterID": "PALDEADOOH",
+  "DisplayNameMSID": "CARD_NAME_1114"
+ },
+ {
+  "CharacterID": "PALDEADOOH_EX",
+  "DisplayNameMSID": "CARD_NAME_470"
+ },
+ {
+  "CharacterID": "PALDEAKENTAUROS",
+  "DisplayNameMSID": "CARD_NAME_458"
+ },
+ {
+  "CharacterID": "PALDEAUPAH",
+  "DisplayNameMSID": "CARD_NAME_469"
+ },
+ {
+  "CharacterID": "PALKIA_EX",
+  "DisplayNameMSID": "CARD_NAME_319"
+ },
+ {
+  "CharacterID": "PAMO",
+  "DisplayNameMSID": "CARD_NAME_463"
+ },
+ {
+  "CharacterID": "PAMOT",
+  "DisplayNameMSID": "CARD_NAME_464"
+ },
+ {
+  "CharacterID": "PAOJIAN_EX",
+  "DisplayNameMSID": "CARD_NAME_1095"
+ },
+ {
+  "CharacterID": "PARAS",
+  "DisplayNameMSID": "CARD_NAME_14"
+ },
+ {
+  "CharacterID": "PARASECT",
+  "DisplayNameMSID": "CARD_NAME_15"
+ },
+ {
+  "CharacterID": "PARASOLGIRL",
+  "DisplayNameMSID": "CARD_NAME_1215"
+ },
+ {
+  "CharacterID": "PARMOT",
+  "DisplayNameMSID": "CARD_NAME_451"
+ },
+ {
+  "CharacterID": "PARSHEN",
+  "DisplayNameMSID": "CARD_NAME_67"
+ },
+ {
+  "CharacterID": "PATCHEEL",
+  "DisplayNameMSID": "CARD_NAME_930"
+ },
+ {
+  "CharacterID": "PAWOU",
+  "DisplayNameMSID": "CARD_NAME_64"
+ },
+ {
+  "CharacterID": "PEARLULU",
+  "DisplayNameMSID": "CARD_NAME_1169"
+ },
+ {
+  "CharacterID": "PELIPPER",
+  "DisplayNameMSID": "CARD_NAME_1353"
+ },
+ {
+  "CharacterID": "PENDROR",
+  "DisplayNameMSID": "CARD_NAME_268"
+ },
+ {
+  "CharacterID": "PEPER",
+  "DisplayNameMSID": "CARD_NAME_1129"
+ },
+ {
+  "CharacterID": "PERAP",
+  "DisplayNameMSID": "CARD_NAME_271"
+ },
+ {
+  "CharacterID": "PERFUTON",
+  "DisplayNameMSID": "CARD_NAME_1123"
+ },
+ {
+  "CharacterID": "PEROPPAFU",
+  "DisplayNameMSID": "CARD_NAME_259"
+ },
+ {
+  "CharacterID": "PEROREAM",
+  "DisplayNameMSID": "CARD_NAME_260"
+ },
+ {
+  "CharacterID": "PERSIAN",
+  "DisplayNameMSID": "CARD_NAME_197"
+ },
+ {
+  "CharacterID": "PHEROACHE",
+  "DisplayNameMSID": "CARD_NAME_635"
+ },
+ {
+  "CharacterID": "PHIONE",
+  "DisplayNameMSID": "CARD_NAME_426"
+ },
+ {
+  "CharacterID": "PICHU",
+  "DisplayNameMSID": "CARD_NAME_729"
+ },
+ {
+  "CharacterID": "PIGEON",
+  "DisplayNameMSID": "CARD_NAME_187"
+ },
+ {
+  "CharacterID": "PIGEOT",
+  "DisplayNameMSID": "CARD_NAME_188"
+ },
+ {
+  "CharacterID": "PIGEOT_EX",
+  "DisplayNameMSID": "CARD_NAME_270"
+ },
+ {
+  "CharacterID": "PIKACHU",
+  "DisplayNameMSID": "CARD_NAME_94"
+ },
+ {
+  "CharacterID": "PIKACHU_EX",
+  "DisplayNameMSID": "CARD_NAME_96"
+ },
+ {
+  "CharacterID": "PINPUKU",
+  "DisplayNameMSID": "CARD_NAME_1383"
+ },
+ {
+  "CharacterID": "PIPPI",
+  "DisplayNameMSID": "CARD_NAME_113"
+ },
+ {
+  "CharacterID": "PIXY",
+  "DisplayNameMSID": "CARD_NAME_114"
+ },
+ {
+  "CharacterID": "POCHAMA",
+  "DisplayNameMSID": "CARD_NAME_307"
+ },
+ {
+  "CharacterID": "POCHIENA",
+  "DisplayNameMSID": "CARD_NAME_360"
+ },
+ {
+  "CharacterID": "POKABU",
+  "DisplayNameMSID": "CARD_NAME_1163"
+ },
+ {
+  "CharacterID": "POKEMONCENTERNOONEESAN",
+  "DisplayNameMSID": "CARD_NAME_482"
+ },
+ {
+  "CharacterID": "POKEMONNOFUE",
+  "DisplayNameMSID": "CARD_NAME_272"
+ },
+ {
+  "CharacterID": "POKEMONTSUUSHIN",
+  "DisplayNameMSID": "CARD_NAME_401"
+ },
+ {
+  "CharacterID": "POKEMONZUKAN",
+  "DisplayNameMSID": "CARD_NAME_231"
+ },
+ {
+  "CharacterID": "PONYTA",
+  "DisplayNameMSID": "CARD_NAME_42"
+ },
+ {
+  "CharacterID": "POPOCCO",
+  "DisplayNameMSID": "CARD_NAME_697"
+ },
+ {
+  "CharacterID": "POPPO",
+  "DisplayNameMSID": "CARD_NAME_186"
+ },
+ {
+  "CharacterID": "PORYGON",
+  "DisplayNameMSID": "CARD_NAME_207"
+ },
+ {
+  "CharacterID": "PORYGON-Z",
+  "DisplayNameMSID": "CARD_NAME_385"
+ },
+ {
+  "CharacterID": "PORYGON2",
+  "DisplayNameMSID": "CARD_NAME_384"
+ },
+ {
+  "CharacterID": "POTDEATH",
+  "DisplayNameMSID": "CARD_NAME_1015"
+ },
+ {
+  "CharacterID": "POTTAISHI",
+  "DisplayNameMSID": "CARD_NAME_308"
+ },
+ {
+  "CharacterID": "POWALEN",
+  "DisplayNameMSID": "CARD_NAME_1208"
+ },
+ {
+  "CharacterID": "POWALENAMAMIZUNOSUGATA",
+  "DisplayNameMSID": "CARD_NAME_1167"
+ },
+ {
+  "CharacterID": "POWALENTAIYOUNOSUGATA",
+  "DisplayNameMSID": "CARD_NAME_1161"
+ },
+ {
+  "CharacterID": "POWALENYUKIGUMONOSUGATA",
+  "DisplayNameMSID": "CARD_NAME_1168"
+ },
+ {
+  "CharacterID": "PRASLE",
+  "DisplayNameMSID": "CARD_NAME_1001"
+ },
+ {
+  "CharacterID": "PROTOGA",
+  "DisplayNameMSID": "CARD_NAME_875"
+ },
+ {
+  "CharacterID": "PTERA",
+  "DisplayNameMSID": "CARD_NAME_208"
+ },
+ {
+  "CharacterID": "PTERA_EX",
+  "DisplayNameMSID": "CARD_NAME_261"
+ },
+ {
+  "CharacterID": "PUKURIN",
+  "DisplayNameMSID": "CARD_NAME_194"
+ },
+ {
+  "CharacterID": "PUKURIN_EX",
+  "DisplayNameMSID": "CARD_NAME_195"
+ },
+ {
+  "CharacterID": "PULSEWAN",
+  "DisplayNameMSID": "CARD_NAME_803"
+ },
+ {
+  "CharacterID": "PUMPJIN",
+  "DisplayNameMSID": "CARD_NAME_1012"
+ },
+ {
+  "CharacterID": "PUPIMOCCHI",
+  "DisplayNameMSID": "CARD_NAME_1100"
+ },
+ {
+  "CharacterID": "PUPURIN",
+  "DisplayNameMSID": "CARD_NAME_819"
+ },
+ {
+  "CharacterID": "PURIN",
+  "DisplayNameMSID": "CARD_NAME_193"
+ },
+ {
+  "CharacterID": "PURURILL",
+  "DisplayNameMSID": "CARD_NAME_807"
+ },
+ {
+  "CharacterID": "PY",
+  "DisplayNameMSID": "CARD_NAME_737"
+ },
+ {
+  "CharacterID": "RABBIFUTO",
+  "DisplayNameMSID": "CARD_NAME_987"
+ },
+ {
+  "CharacterID": "RAICHU",
+  "DisplayNameMSID": "CARD_NAME_95"
+ },
+ {
+  "CharacterID": "RAICHU_EX",
+  "DisplayNameMSID": "CARD_NAME_788"
+ },
+ {
+  "CharacterID": "RAIKOU",
+  "DisplayNameMSID": "CARD_NAME_734"
+ },
+ {
+  "CharacterID": "RAIKOU_EX",
+  "DisplayNameMSID": "CARD_NAME_800"
+ },
+ {
+  "CharacterID": "RAKURAI",
+  "DisplayNameMSID": "CARD_NAME_427"
+ },
+ {
+  "CharacterID": "RALTS",
+  "DisplayNameMSID": "CARD_NAME_130"
+ },
+ {
+  "CharacterID": "RAMPALD",
+  "DisplayNameMSID": "CARD_NAME_350"
+ },
+ {
+  "CharacterID": "RAMUNOMI",
+  "DisplayNameMSID": "CARD_NAME_404"
+ },
+ {
+  "CharacterID": "RARECOIL",
+  "DisplayNameMSID": "CARD_NAME_98"
+ },
+ {
+  "CharacterID": "RATTA",
+  "DisplayNameMSID": "CARD_NAME_190"
+ },
+ {
+  "CharacterID": "RAYQUAZA",
+  "DisplayNameMSID": "CARD_NAME_830"
+ },
+ {
+  "CharacterID": "RAYQUAZA_EX",
+  "DisplayNameMSID": "CARD_NAME_831"
+ },
+ {
+  "CharacterID": "RED",
+  "DisplayNameMSID": "CARD_NAME_483"
+ },
+ {
+  "CharacterID": "REDCARD",
+  "DisplayNameMSID": "CARD_NAME_232"
+ },
+ {
+  "CharacterID": "REDIAN",
+  "DisplayNameMSID": "CARD_NAME_695"
+ },
+ {
+  "CharacterID": "REDIBA",
+  "DisplayNameMSID": "CARD_NAME_694"
+ },
+ {
+  "CharacterID": "REGICE",
+  "DisplayNameMSID": "CARD_NAME_306"
+ },
+ {
+  "CharacterID": "REGIDORAGO",
+  "DisplayNameMSID": "CARD_NAME_1377"
+ },
+ {
+  "CharacterID": "REGIGIGAS",
+  "DisplayNameMSID": "CARD_NAME_398"
+ },
+ {
+  "CharacterID": "REGIROCK",
+  "DisplayNameMSID": "CARD_NAME_348"
+ },
+ {
+  "CharacterID": "REGISTEEL",
+  "DisplayNameMSID": "CARD_NAME_372"
+ },
+ {
+  "CharacterID": "RENTORAR",
+  "DisplayNameMSID": "CARD_NAME_325"
+ },
+ {
+  "CharacterID": "RESHIRAM",
+  "DisplayNameMSID": "CARD_NAME_984"
+ },
+ {
+  "CharacterID": "RESUKYUSUKAFU",
+  "DisplayNameMSID": "CARD_NAME_777"
+ },
+ {
+  "CharacterID": "RIKIKIRIN",
+  "DisplayNameMSID": "CARD_NAME_1249"
+ },
+ {
+  "CharacterID": "RIKUKURAGE",
+  "DisplayNameMSID": "CARD_NAME_1110"
+ },
+ {
+  "CharacterID": "RINGUMA",
+  "DisplayNameMSID": "CARD_NAME_768"
+ },
+ {
+  "CharacterID": "RIOLU",
+  "DisplayNameMSID": "CARD_NAME_351"
+ },
+ {
+  "CharacterID": "ROCKETDANNOARBO",
+  "DisplayNameMSID": "CARD_NAME_1367"
+ },
+ {
+  "CharacterID": "ROCKETDANNOARBOK",
+  "DisplayNameMSID": "CARD_NAME_1368"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBACHINUNI",
+  "DisplayNameMSID": "CARD_NAME_1359"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBARRIERD",
+  "DisplayNameMSID": "CARD_NAME_1364"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBETBETER",
+  "DisplayNameMSID": "CARD_NAME_1369"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBETBETON",
+  "DisplayNameMSID": "CARD_NAME_1370"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBETOBETOBAZOOKA",
+  "DisplayNameMSID": "CARD_NAME_1385"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBIRIRIDAMA",
+  "DisplayNameMSID": "CARD_NAME_1356"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBOOBER",
+  "DisplayNameMSID": "CARD_NAME_1346"
+ },
+ {
+  "CharacterID": "ROCKETDANNOBOSS",
+  "DisplayNameMSID": "CARD_NAME_1388"
+ },
+ {
+  "CharacterID": "ROCKETDANNODAISAKUSEN",
+  "DisplayNameMSID": "CARD_NAME_1387"
+ },
+ {
+  "CharacterID": "ROCKETDANNODEKANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_1376"
+ },
+ {
+  "CharacterID": "ROCKETDANNODELVIL",
+  "DisplayNameMSID": "CARD_NAME_1348"
+ },
+ {
+  "CharacterID": "ROCKETDANNODOGARS",
+  "DisplayNameMSID": "CARD_NAME_1371"
+ },
+ {
+  "CharacterID": "ROCKETDANNODOROBOUMASHIN",
+  "DisplayNameMSID": "CARD_NAME_1384"
+ },
+ {
+  "CharacterID": "ROCKETDANNOFIRE_EX",
+  "DisplayNameMSID": "CARD_NAME_1347"
+ },
+ {
+  "CharacterID": "ROCKETDANNOFREEZER_EX",
+  "DisplayNameMSID": "CARD_NAME_1352"
+ },
+ {
+  "CharacterID": "ROCKETDANNOHELLGAR",
+  "DisplayNameMSID": "CARD_NAME_1349"
+ },
+ {
+  "CharacterID": "ROCKETDANNOKAKUREON",
+  "DisplayNameMSID": "CARD_NAME_1382"
+ },
+ {
+  "CharacterID": "ROCKETDANNOKANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_1374"
+ },
+ {
+  "CharacterID": "ROCKETDANNOKENKYUUIN",
+  "DisplayNameMSID": "CARD_NAME_1386"
+ },
+ {
+  "CharacterID": "ROCKETDANNOKORATTA",
+  "DisplayNameMSID": "CARD_NAME_1378"
+ },
+ {
+  "CharacterID": "ROCKETDANNOLAPLACE",
+  "DisplayNameMSID": "CARD_NAME_1341"
+ },
+ {
+  "CharacterID": "ROCKETDANNOMARUMINE",
+  "DisplayNameMSID": "CARD_NAME_1357"
+ },
+ {
+  "CharacterID": "ROCKETDANNOMATADOGAS_EX",
+  "DisplayNameMSID": "CARD_NAME_1372"
+ },
+ {
+  "CharacterID": "ROCKETDANNOMEWTWO",
+  "DisplayNameMSID": "CARD_NAME_1365"
+ },
+ {
+  "CharacterID": "ROCKETDANNONAKANUCHAN",
+  "DisplayNameMSID": "CARD_NAME_1375"
+ },
+ {
+  "CharacterID": "ROCKETDANNONYARTH",
+  "DisplayNameMSID": "CARD_NAME_1380"
+ },
+ {
+  "CharacterID": "ROCKETDANNONYULA",
+  "DisplayNameMSID": "CARD_NAME_1373"
+ },
+ {
+  "CharacterID": "ROCKETDANNOPERSIAN",
+  "DisplayNameMSID": "CARD_NAME_1381"
+ },
+ {
+  "CharacterID": "ROCKETDANNORATTA_EX",
+  "DisplayNameMSID": "CARD_NAME_1379"
+ },
+ {
+  "CharacterID": "ROCKETDANNOSHITAPPA",
+  "DisplayNameMSID": "CARD_NAME_484"
+ },
+ {
+  "CharacterID": "ROCKETDANNOSLEEPE",
+  "DisplayNameMSID": "CARD_NAME_1362"
+ },
+ {
+  "CharacterID": "ROCKETDANNOSLEEPER",
+  "DisplayNameMSID": "CARD_NAME_1363"
+ },
+ {
+  "CharacterID": "ROCKETDANNOSONANS",
+  "DisplayNameMSID": "CARD_NAME_1343"
+ },
+ {
+  "CharacterID": "ROCKETDANNOSTRIKE",
+  "DisplayNameMSID": "CARD_NAME_1340"
+ },
+ {
+  "CharacterID": "ROCKETDANNOTHUNDER_EX",
+  "DisplayNameMSID": "CARD_NAME_1358"
+ },
+ {
+  "CharacterID": "ROCKETDANNOYADOKING_EX",
+  "DisplayNameMSID": "CARD_NAME_1361"
+ },
+ {
+  "CharacterID": "ROCKETDANNOYADON",
+  "DisplayNameMSID": "CARD_NAME_1360"
+ },
+ {
+  "CharacterID": "ROKON",
+  "DisplayNameMSID": "CARD_NAME_37"
+ },
+ {
+  "CharacterID": "ROSELIA",
+  "DisplayNameMSID": "CARD_NAME_281"
+ },
+ {
+  "CharacterID": "ROSERADE",
+  "DisplayNameMSID": "CARD_NAME_282"
+ },
+ {
+  "CharacterID": "ROTOM",
+  "DisplayNameMSID": "CARD_NAME_327"
+ },
+ {
+  "CharacterID": "ROTOMUZUKAN",
+  "DisplayNameMSID": "CARD_NAME_603"
+ },
+ {
+  "CharacterID": "ROTOM_EX",
+  "DisplayNameMSID": "CARD_NAME_1300"
+ },
+ {
+  "CharacterID": "ROUBUSHIN",
+  "DisplayNameMSID": "CARD_NAME_557"
+ },
+ {
+  "CharacterID": "ROUGELA",
+  "DisplayNameMSID": "CARD_NAME_127"
+ },
+ {
+  "CharacterID": "RUCHIA",
+  "DisplayNameMSID": "CARD_NAME_951"
+ },
+ {
+  "CharacterID": "RUFFRESIA",
+  "DisplayNameMSID": "CARD_NAME_13"
+ },
+ {
+  "CharacterID": "RUNPAPPA",
+  "DisplayNameMSID": "CARD_NAME_866"
+ },
+ {
+  "CharacterID": "RURIRI",
+  "DisplayNameMSID": "CARD_NAME_820"
+ },
+ {
+  "CharacterID": "SABONEA",
+  "DisplayNameMSID": "CARD_NAME_972"
+ },
+ {
+  "CharacterID": "SADAIJA",
+  "DisplayNameMSID": "CARD_NAME_1196"
+ },
+ {
+  "CharacterID": "SAIKIKKA",
+  "DisplayNameMSID": "CARD_NAME_1333"
+ },
+ {
+  "CharacterID": "SAKAKI",
+  "DisplayNameMSID": "CARD_NAME_221"
+ },
+ {
+  "CharacterID": "SAKEBUSHIPPO",
+  "DisplayNameMSID": "CARD_NAME_1226"
+ },
+ {
+  "CharacterID": "SAKURABYSS",
+  "DisplayNameMSID": "CARD_NAME_1171"
+ },
+ {
+  "CharacterID": "SAMAYOURU",
+  "DisplayNameMSID": "CARD_NAME_334"
+ },
+ {
+  "CharacterID": "SAMEHADER",
+  "DisplayNameMSID": "CARD_NAME_638"
+ },
+ {
+  "CharacterID": "SANAGIRAS",
+  "DisplayNameMSID": "CARD_NAME_434"
+ },
+ {
+  "CharacterID": "SAND",
+  "DisplayNameMSID": "CARD_NAME_137"
+ },
+ {
+  "CharacterID": "SANDPAN",
+  "DisplayNameMSID": "CARD_NAME_138"
+ },
+ {
+  "CharacterID": "SARUNORI",
+  "DisplayNameMSID": "CARD_NAME_847"
+ },
+ {
+  "CharacterID": "SASIKAMASU",
+  "DisplayNameMSID": "CARD_NAME_881"
+ },
+ {
+  "CharacterID": "SAWAMULAR",
+  "DisplayNameMSID": "CARD_NAME_154"
+ },
+ {
+  "CharacterID": "SAZANDORA",
+  "DisplayNameMSID": "CARD_NAME_909"
+ },
+ {
+  "CharacterID": "SCORUPI",
+  "DisplayNameMSID": "CARD_NAME_365"
+ },
+ {
+  "CharacterID": "SCOVILLAIN",
+  "DisplayNameMSID": "CARD_NAME_1074"
+ },
+ {
+  "CharacterID": "SEADRA",
+  "DisplayNameMSID": "CARD_NAME_71"
+ },
+ {
+  "CharacterID": "SEBIE",
+  "DisplayNameMSID": "CARD_NAME_1092"
+ },
+ {
+  "CharacterID": "SEGLAIVE",
+  "DisplayNameMSID": "CARD_NAME_1094"
+ },
+ {
+  "CharacterID": "SEGOHRU",
+  "DisplayNameMSID": "CARD_NAME_1093"
+ },
+ {
+  "CharacterID": "SEKI",
+  "DisplayNameMSID": "CARD_NAME_449"
+ },
+ {
+  "CharacterID": "SEKITANZAN",
+  "DisplayNameMSID": "CARD_NAME_905"
+ },
+ {
+  "CharacterID": "SERENA",
+  "DisplayNameMSID": "CARD_NAME_970"
+ },
+ {
+  "CharacterID": "SHAYMIN",
+  "DisplayNameMSID": "CARD_NAME_295"
+ },
+ {
+  "CharacterID": "SHELLDER",
+  "DisplayNameMSID": "CARD_NAME_66"
+ },
+ {
+  "CharacterID": "SHIBIBEEL",
+  "DisplayNameMSID": "CARD_NAME_108"
+ },
+ {
+  "CharacterID": "SHIBIRUDON",
+  "DisplayNameMSID": "CARD_NAME_109"
+ },
+ {
+  "CharacterID": "SHIBISHIRASU",
+  "DisplayNameMSID": "CARD_NAME_107"
+ },
+ {
+  "CharacterID": "SHIGAROKO",
+  "DisplayNameMSID": "CARD_NAME_1075"
+ },
+ {
+  "CharacterID": "SHIMAMA",
+  "DisplayNameMSID": "CARD_NAME_105"
+ },
+ {
+  "CharacterID": "SHIRONA",
+  "DisplayNameMSID": "CARD_NAME_407"
+ },
+ {
+  "CharacterID": "SHIRUSHREW",
+  "DisplayNameMSID": "CARD_NAME_471"
+ },
+ {
+  "CharacterID": "SHISHIKO",
+  "DisplayNameMSID": "CARD_NAME_861"
+ },
+ {
+  "CharacterID": "SHIZARIGER",
+  "DisplayNameMSID": "CARD_NAME_726"
+ },
+ {
+  "CharacterID": "SHIZUI",
+  "DisplayNameMSID": "CARD_NAME_946"
+ },
+ {
+  "CharacterID": "SHIZUKUMO",
+  "DisplayNameMSID": "CARD_NAME_523"
+ },
+ {
+  "CharacterID": "SHOWERS",
+  "DisplayNameMSID": "CARD_NAME_80"
+ },
+ {
+  "CharacterID": "SHOWERS_EX",
+  "DisplayNameMSID": "CARD_NAME_1166"
+ },
+ {
+  "CharacterID": "SHUSHUPU",
+  "DisplayNameMSID": "CARD_NAME_894"
+ },
+ {
+  "CharacterID": "SIDON",
+  "DisplayNameMSID": "CARD_NAME_157"
+ },
+ {
+  "CharacterID": "SIHORN",
+  "DisplayNameMSID": "CARD_NAME_156"
+ },
+ {
+  "CharacterID": "SILVADY",
+  "DisplayNameMSID": "CARD_NAME_660"
+ },
+ {
+  "CharacterID": "SILVER",
+  "DisplayNameMSID": "CARD_NAME_780"
+ },
+ {
+  "CharacterID": "SIRNIGHT",
+  "DisplayNameMSID": "CARD_NAME_132"
+ },
+ {
+  "CharacterID": "SIRODETHNA",
+  "DisplayNameMSID": "CARD_NAME_544"
+ },
+ {
+  "CharacterID": "SKUNPUU",
+  "DisplayNameMSID": "CARD_NAME_362"
+ },
+ {
+  "CharacterID": "SKUTANK",
+  "DisplayNameMSID": "CARD_NAME_363"
+ },
+ {
+  "CharacterID": "SLEEPE",
+  "DisplayNameMSID": "CARD_NAME_124"
+ },
+ {
+  "CharacterID": "SLEEPER",
+  "DisplayNameMSID": "CARD_NAME_125"
+ },
+ {
+  "CharacterID": "SOHNANO",
+  "DisplayNameMSID": "CARD_NAME_1304"
+ },
+ {
+  "CharacterID": "SOLGALEO_EX",
+  "DisplayNameMSID": "CARD_NAME_581"
+ },
+ {
+  "CharacterID": "SOLROCK",
+  "DisplayNameMSID": "CARD_NAME_553"
+ },
+ {
+  "CharacterID": "SONANS",
+  "DisplayNameMSID": "CARD_NAME_741"
+ },
+ {
+  "CharacterID": "SOUBLADES",
+  "DisplayNameMSID": "CARD_NAME_1102"
+ },
+ {
+  "CharacterID": "SOUBLADES_EX",
+  "DisplayNameMSID": "CARD_NAME_1261"
+ },
+ {
+  "CharacterID": "SOUJYUKUEKISU",
+  "DisplayNameMSID": "CARD_NAME_968"
+ },
+ {
+  "CharacterID": "SPEAR",
+  "DisplayNameMSID": "CARD_NAME_10"
+ },
+ {
+  "CharacterID": "SPEAR_EX",
+  "DisplayNameMSID": "CARD_NAME_455"
+ },
+ {
+  "CharacterID": "SPEEDER",
+  "DisplayNameMSID": "CARD_NAME_227"
+ },
+ {
+  "CharacterID": "SPIN ROTOM",
+  "DisplayNameMSID": "CARD_NAME_397"
+ },
+ {
+  "CharacterID": "STARMIE",
+  "DisplayNameMSID": "CARD_NAME_75"
+ },
+ {
+  "CharacterID": "STARMIE_EX",
+  "DisplayNameMSID": "CARD_NAME_76"
+ },
+ {
+  "CharacterID": "STRIKE",
+  "DisplayNameMSID": "CARD_NAME_25"
+ },
+ {
+  "CharacterID": "STRINDER",
+  "DisplayNameMSID": "CARD_NAME_1181"
+ },
+ {
+  "CharacterID": "STRINDER_EX",
+  "DisplayNameMSID": "CARD_NAME_1004"
+ },
+ {
+  "CharacterID": "SUBAME",
+  "DisplayNameMSID": "CARD_NAME_1041"
+ },
+ {
+  "CharacterID": "SUBOMIE",
+  "DisplayNameMSID": "CARD_NAME_1153"
+ },
+ {
+  "CharacterID": "SUICUNE",
+  "DisplayNameMSID": "CARD_NAME_724"
+ },
+ {
+  "CharacterID": "SUICUNE_EX",
+  "DisplayNameMSID": "CARD_NAME_797"
+ },
+ {
+  "CharacterID": "SUIREN",
+  "DisplayNameMSID": "CARD_NAME_610"
+ },
+ {
+  "CharacterID": "SUNABA",
+  "DisplayNameMSID": "CARD_NAME_543"
+ },
+ {
+  "CharacterID": "SUNAHEBI",
+  "DisplayNameMSID": "CARD_NAME_1195"
+ },
+ {
+  "CharacterID": "SUNANOKEGAWA",
+  "DisplayNameMSID": "CARD_NAME_1236"
+ },
+ {
+  "CharacterID": "SUNNYGO",
+  "DisplayNameMSID": "CARD_NAME_720"
+ },
+ {
+  "CharacterID": "SURFUGO",
+  "DisplayNameMSID": "CARD_NAME_478"
+ },
+ {
+  "CharacterID": "SURFUGO_EX",
+  "DisplayNameMSID": "CARD_NAME_1121"
+ },
+ {
+  "CharacterID": "SWANNA",
+  "DisplayNameMSID": "CARD_NAME_86"
+ },
+ {
+  "CharacterID": "SWANNA_EX",
+  "DisplayNameMSID": "CARD_NAME_1327"
+ },
+ {
+  "CharacterID": "SYAGA",
+  "DisplayNameMSID": "CARD_NAME_1334"
+ },
+ {
+  "CharacterID": "SYARITATSU",
+  "DisplayNameMSID": "CARD_NAME_462"
+ },
+ {
+  "CharacterID": "SYMBOLER",
+  "DisplayNameMSID": "CARD_NAME_253"
+ },
+ {
+  "CharacterID": "TABENOKOSHI",
+  "DisplayNameMSID": "CARD_NAME_688"
+ },
+ {
+  "CharacterID": "TABINOGYOUSHOUNIN",
+  "DisplayNameMSID": "CARD_NAME_826"
+ },
+ {
+  "CharacterID": "TABLECITY",
+  "DisplayNameMSID": "CARD_NAME_1130"
+ },
+ {
+  "CharacterID": "TABUNNE",
+  "DisplayNameMSID": "CARD_NAME_626"
+ },
+ {
+  "CharacterID": "TAGGINGRU",
+  "DisplayNameMSID": "CARD_NAME_472"
+ },
+ {
+  "CharacterID": "TAIKAIDEN",
+  "DisplayNameMSID": "CARD_NAME_1098"
+ },
+ {
+  "CharacterID": "TAIRENAR",
+  "DisplayNameMSID": "CARD_NAME_1350"
+ },
+ {
+  "CharacterID": "TAIRETSU",
+  "DisplayNameMSID": "CARD_NAME_1022"
+ },
+ {
+  "CharacterID": "TAKERURAIKO",
+  "DisplayNameMSID": "CARD_NAME_1248"
+ },
+ {
+  "CharacterID": "TAKESHI",
+  "DisplayNameMSID": "CARD_NAME_222"
+ },
+ {
+  "CharacterID": "TAMAGETAKE",
+  "DisplayNameMSID": "CARD_NAME_1199"
+ },
+ {
+  "CharacterID": "TAMANTA",
+  "DisplayNameMSID": "CARD_NAME_798"
+ },
+ {
+  "CharacterID": "TAMANTULA",
+  "DisplayNameMSID": "CARD_NAME_1065"
+ },
+ {
+  "CharacterID": "TAMATAMA",
+  "DisplayNameMSID": "CARD_NAME_21"
+ },
+ {
+  "CharacterID": "TAMAZARASHI",
+  "DisplayNameMSID": "CARD_NAME_1293"
+ },
+ {
+  "CharacterID": "TANDON",
+  "DisplayNameMSID": "CARD_NAME_903"
+ },
+ {
+  "CharacterID": "TANEBOH",
+  "DisplayNameMSID": "CARD_NAME_838"
+ },
+ {
+  "CharacterID": "TARUPPLE",
+  "DisplayNameMSID": "CARD_NAME_671"
+ },
+ {
+  "CharacterID": "TATAKKO",
+  "DisplayNameMSID": "CARD_NAME_162"
+ },
+ {
+  "CharacterID": "TATENOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_400"
+ },
+ {
+  "CharacterID": "TATETOPS",
+  "DisplayNameMSID": "CARD_NAME_373"
+ },
+ {
+  "CharacterID": "TATSUBAY",
+  "DisplayNameMSID": "CARD_NAME_1036"
+ },
+ {
+  "CharacterID": "TATTU",
+  "DisplayNameMSID": "CARD_NAME_70"
+ },
+ {
+  "CharacterID": "TAXIDRIVER",
+  "DisplayNameMSID": "CARD_NAME_1213"
+ },
+ {
+  "CharacterID": "TEAMSTARGRUNT",
+  "DisplayNameMSID": "CARD_NAME_1127"
+ },
+ {
+  "CharacterID": "TEBRIM",
+  "DisplayNameMSID": "CARD_NAME_1186"
+ },
+ {
+  "CharacterID": "TEKKAGUYA",
+  "DisplayNameMSID": "CARD_NAME_661"
+ },
+ {
+  "CharacterID": "TEPPOUO",
+  "DisplayNameMSID": "CARD_NAME_721"
+ },
+ {
+  "CharacterID": "TERAPAGOS_EX",
+  "DisplayNameMSID": "CARD_NAME_1251"
+ },
+ {
+  "CharacterID": "TERRAKION",
+  "DisplayNameMSID": "CARD_NAME_900"
+ },
+ {
+  "CharacterID": "TESSEED",
+  "DisplayNameMSID": "CARD_NAME_654"
+ },
+ {
+  "CharacterID": "TETSUNOBUJIN",
+  "DisplayNameMSID": "CARD_NAME_1228"
+ },
+ {
+  "CharacterID": "TETSUNODOKUGA",
+  "DisplayNameMSID": "CARD_NAME_1221"
+ },
+ {
+  "CharacterID": "TETSUNOIBARA",
+  "DisplayNameMSID": "CARD_NAME_1224"
+ },
+ {
+  "CharacterID": "TETSUNOISAHA",
+  "DisplayNameMSID": "CARD_NAME_1229"
+ },
+ {
+  "CharacterID": "TETSUNOIWAO",
+  "DisplayNameMSID": "CARD_NAME_1230"
+ },
+ {
+  "CharacterID": "TETSUNOKAINA",
+  "DisplayNameMSID": "CARD_NAME_1223"
+ },
+ {
+  "CharacterID": "TETSUNOKASHIRA",
+  "DisplayNameMSID": "CARD_NAME_1231"
+ },
+ {
+  "CharacterID": "TETSUNOKOUBE",
+  "DisplayNameMSID": "CARD_NAME_1241"
+ },
+ {
+  "CharacterID": "TETSUNOTSUTSUMI",
+  "DisplayNameMSID": "CARD_NAME_1265"
+ },
+ {
+  "CharacterID": "TETSUNOTSUTSUMI_EX",
+  "DisplayNameMSID": "CARD_NAME_1222"
+ },
+ {
+  "CharacterID": "TETSUNOWADACHI",
+  "DisplayNameMSID": "CARD_NAME_1245"
+ },
+ {
+  "CharacterID": "THUNDER",
+  "DisplayNameMSID": "CARD_NAME_103"
+ },
+ {
+  "CharacterID": "THUNDERS",
+  "DisplayNameMSID": "CARD_NAME_102"
+ },
+ {
+  "CharacterID": "THUNDERS_EX",
+  "DisplayNameMSID": "CARD_NAME_884"
+ },
+ {
+  "CharacterID": "THUNDER_EX",
+  "DisplayNameMSID": "CARD_NAME_104"
+ },
+ {
+  "CharacterID": "TODOGGLER",
+  "DisplayNameMSID": "CARD_NAME_1294"
+ },
+ {
+  "CharacterID": "TODOROKUTSUKI",
+  "DisplayNameMSID": "CARD_NAME_1242"
+ },
+ {
+  "CharacterID": "TODOSERUGA",
+  "DisplayNameMSID": "CARD_NAME_1295"
+ },
+ {
+  "CharacterID": "TOGECHICK",
+  "DisplayNameMSID": "CARD_NAME_329"
+ },
+ {
+  "CharacterID": "TOGEDEMARU",
+  "DisplayNameMSID": "CARD_NAME_532"
+ },
+ {
+  "CharacterID": "TOGEKISS",
+  "DisplayNameMSID": "CARD_NAME_330"
+ },
+ {
+  "CharacterID": "TOGEPY",
+  "DisplayNameMSID": "CARD_NAME_328"
+ },
+ {
+  "CharacterID": "TORENINGUERIA",
+  "DisplayNameMSID": "CARD_NAME_1060"
+ },
+ {
+  "CharacterID": "TORIDEPS",
+  "DisplayNameMSID": "CARD_NAME_374"
+ },
+ {
+  "CharacterID": "TORNELOS",
+  "DisplayNameMSID": "CARD_NAME_1046"
+ },
+ {
+  "CharacterID": "TOROGGON",
+  "DisplayNameMSID": "CARD_NAME_904"
+ },
+ {
+  "CharacterID": "TOSAKINTO",
+  "DisplayNameMSID": "CARD_NAME_72"
+ },
+ {
+  "CharacterID": "TRANSEL",
+  "DisplayNameMSID": "CARD_NAME_6"
+ },
+ {
+  "CharacterID": "TRIMMIEN",
+  "DisplayNameMSID": "CARD_NAME_935"
+ },
+ {
+  "CharacterID": "TRITODON",
+  "DisplayNameMSID": "CARD_NAME_313"
+ },
+ {
+  "CharacterID": "TROPIUS",
+  "DisplayNameMSID": "CARD_NAME_669"
+ },
+ {
+  "CharacterID": "TSUBOTSUBO",
+  "DisplayNameMSID": "CARD_NAME_971"
+ },
+ {
+  "CharacterID": "TSUBOTSUBO_EX",
+  "DisplayNameMSID": "CARD_NAME_703"
+ },
+ {
+  "CharacterID": "TSUMENOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_1329"
+ },
+ {
+  "CharacterID": "TSUTARJA",
+  "DisplayNameMSID": "CARD_NAME_235"
+ },
+ {
+  "CharacterID": "TSUTSUKERA",
+  "DisplayNameMSID": "CARD_NAME_591"
+ },
+ {
+  "CharacterID": "TUNBEAR",
+  "DisplayNameMSID": "CARD_NAME_1173"
+ },
+ {
+  "CharacterID": "TUNDETUNDE",
+  "DisplayNameMSID": "CARD_NAME_622"
+ },
+ {
+  "CharacterID": "TYLTALIS",
+  "DisplayNameMSID": "CARD_NAME_818"
+ },
+ {
+  "CharacterID": "TYLTTO",
+  "DisplayNameMSID": "CARD_NAME_821"
+ },
+ {
+  "CharacterID": "TYPENULL",
+  "DisplayNameMSID": "CARD_NAME_659"
+ },
+ {
+  "CharacterID": "UDEPPOU",
+  "DisplayNameMSID": "CARD_NAME_959"
+ },
+ {
+  "CharacterID": "UGATSUHOMURA",
+  "DisplayNameMSID": "CARD_NAME_1247"
+ },
+ {
+  "CharacterID": "ULGAMOTH",
+  "DisplayNameMSID": "CARD_NAME_242"
+ },
+ {
+  "CharacterID": "UMIDIGDA",
+  "DisplayNameMSID": "CARD_NAME_459"
+ },
+ {
+  "CharacterID": "UMITRIO",
+  "DisplayNameMSID": "CARD_NAME_1086"
+ },
+ {
+  "CharacterID": "UMITRIO_EX",
+  "DisplayNameMSID": "CARD_NAME_460"
+ },
+ {
+  "CharacterID": "UNERUMINAMO",
+  "DisplayNameMSID": "CARD_NAME_1246"
+ },
+ {
+  "CharacterID": "UNIRAN",
+  "DisplayNameMSID": "CARD_NAME_961"
+ },
+ {
+  "CharacterID": "UNKNOWN",
+  "DisplayNameMSID": "CARD_NAME_429"
+ },
+ {
+  "CharacterID": "UPAH",
+  "DisplayNameMSID": "CARD_NAME_717"
+ },
+ {
+  "CharacterID": "URIMOO",
+  "DisplayNameMSID": "CARD_NAME_303"
+ },
+ {
+  "CharacterID": "USOHACHI",
+  "DisplayNameMSID": "CARD_NAME_1189"
+ },
+ {
+  "CharacterID": "USOKKIE",
+  "DisplayNameMSID": "CARD_NAME_430"
+ },
+ {
+  "CharacterID": "UTSUBOT",
+  "DisplayNameMSID": "CARD_NAME_20"
+ },
+ {
+  "CharacterID": "UTSUDON",
+  "DisplayNameMSID": "CARD_NAME_19"
+ },
+ {
+  "CharacterID": "UTUROID",
+  "DisplayNameMSID": "CARD_NAME_647"
+ },
+ {
+  "CharacterID": "UU",
+  "DisplayNameMSID": "CARD_NAME_248"
+ },
+ {
+  "CharacterID": "VALCHAI",
+  "DisplayNameMSID": "CARD_NAME_1201"
+ },
+ {
+  "CharacterID": "VANIPETI",
+  "DisplayNameMSID": "CARD_NAME_624"
+ },
+ {
+  "CharacterID": "VANIRICH",
+  "DisplayNameMSID": "CARD_NAME_675"
+ },
+ {
+  "CharacterID": "VIBRAVA",
+  "DisplayNameMSID": "CARD_NAME_1206"
+ },
+ {
+  "CharacterID": "VICTINI",
+  "DisplayNameMSID": "CARD_NAME_1162"
+ },
+ {
+  "CharacterID": "VIRIZION",
+  "DisplayNameMSID": "CARD_NAME_846"
+ },
+ {
+  "CharacterID": "VIVIYON",
+  "DisplayNameMSID": "CARD_NAME_979"
+ },
+ {
+  "CharacterID": "VOLTOLOS",
+  "DisplayNameMSID": "CARD_NAME_1301"
+ },
+ {
+  "CharacterID": "VULGINA",
+  "DisplayNameMSID": "CARD_NAME_1202"
+ },
+ {
+  "CharacterID": "WAKASYAMO",
+  "DisplayNameMSID": "CARD_NAME_853"
+ },
+ {
+  "CharacterID": "WAKKANEZUMI",
+  "DisplayNameMSID": "CARD_NAME_1049"
+ },
+ {
+  "CharacterID": "WANAIDER",
+  "DisplayNameMSID": "CARD_NAME_1066"
+ },
+ {
+  "CharacterID": "WANINOKO",
+  "DisplayNameMSID": "CARD_NAME_714"
+ },
+ {
+  "CharacterID": "WANIVAL",
+  "DisplayNameMSID": "CARD_NAME_1085"
+ },
+ {
+  "CharacterID": "WANPACHI",
+  "DisplayNameMSID": "CARD_NAME_802"
+ },
+ {
+  "CharacterID": "WANRIKY",
+  "DisplayNameMSID": "CARD_NAME_143"
+ },
+ {
+  "CharacterID": "WARRGLE",
+  "DisplayNameMSID": "CARD_NAME_934"
+ },
+ {
+  "CharacterID": "WARUVIAL",
+  "DisplayNameMSID": "CARD_NAME_646"
+ },
+ {
+  "CharacterID": "WARUVILE",
+  "DisplayNameMSID": "CARD_NAME_645"
+ },
+ {
+  "CharacterID": "WASH ROTOM",
+  "DisplayNameMSID": "CARD_NAME_317"
+ },
+ {
+  "CharacterID": "WASHIBON",
+  "DisplayNameMSID": "CARD_NAME_933"
+ },
+ {
+  "CharacterID": "WATACCO",
+  "DisplayNameMSID": "CARD_NAME_698"
+ },
+ {
+  "CharacterID": "WATACCO_EX",
+  "DisplayNameMSID": "CARD_NAME_794"
+ },
+ {
+  "CharacterID": "WATASHIRAGA",
+  "DisplayNameMSID": "CARD_NAME_982"
+ },
+ {
+  "CharacterID": "WELKAMO",
+  "DisplayNameMSID": "CARD_NAME_1084"
+ },
+ {
+  "CharacterID": "WHALOH",
+  "DisplayNameMSID": "CARD_NAME_868"
+ },
+ {
+  "CharacterID": "WHALOH_EX",
+  "DisplayNameMSID": "CARD_NAME_1292"
+ },
+ {
+  "CharacterID": "WHEEGA",
+  "DisplayNameMSID": "CARD_NAME_267"
+ },
+ {
+  "CharacterID": "WHOTABOTO",
+  "DisplayNameMSID": "CARD_NAME_823"
+ },
+ {
+  "CharacterID": "WINDIE",
+  "DisplayNameMSID": "CARD_NAME_40"
+ },
+ {
+  "CharacterID": "WINDIE_EX",
+  "DisplayNameMSID": "CARD_NAME_41"
+ },
+ {
+  "CharacterID": "WOOLUU",
+  "DisplayNameMSID": "CARD_NAME_212"
+ },
+ {
+  "CharacterID": "WULAOSUICHIGEKINOKATA",
+  "DisplayNameMSID": "CARD_NAME_1203"
+ },
+ {
+  "CharacterID": "WULAOSURENGEKINOKATA",
+  "DisplayNameMSID": "CARD_NAME_1177"
+ },
+ {
+  "CharacterID": "XERNEAS",
+  "DisplayNameMSID": "CARD_NAME_964"
+ },
+ {
+  "CharacterID": "YABACHA",
+  "DisplayNameMSID": "CARD_NAME_1014"
+ },
+ {
+  "CharacterID": "YABASOCHA",
+  "DisplayNameMSID": "CARD_NAME_1288"
+ },
+ {
+  "CharacterID": "YABUKURON",
+  "DisplayNameMSID": "CARD_NAME_572"
+ },
+ {
+  "CharacterID": "YADOKING",
+  "DisplayNameMSID": "CARD_NAME_735"
+ },
+ {
+  "CharacterID": "YADON",
+  "DisplayNameMSID": "CARD_NAME_118"
+ },
+ {
+  "CharacterID": "YADORAN",
+  "DisplayNameMSID": "CARD_NAME_119"
+ },
+ {
+  "CharacterID": "YAJILON",
+  "DisplayNameMSID": "CARD_NAME_640"
+ },
+ {
+  "CharacterID": "YAKUDE",
+  "DisplayNameMSID": "CARD_NAME_51"
+ },
+ {
+  "CharacterID": "YAMIKARASU",
+  "DisplayNameMSID": "CARD_NAME_356"
+ },
+ {
+  "CharacterID": "YAMIRAMI",
+  "DisplayNameMSID": "CARD_NAME_534"
+ },
+ {
+  "CharacterID": "YANAKKIE",
+  "DisplayNameMSID": "CARD_NAME_844"
+ },
+ {
+  "CharacterID": "YANAPPU",
+  "DisplayNameMSID": "CARD_NAME_843"
+ },
+ {
+  "CharacterID": "YANCHAM",
+  "DisplayNameMSID": "CARD_NAME_901"
+ },
+ {
+  "CharacterID": "YANYANMA",
+  "DisplayNameMSID": "CARD_NAME_279"
+ },
+ {
+  "CharacterID": "YAREYUUTAN",
+  "DisplayNameMSID": "CARD_NAME_598"
+ },
+ {
+  "CharacterID": "YARUKIMONO",
+  "DisplayNameMSID": "CARD_NAME_1044"
+ },
+ {
+  "CharacterID": "YATOUMORI",
+  "DisplayNameMSID": "CARD_NAME_49"
+ },
+ {
+  "CharacterID": "YAYAKOMA",
+  "DisplayNameMSID": "CARD_NAME_589"
+ },
+ {
+  "CharacterID": "YESSAN",
+  "DisplayNameMSID": "CARD_NAME_1016"
+ },
+ {
+  "CharacterID": "YESSAN_EX",
+  "DisplayNameMSID": "CARD_NAME_896"
+ },
+ {
+  "CharacterID": "YIYUI",
+  "DisplayNameMSID": "CARD_NAME_1082"
+ },
+ {
+  "CharacterID": "YOGIRAS",
+  "DisplayNameMSID": "CARD_NAME_433"
+ },
+ {
+  "CharacterID": "YOKUBARISU",
+  "DisplayNameMSID": "CARD_NAME_628"
+ },
+ {
+  "CharacterID": "YOMAWARU",
+  "DisplayNameMSID": "CARD_NAME_333"
+ },
+ {
+  "CharacterID": "YONOIR",
+  "DisplayNameMSID": "CARD_NAME_335"
+ },
+ {
+  "CharacterID": "YORTERRIE",
+  "DisplayNameMSID": "CARD_NAME_656"
+ },
+ {
+  "CharacterID": "YORUNOZUKU",
+  "DisplayNameMSID": "CARD_NAME_443"
+ },
+ {
+  "CharacterID": "YOUNGOOSE",
+  "DisplayNameMSID": "CARD_NAME_594"
+ },
+ {
+  "CharacterID": "YOWASHI",
+  "DisplayNameMSID": "CARD_NAME_521"
+ },
+ {
+  "CharacterID": "YOWASHI_EX",
+  "DisplayNameMSID": "CARD_NAME_522"
+ },
+ {
+  "CharacterID": "YUKIHAMI",
+  "DisplayNameMSID": "CARD_NAME_92"
+ },
+ {
+  "CharacterID": "YUKIKABURI",
+  "DisplayNameMSID": "CARD_NAME_314"
+ },
+ {
+  "CharacterID": "YUKIMENOKO",
+  "DisplayNameMSID": "CARD_NAME_423"
+ },
+ {
+  "CharacterID": "YUKINOOH",
+  "DisplayNameMSID": "CARD_NAME_315"
+ },
+ {
+  "CharacterID": "YUKIWARASHI",
+  "DisplayNameMSID": "CARD_NAME_422"
+ },
+ {
+  "CharacterID": "YUNGERER",
+  "DisplayNameMSID": "CARD_NAME_116"
+ },
+ {
+  "CharacterID": "YURADLE",
+  "DisplayNameMSID": "CARD_NAME_1283"
+ },
+ {
+  "CharacterID": "YUUGANAMANTO",
+  "DisplayNameMSID": "CARD_NAME_1277"
+ },
+ {
+  "CharacterID": "YUXIE",
+  "DisplayNameMSID": "CARD_NAME_338"
+ },
+ {
+  "CharacterID": "YVELTAL",
+  "DisplayNameMSID": "CARD_NAME_1030"
+ },
+ {
+  "CharacterID": "ZANGOOSE",
+  "DisplayNameMSID": "CARD_NAME_822"
+ },
+ {
+  "CharacterID": "ZARUDE",
+  "DisplayNameMSID": "CARD_NAME_1204"
+ },
+ {
+  "CharacterID": "ZEBRAIKA",
+  "DisplayNameMSID": "CARD_NAME_106"
+ },
+ {
+  "CharacterID": "ZEHIGAMEJOURO",
+  "DisplayNameMSID": "CARD_NAME_774"
+ },
+ {
+  "CharacterID": "ZEKROM",
+  "DisplayNameMSID": "CARD_NAME_1180"
+ },
+ {
+  "CharacterID": "ZENIGAME",
+  "DisplayNameMSID": "CARD_NAME_53"
+ },
+ {
+  "CharacterID": "ZERAORA",
+  "DisplayNameMSID": "CARD_NAME_629"
+ },
+ {
+  "CharacterID": "ZOROARK",
+  "DisplayNameMSID": "CARD_NAME_787"
+ },
+ {
+  "CharacterID": "ZOROARK_EX",
+  "DisplayNameMSID": "CARD_NAME_1198"
+ },
+ {
+  "CharacterID": "ZORUA",
+  "DisplayNameMSID": "CARD_NAME_786"
+ },
+ {
+  "CharacterID": "ZOUDOU",
+  "DisplayNameMSID": "CARD_NAME_1243"
+ },
+ {
+  "CharacterID": "ZUBAT",
+  "DisplayNameMSID": "CARD_NAME_172"
+ },
+ {
+  "CharacterID": "ZUGADOON",
+  "DisplayNameMSID": "CARD_NAME_618"
+ },
+ {
+  "CharacterID": "ZUGADOON_EX",
+  "DisplayNameMSID": "CARD_NAME_985"
+ },
+ {
+  "CharacterID": "ZUGAIDOS",
+  "DisplayNameMSID": "CARD_NAME_349"
+ },
+ {
+  "CharacterID": "ZUGAINOKASEKI",
+  "DisplayNameMSID": "CARD_NAME_399"
+ },
+ {
+  "CharacterID": "ZUPIKA",
+  "DisplayNameMSID": "CARD_NAME_1005"
+ },
+ {
+  "CharacterID": "ZURUGGU",
+  "DisplayNameMSID": "CARD_NAME_1028"
+ },
+ {
+  "CharacterID": "ZURUZUKIN",
+  "DisplayNameMSID": "CARD_NAME_1029"
+ },
+ {
+  "CharacterID": "ZYGARDE",
+  "DisplayNameMSID": "CARD_NAME_1258"
+ },
+ {
+  "CharacterID": "ZYGARDE_EX",
+  "DisplayNameMSID": "CARD_NAME_1259"
+ }
+]

@@ -1,0 +1,117 @@
+[
+ {
+  "SoloBattleTrySumKey": 10,
+  "DescriptionMSID": "CauseSpecialConditionParalyzed_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 11,
+  "DescriptionMSID": "CauseSpecialConditionAsleep_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 12,
+  "DescriptionMSID": "CauseSpecialConditionBurned_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 13,
+  "DescriptionMSID": "CauseSpecialConditionConfused_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 14,
+  "DescriptionMSID": "CauseSpecialConditionPoisoned_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 20,
+  "DescriptionMSID": "KnockOutOpponentActiveByColorlessAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 21,
+  "DescriptionMSID": "KnockOutOpponentActiveByGrassAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 22,
+  "DescriptionMSID": "KnockOutOpponentActiveByFireAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 23,
+  "DescriptionMSID": "KnockOutOpponentActiveByWaterAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 24,
+  "DescriptionMSID": "KnockOutOpponentActiveByLightningAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 25,
+  "DescriptionMSID": "KnockOutOpponentActiveByPsychicAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 26,
+  "DescriptionMSID": "KnockOutOpponentActiveByFightingAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 27,
+  "DescriptionMSID": "KnockOutOpponentActiveByDarknessAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 28,
+  "DescriptionMSID": "KnockOutOpponentActiveByMetalAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 29,
+  "DescriptionMSID": "KnockOutOpponentActiveByDragonAttack_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 40,
+  "DescriptionMSID": "PlayBasicPokemon_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 41,
+  "DescriptionMSID": "PlayOneEvolutionPokemon_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 42,
+  "DescriptionMSID": "PlayTwoEvolutionPokemon_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 43,
+  "DescriptionMSID": "PlayEXPokemon_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 60,
+  "DescriptionMSID": "AttachEnergy_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 101,
+  "DescriptionMSID": "RecordDealtSomeDamage_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 102,
+  "DescriptionMSID": "RecordAcquiredSomePoint_MSID",
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTrySumKey": 103,
+  "DescriptionMSID": "RecordWonSomeBattle_MSID",
+  "TagParamType": 0
+ }
+]

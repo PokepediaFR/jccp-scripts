@@ -1,0 +1,758 @@
+[
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2_B2a",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B2_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2601000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B2a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B2_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2602000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B2b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2b_B3",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B2_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2603000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B3",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3_B3a",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B3_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2604000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B3a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B3_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2605000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B3b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3b_B4",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B3_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2606000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B4",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4_B4a",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B4_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2607000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B4a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B4_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2608000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_ADVANCED_B4b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4b_C1",
+  "Difficulty": 3,
+  "SortOrderPriority": 1300,
+  "BattleTryIDs": [
+   "RB_BT_ADVANCED_B2_01",
+   "RB_BT_ADVANCED_B2_02",
+   "RB_BT_ADVANCED_B2_03",
+   "RB_BT_ADVANCED_B4_04"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_ADVANCED",
+  "Version": 2609000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2_B2a",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2601000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B2a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2602000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B2b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2b_B3",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2603000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B3",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3_B3a",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2604000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B3a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2605000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B3b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3b_B4",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2606000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B4",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4_B4a",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2607000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B4a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2608000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_BEGINNER_B4b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4b_C1",
+  "Difficulty": 1,
+  "SortOrderPriority": 1100,
+  "BattleTryIDs": [
+   "RB_BT_BEGINNER_B2_01"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_BEGINNER",
+  "Version": 2609000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2_B2a",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B2_02",
+   "RB_BT_EXPERT_B2_03",
+   "RB_BT_EXPERT_B2_04",
+   "RB_BT_EXPERT_B2_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2601000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B2a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B2_02",
+   "RB_BT_EXPERT_B2_03",
+   "RB_BT_EXPERT_B2_04",
+   "RB_BT_EXPERT_B2_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2602000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B2b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2b_B3",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B2_02",
+   "RB_BT_EXPERT_B2_03",
+   "RB_BT_EXPERT_B2_04",
+   "RB_BT_EXPERT_B2_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2603000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B3",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3_B3a",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B3_02",
+   "RB_BT_EXPERT_B3_03",
+   "RB_BT_EXPERT_B3_04",
+   "RB_BT_EXPERT_B3_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2604000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B3a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B3_02",
+   "RB_BT_EXPERT_B3_03",
+   "RB_BT_EXPERT_B3_04",
+   "RB_BT_EXPERT_B3_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2605000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B3b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3b_B4",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B3_02",
+   "RB_BT_EXPERT_B3_03",
+   "RB_BT_EXPERT_B3_04",
+   "RB_BT_EXPERT_B3_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2606000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B4",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4_B4a",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B4_02",
+   "RB_BT_EXPERT_B4_03",
+   "RB_BT_EXPERT_B4_04",
+   "RB_BT_EXPERT_B4_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2607000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B4a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B4_02",
+   "RB_BT_EXPERT_B4_03",
+   "RB_BT_EXPERT_B4_04",
+   "RB_BT_EXPERT_B4_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2608000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_EXPERT_B4b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4b_C1",
+  "Difficulty": 4,
+  "SortOrderPriority": 1400,
+  "BattleTryIDs": [
+   "RB_BT_EXPERT_B2_01",
+   "RB_BT_EXPERT_B4_02",
+   "RB_BT_EXPERT_B4_03",
+   "RB_BT_EXPERT_B4_04",
+   "RB_BT_EXPERT_B4_05"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_EXPERT",
+  "Version": 2609000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2_B2a",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2601000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B2a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2602000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B2b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B2b_B3",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2603000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B3",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3_B3a",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2604000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B3a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2605000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B3b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B3b_B4",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2606000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B4",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4_B4a",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2607000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B4a",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2608000
+ },
+ {
+  "BattleID": "RANDOMBATTLE_INTERMEDIATE_B4b",
+  "OpenConditionBattles": [],
+  "Schedule": "SC_PACK_RELEASE_B4b_C1",
+  "Difficulty": 2,
+  "SortOrderPriority": 1200,
+  "BattleTryIDs": [
+   "RB_BT_INTERMEDIATE_B2_01",
+   "RB_BT_INTERMEDIATE_B2_02"
+  ],
+  "ClearRewardIDs": [
+   "BT_RW_ONCE_CHARGER_P60_12"
+  ],
+  "DropRewardIDs": [],
+  "BattleRuleID": "BT_RU_SOLO_STANDARD",
+  "DeckRuleIDs": [],
+  "GroupID": "BT_RA_B2",
+  "BattleNameMSID": "MS_BT_RA_INTERMEDIATE",
+  "Version": 2609000
+ }
+]

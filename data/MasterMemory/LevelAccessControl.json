@@ -1,0 +1,65 @@
+[
+ {
+  "ID": "battle",
+  "Type": 2,
+  "Level": 0,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_050",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "battle_tutorial",
+  "Type": 1,
+  "Level": 3,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_020",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "collection_board",
+  "Type": 3,
+  "Level": 4,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_060",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "collection_file",
+  "Type": 4,
+  "Level": 6,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_070",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "deck",
+  "Type": 5,
+  "Level": 0,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_040",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "deck_mission",
+  "Type": 6,
+  "Level": 3,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_030",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "get_challenge",
+  "Type": 7,
+  "Level": 2,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_010",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "initial_pack_display",
+  "Type": 9,
+  "Level": 15,
+  "ConditionDescriptionMSID": "",
+  "IsDisplayUnlockDialog": false
+ },
+ {
+  "ID": "trade",
+  "Type": 8,
+  "Level": 3,
+  "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_090",
+  "IsDisplayUnlockDialog": false
+ }
+]

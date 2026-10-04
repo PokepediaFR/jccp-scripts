@@ -1,0 +1,8 @@
+[
+ {
+  "ID": "GIVE_CARD_SETTING_001",
+  "UnlockDaysAfterPlayerCreation": 14,
+  "DailyReceiveCountLimit": 1,
+  "DailyGiveCountLimitPerFriend": 1
+ }
+]

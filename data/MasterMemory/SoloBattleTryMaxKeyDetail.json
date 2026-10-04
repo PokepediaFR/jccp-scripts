@@ -1,0 +1,242 @@
+[
+ {
+  "SoloBattleTryMaxKey": 10,
+  "DescriptionMSID": "WinWithDeckOfColorless_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 11,
+  "DescriptionMSID": "WinWithDeckOfGrass_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 12,
+  "DescriptionMSID": "WinWithDeckOfFire_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 13,
+  "DescriptionMSID": "WinWithDeckOfWater_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 14,
+  "DescriptionMSID": "WinWithDeckOfLightning_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 15,
+  "DescriptionMSID": "WinWithDeckOfPsychic_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 16,
+  "DescriptionMSID": "WinWithDeckOfFighting_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 17,
+  "DescriptionMSID": "WinWithDeckOfDarkness_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 18,
+  "DescriptionMSID": "WinWithDeckOfMetal_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 19,
+  "DescriptionMSID": "WinWithDeckOfDragon_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 30,
+  "DescriptionMSID": "DealSomeDamageAtOnce_MSID",
+  "Fixed1": false,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 60,
+  "DescriptionMSID": "WinWithoutScored_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 61,
+  "DescriptionMSID": "WinWithoutRetreat_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 100,
+  "DescriptionMSID": "WinWithDeckOfRarityLess1_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 101,
+  "DescriptionMSID": "WinWithDeckOfRarityLess2_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 102,
+  "DescriptionMSID": "WinWithDeckOfRarityLess3_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 103,
+  "DescriptionMSID": "WinWithDeckOfPokemonRarityLess1_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 104,
+  "DescriptionMSID": "WinWithDeckOfPokemonRarityLess2_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 105,
+  "DescriptionMSID": "WinWithDeckOfPokemonRarityLess3_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 109,
+  "DescriptionMSID": "WinWithNoneOfCardsIsTrainer_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 120,
+  "DescriptionMSID": "WinWithNoneOfCardsIsMegaEvolution_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 121,
+  "DescriptionMSID": "WinWithDeckOfMegaEvolutionCardAtLeastN_MSID",
+  "Fixed1": true,
+  "TagParamType": 1
+ },
+ {
+  "SoloBattleTryMaxKey": 122,
+  "DescriptionMSID": "WinWithNoneOfCardsIsEx_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 123,
+  "DescriptionMSID": "WinWithNoneOfStadium_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 201,
+  "DescriptionMSID": "WinWithDeckOfSpecificExpansionCardAtLeastN_MSID",
+  "Fixed1": true,
+  "TagParamType": 2
+ },
+ {
+  "SoloBattleTryMaxKey": 202,
+  "DescriptionMSID": "WinWithDeckOfSpecificExpansionPokemonCardAtLeastN_MSID",
+  "Fixed1": true,
+  "TagParamType": 2
+ },
+ {
+  "SoloBattleTryMaxKey": 1006,
+  "DescriptionMSID": "WinWithinTurn6_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1008,
+  "DescriptionMSID": "WinWithinTurn8_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1010,
+  "DescriptionMSID": "WinWithinTurn10_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1012,
+  "DescriptionMSID": "WinWithinTurn12_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1014,
+  "DescriptionMSID": "WinWithinTurn14_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1016,
+  "DescriptionMSID": "WinWithinTurn16_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1018,
+  "DescriptionMSID": "WinWithinTurn18_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1020,
+  "DescriptionMSID": "WinWithinTurn20_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1022,
+  "DescriptionMSID": "WinWithinTurn22_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1024,
+  "DescriptionMSID": "WinWithinTurn24_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1026,
+  "DescriptionMSID": "WinWithinTurn26_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1028,
+  "DescriptionMSID": "WinWithinTurn28_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 1030,
+  "DescriptionMSID": "WinWithinTurn30_MSID",
+  "Fixed1": true,
+  "TagParamType": 0
+ },
+ {
+  "SoloBattleTryMaxKey": 2000,
+  "DescriptionMSID": "MaxWinStreakCount_MSID",
+  "Fixed1": false,
+  "TagParamType": 0
+ }
+]

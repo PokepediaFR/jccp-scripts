@@ -1,0 +1,12 @@
+{
+  "LOCAL_PUSH_1_BODY": "Vous pouvez ouvrir un Booster !",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "Vous recevrez une notification lorsque vous aurez regagné assez de vitalité Booster pour ouvrir un Booster.",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "Vitalité Booster rechargée.",
+  "LOCAL_PUSH_1_TITLE": "Votre vitalité Booster est rechargée !",
+  "LOCAL_PUSH_2_BODY": "Voulez-vous jeter un œil aux pioches miracles ?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "Vous recevrez une notification lorsque votre vitalité miracle sera complètement rechargée.",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "Vitalité miracle complètement rechargée.",
+  "LOCAL_PUSH_2_TITLE": "Votre vitalité miracle est complètement rechargée !",
+  "LocalizeSystemLocalPush": "\u0010",
+  "LocalizeSystemLocalPush_plural": "\u0011"
+}

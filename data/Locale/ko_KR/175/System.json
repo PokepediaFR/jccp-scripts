@@ -1,0 +1,11 @@
+{
+  "LOCAL_PUSH_1_BODY": "확장팩을 개봉할 수 있습니다",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "팩 파워가 1까지 회복했을 때 알립니다",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "팩 파워 회복",
+  "LOCAL_PUSH_1_TITLE": "팩 파워가 회복되었습니다!",
+  "LOCAL_PUSH_2_BODY": "겟 챌린지를 살펴보겠습니까?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "챌린지 파워를 모두 회복했을 때 알립니다",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "챌린지 파워 모두 회복",
+  "LOCAL_PUSH_2_TITLE": "챌린지 파워를 모두 회복했습니다",
+  "LocalizeSystemLocalPush": "\u0010"
+}

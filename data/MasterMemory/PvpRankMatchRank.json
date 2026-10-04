@@ -1,0 +1,138 @@
+[
+ {
+  "RankMatchRankID": "BEGINNER_1",
+  "MainRank": 1,
+  "SubRank": 1,
+  "SubRankNumber": 1,
+  "MainRankNameMSID": "MAIN_RANK_NAME_BIGINNER",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "BEGINNER_2",
+  "MainRank": 1,
+  "SubRank": 2,
+  "SubRankNumber": 2,
+  "MainRankNameMSID": "MAIN_RANK_NAME_BIGINNER",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "BEGINNER_3",
+  "MainRank": 1,
+  "SubRank": 3,
+  "SubRankNumber": 3,
+  "MainRankNameMSID": "MAIN_RANK_NAME_BIGINNER",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "BEGINNER_4",
+  "MainRank": 1,
+  "SubRank": 4,
+  "SubRankNumber": 4,
+  "MainRankNameMSID": "MAIN_RANK_NAME_BIGINNER",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "HYPERBALL_1",
+  "MainRank": 4,
+  "SubRank": 1,
+  "SubRankNumber": 1,
+  "MainRankNameMSID": "MAIN_RANK_NAME_HYPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "HYPERBALL_2",
+  "MainRank": 4,
+  "SubRank": 2,
+  "SubRankNumber": 2,
+  "MainRankNameMSID": "MAIN_RANK_NAME_HYPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "HYPERBALL_3",
+  "MainRank": 4,
+  "SubRank": 3,
+  "SubRankNumber": 3,
+  "MainRankNameMSID": "MAIN_RANK_NAME_HYPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "HYPERBALL_4",
+  "MainRank": 4,
+  "SubRank": 4,
+  "SubRankNumber": 4,
+  "MainRankNameMSID": "MAIN_RANK_NAME_HYPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "MASTERBALL",
+  "MainRank": 5,
+  "SubRank": 1,
+  "SubRankNumber": 0,
+  "MainRankNameMSID": "MAIN_RANK_NAME_MASTERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_MASTER"
+ },
+ {
+  "RankMatchRankID": "MONSTERBALL_1",
+  "MainRank": 2,
+  "SubRank": 1,
+  "SubRankNumber": 1,
+  "MainRankNameMSID": "MAIN_RANK_NAME_MONSTERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "MONSTERBALL_2",
+  "MainRank": 2,
+  "SubRank": 2,
+  "SubRankNumber": 2,
+  "MainRankNameMSID": "MAIN_RANK_NAME_MONSTERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "MONSTERBALL_3",
+  "MainRank": 2,
+  "SubRank": 3,
+  "SubRankNumber": 3,
+  "MainRankNameMSID": "MAIN_RANK_NAME_MONSTERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "MONSTERBALL_4",
+  "MainRank": 2,
+  "SubRank": 4,
+  "SubRankNumber": 4,
+  "MainRankNameMSID": "MAIN_RANK_NAME_MONSTERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "SUPERBALL_1",
+  "MainRank": 3,
+  "SubRank": 1,
+  "SubRankNumber": 1,
+  "MainRankNameMSID": "MAIN_RANK_NAME_SUPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "SUPERBALL_2",
+  "MainRank": 3,
+  "SubRank": 2,
+  "SubRankNumber": 2,
+  "MainRankNameMSID": "MAIN_RANK_NAME_SUPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "SUPERBALL_3",
+  "MainRank": 3,
+  "SubRank": 3,
+  "SubRankNumber": 3,
+  "MainRankNameMSID": "MAIN_RANK_NAME_SUPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ },
+ {
+  "RankMatchRankID": "SUPERBALL_4",
+  "MainRank": 3,
+  "SubRank": 4,
+  "SubRankNumber": 4,
+  "MainRankNameMSID": "MAIN_RANK_NAME_SUPERBALL",
+  "FullRankNameMSID": "RANK_NAME_WITH_SUBRANK_OTHER"
+ }
+]

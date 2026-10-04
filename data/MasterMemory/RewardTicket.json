@@ -1,0 +1,533 @@
+[
+ {
+  "ID": "ITSUKA_TICKET",
+  "Type": 3,
+  "NameMSID": "ITEM_NAME_TICKET_ITSUKA",
+  "DescriptionMSID": "ITEM_DESC_TICKET_ITSUKA",
+  "SortOrderPriority": 10,
+  "ScheduleID": "SC_RELEASE",
+  "AssetID": "TICKET_ITSUKA"
+ },
+ {
+  "ID": "TICKET_0002010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV1",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 40,
+  "ScheduleID": "SC_SH_0002010_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_0002010_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV2",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 30,
+  "ScheduleID": "SC_SH_0002010_07",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2408010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV3",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 60,
+  "ScheduleID": "SC_SH_2408010_01",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2409010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV4",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 70,
+  "ScheduleID": "SC_SH_2409010_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_2502010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV5",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 90,
+  "ScheduleID": "SC_SH_2502010_01",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2503010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV7",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 120,
+  "ScheduleID": "SC_SH_2503010_01",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2504010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV8",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 140,
+  "ScheduleID": "SC_SH_2504010_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_2505010_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV9",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 160,
+  "ScheduleID": "SC_SH_2505010_01",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2506000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV10",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 180,
+  "ScheduleID": "SC_SH_2506000_01",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2507000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV11",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 200,
+  "ScheduleID": "SC_SH_2507000_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_2508000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV12",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 220,
+  "ScheduleID": "SC_SH_2508000_01",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2509000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV15",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 240,
+  "ScheduleID": "SC_SH_2509000_01",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2510000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV13",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 260,
+  "ScheduleID": "SC_SH_2510000_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_2510000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV14",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 270,
+  "ScheduleID": "SC_SH_2510000_02",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2510000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV17",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 290,
+  "ScheduleID": "SC_SH_2510000_09",
+  "AssetID": "EVENT_SHOPTICKET_04"
+ },
+ {
+  "ID": "TICKET_2510000_EV_04",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV16",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 300,
+  "ScheduleID": "SC_SH_2510000_10",
+  "AssetID": "EVENT_SHOPTICKET_05"
+ },
+ {
+  "ID": "TICKET_2510000_EV_05",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV22",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 310,
+  "ScheduleID": "SC_SH_2510000_11",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2510000_EV_06",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV23",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 320,
+  "ScheduleID": "SC_SH_2510000_01",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2510000_EV_07",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV24",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 330,
+  "ScheduleID": "SC_SH_2510000_02",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_2512000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV18",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 400,
+  "ScheduleID": "SC_SH_2512000_03",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2512000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV25",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 360,
+  "ScheduleID": "SC_SH_2512000_06",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2512000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV26",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 380,
+  "ScheduleID": "SC_SH_2512000_05",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2512000_EV_04",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV27",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 370,
+  "ScheduleID": "SC_SH_2512000_03",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_2601000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV19",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 350,
+  "ScheduleID": "SC_SH_2601000_01",
+  "AssetID": "EVENT_SHOPTICKET_01"
+ },
+ {
+  "ID": "TICKET_2601000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV34",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 410,
+  "ScheduleID": "SC_SH_2601000_03",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2601000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV35",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 405,
+  "ScheduleID": "SC_SH_2601000_01",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2602000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV20",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 510,
+  "ScheduleID": "SC_SH_2602000_02",
+  "AssetID": "EVENT_SHOPTICKET_02"
+ },
+ {
+  "ID": "TICKET_2602000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV29",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 520,
+  "ScheduleID": "SC_SH_2602000_01",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_2602000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV30",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 530,
+  "ScheduleID": "SC_SH_2602000_02",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2603000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV28",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+  "SortOrderPriority": 540,
+  "ScheduleID": "SC_SH_2603000_02",
+  "AssetID": "EVENT_SHOPTICKET_03"
+ },
+ {
+  "ID": "TICKET_2603000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV36",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 550,
+  "ScheduleID": "SC_SH_2603000_01",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2603000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV37",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 560,
+  "ScheduleID": "SC_SH_2603000_02",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_2604000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV33",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 590,
+  "ScheduleID": "SC_SH_2604000_01",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2604000_EV_03",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV31",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 600,
+  "ScheduleID": "SC_SH_2604000_02",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2605000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV41",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 700,
+  "ScheduleID": "SC_SH_2605000_01",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2606000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV43",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 800,
+  "ScheduleID": "SC_SH_2606000_01",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_2607000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV38",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 900,
+  "ScheduleID": "SC_SH_2607000_01",
+  "AssetID": "EVENT_SHOPTICKET_08"
+ },
+ {
+  "ID": "TICKET_2608000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV44",
+  "DescriptionMSID": "ITEM_DESC_TICKET_ROCKET",
+  "SortOrderPriority": 1000,
+  "ScheduleID": "SC_SH_2608000_04",
+  "AssetID": "TICKET_2608000_EV_01"
+ },
+ {
+  "ID": "TICKET_2608000_EV_02",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV45",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 1010,
+  "ScheduleID": "SC_SH_2608000_01",
+  "AssetID": "EVENT_SHOPTICKET_07"
+ },
+ {
+  "ID": "TICKET_2609000_EV_01",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV46",
+  "DescriptionMSID": "ITEM_DESC_TICKET_REVIVAL_001",
+  "SortOrderPriority": 1110,
+  "ScheduleID": "SC_SH_2609000_01",
+  "AssetID": "EVENT_SHOPTICKET_09"
+ },
+ {
+  "ID": "TICKET_DECK_A2b",
+  "Type": 0,
+  "NameMSID": "ITEM_NAME_TICKET_EV6",
+  "DescriptionMSID": "ITEM_DESC_TICKET_DECK",
+  "SortOrderPriority": 110,
+  "ScheduleID": "SC_CM_2503010_02",
+  "AssetID": "EVENT_SHOPTICKET_06"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A1",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A1",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 20,
+  "ScheduleID": "SC_RELEASE",
+  "AssetID": "TICKET_EMBLEM_A1"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A1a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A1a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 50,
+  "ScheduleID": "SC_RELEASE_A1a",
+  "AssetID": "TICKET_EMBLEM_A1a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A2",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A2 ",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 80,
+  "ScheduleID": "SC_RELEASE_A2",
+  "AssetID": "TICKET_EMBLEM_A2"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A2a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A2a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 100,
+  "ScheduleID": "SC_RELEASE_A2a",
+  "AssetID": "TICKET_EMBLEM_A2a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A2b",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A2b",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 130,
+  "ScheduleID": "SC_RELEASE_A2b",
+  "AssetID": "TICKET_EMBLEM_A2b"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A3",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A3",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 150,
+  "ScheduleID": "SC_RELEASE_A3",
+  "AssetID": "TICKET_EMBLEM_A3"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A3a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A3a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 170,
+  "ScheduleID": "SC_RELEASE_A3a",
+  "AssetID": "TICKET_EMBLEM_A3a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A3b",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A3b",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 190,
+  "ScheduleID": "SC_RELEASE_A3b",
+  "AssetID": "TICKET_EMBLEM_A3b"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A4",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A4",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 210,
+  "ScheduleID": "SC_RELEASE_A4",
+  "AssetID": "TICKET_EMBLEM_A4"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A4a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A4a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 230,
+  "ScheduleID": "SC_RELEASE_A4a",
+  "AssetID": "TICKET_EMBLEM_A4a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_A4b",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A4b",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 250,
+  "ScheduleID": "SC_RELEASE_A4b",
+  "AssetID": "TICKET_EMBLEM_A4b"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B1",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B1",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 280,
+  "ScheduleID": "SC_RELEASE_B1",
+  "AssetID": "TICKET_EMBLEM_B1"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B1a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B1a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 340,
+  "ScheduleID": "SC_RELEASE_B1a",
+  "AssetID": "TICKET_EMBLEM_B1a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B2",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B2",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 390,
+  "ScheduleID": "SC_PACK_RELEASE_B2",
+  "AssetID": "TICKET_EMBLEM_B2"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B2a",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B2a",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 500,
+  "ScheduleID": "SC_PACK_RELEASE_B2a",
+  "AssetID": "TICKET_EMBLEM_B2a"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B2b",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B2b",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 530,
+  "ScheduleID": "SC_PACK_RELEASE_B2b",
+  "AssetID": "TICKET_EMBLEM_B2b"
+ },
+ {
+  "ID": "TICKET_EMBLEM_B3",
+  "Type": 2,
+  "NameMSID": "ITEM_NAME_TICKET_EMBLEM_B3",
+  "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+  "SortOrderPriority": 570,
+  "ScheduleID": "SC_PACK_RELEASE_B3",
+  "AssetID": "TICKET_EMBLEM_B3"
+ }
+]

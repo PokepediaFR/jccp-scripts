@@ -1,0 +1,682 @@
+[
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_01_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_01_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100110_EVENT1_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_01_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100120_EVENT1_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_01_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100130_EVENT1_SIL",
+  "ThresholdType": 0,
+  "Threshold": 25,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_01_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100140_EVENT1_GOL",
+  "ThresholdType": 0,
+  "Threshold": 45,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_02_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 1,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_02_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100111_EVENT1_SP_NOR",
+  "ThresholdType": 1,
+  "Threshold": 2,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_02_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100121_EVENT1_SP_BRZ",
+  "ThresholdType": 1,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_02_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100131_EVENT1_SP_SIL",
+  "ThresholdType": 1,
+  "Threshold": 4,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_02_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100141_EVENT1_SP_GOL",
+  "ThresholdType": 1,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_03_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_03_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100210_EVENT2_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_03_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100220_EVENT2_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_03_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100230_EVENT2_SIL",
+  "ThresholdType": 0,
+  "Threshold": 25,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_03_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100240_EVENT2_GOL",
+  "ThresholdType": 0,
+  "Threshold": 45,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_04_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 1,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_04_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100211_EVENT2_SP_NOR",
+  "ThresholdType": 1,
+  "Threshold": 2,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_04_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100221_EVENT2_SP_BRZ",
+  "ThresholdType": 1,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_04_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100231_EVENT2_SP_SIL",
+  "ThresholdType": 1,
+  "Threshold": 4,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_04_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100241_EVENT2_SP_GOL",
+  "ThresholdType": 1,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_05_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_05_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100310_EVENT3_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_05_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100320_EVENT3_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_05_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100330_EVENT3_SIL",
+  "ThresholdType": 0,
+  "Threshold": 25,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_05_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100340_EVENT3_GOL",
+  "ThresholdType": 0,
+  "Threshold": 45,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_06_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 1,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_06_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100410_EVENT4_NOR",
+  "ThresholdType": 1,
+  "Threshold": 2,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_06_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100420_EVENT4_BRZ",
+  "ThresholdType": 1,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_06_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100430_EVENT4_SIL",
+  "ThresholdType": 1,
+  "Threshold": 4,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_06_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100440_EVENT4_GOL",
+  "ThresholdType": 1,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_07_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_07_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100510_EVENT5_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_07_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100520_EVENT5_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_07_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100530_EVENT5_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_07_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100540_EVENT5_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_08_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_08_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100610_EVENT6_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_08_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100620_EVENT6_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_08_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100630_EVENT6_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_08_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100640_EVENT6_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_09_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_09_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100810_EVENT8_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_09_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100820_EVENT8_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_09_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100830_EVENT8_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_09_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100840_EVENT8_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_10_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_10_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100710_EVENT7_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_10_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100720_EVENT7_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_10_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100730_EVENT7_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_10_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100740_EVENT7_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_11_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_11_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101010_EVENT10_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_11_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101020_EVENT10_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_11_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101030_EVENT10_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_11_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101040_EVENT10_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_12_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_12_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_100910_EVENT9_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_12_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_100920_EVENT9_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_12_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_100930_EVENT9_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_12_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_100940_EVENT9_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_13_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_13_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101110_EVENT11_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_13_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101120_EVENT11_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_13_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101130_EVENT11_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_13_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101140_EVENT11_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_14_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_14_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101210_EVENT12_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_14_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101220_EVENT12_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_14_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101230_EVENT12_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_14_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101240_EVENT12_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_15_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_15_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101310_EVENT13_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_15_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101320_EVENT13_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_15_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101330_EVENT13_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_15_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101340_EVENT13_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_17_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_17_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101350_EVENT14_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_17_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101360_EVENT14_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_17_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101370_EVENT14_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_17_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101380_EVENT14_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_18_STEP_0",
+  "StepType": 0,
+  "EmblemItemID": "",
+  "ThresholdType": 0,
+  "Threshold": 0,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_18_STEP_1",
+  "StepType": 1,
+  "EmblemItemID": "EMBLEM_101390_EVENT15_NOR",
+  "ThresholdType": 0,
+  "Threshold": 1,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_18_STEP_2",
+  "StepType": 2,
+  "EmblemItemID": "EMBLEM_101400_EVENT15_BRZ",
+  "ThresholdType": 0,
+  "Threshold": 3,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_18_STEP_3",
+  "StepType": 3,
+  "EmblemItemID": "EMBLEM_101410_EVENT15_SIL",
+  "ThresholdType": 0,
+  "Threshold": 5,
+  "Rewards": []
+ },
+ {
+  "EmblemEventStepID": "EMBLEM_EVENT_18_STEP_4",
+  "StepType": 4,
+  "EmblemItemID": "EMBLEM_101420_EVENT15_GOL",
+  "ThresholdType": 0,
+  "Threshold": 9,
+  "Rewards": []
+ }
+]

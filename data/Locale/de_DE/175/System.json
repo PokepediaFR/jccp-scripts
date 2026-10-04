@@ -1,0 +1,12 @@
+{
+  "LOCAL_PUSH_1_BODY": "Du kannst ein Boosterpack öffnen!",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "Wir benachrichtigen dich, wenn genug Pack-Ausdauer regeneriert wurde, um ein Boosterpack zu öffnen.",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "Pack-Ausdauer regeneriert",
+  "LOCAL_PUSH_1_TITLE": "Deine Pack-Ausdauer wurde regeneriert!",
+  "LOCAL_PUSH_2_BODY": "Möchtest du einen Blick auf die Wunderwahl werfen?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "Wir benachrichtigen dich, wenn deine Wunder-Ausdauer vollständig regeneriert wurde.",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "Wunder-Ausdauer vollständig regeneriert",
+  "LOCAL_PUSH_2_TITLE": "Deine Wunder-Ausdauer wurde vollständig regeneriert!",
+  "LocalizeSystemLocalPush": "\u0010",
+  "LocalizeSystemLocalPush_plural": "\u0011"
+}

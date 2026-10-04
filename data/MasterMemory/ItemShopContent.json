@@ -1,0 +1,4218 @@
+[
+ {
+  "ContentID": "SH_CN_BOARD_0001",
+  "ItemType": 9,
+  "ItemID": "BOARD_100350_PremiumSet",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0002",
+  "ItemType": 9,
+  "ItemID": "BOARD_100390_Snow_Crystal",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0003",
+  "ItemType": 9,
+  "ItemID": "BOARD_100400_Displayframe_pinkdesk",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0006",
+  "ItemType": 9,
+  "ItemID": "BOARD_100140_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0007",
+  "ItemType": 9,
+  "ItemID": "BOARD_100160_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0008",
+  "ItemType": 9,
+  "ItemID": "BOARD_100190_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0010",
+  "ItemType": 9,
+  "ItemID": "BOARD_100120_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0011",
+  "ItemType": 9,
+  "ItemID": "BOARD_100390_Snow_Crystal",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0012",
+  "ItemType": 9,
+  "ItemID": "BOARD_100400_Displayframe_pinkdesk",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0013",
+  "ItemType": 9,
+  "ItemID": "BOARD_100150_GREEN",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0014",
+  "ItemType": 9,
+  "ItemID": "BOARD_100410_Miniature_temple",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0015",
+  "ItemType": 9,
+  "ItemID": "BOARD_100370_Natural_Leaf",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0016",
+  "ItemType": 9,
+  "ItemID": "BOARD_100130_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0017",
+  "ItemType": 9,
+  "ItemID": "BOARD_100470_HIKOZARU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0018",
+  "ItemType": 9,
+  "ItemID": "BOARD_100490_Cave_ore",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0019",
+  "ItemType": 9,
+  "ItemID": "BOARD_100500_Sweet_heart",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0020",
+  "ItemType": 9,
+  "ItemID": "BOARD_100480_DARKRAI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0021",
+  "ItemType": 9,
+  "ItemID": "BOARD_100510_MANAPHY_POCHAMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0022",
+  "ItemType": 9,
+  "ItemID": "BOARD_100520_Cyber_device",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0023",
+  "ItemType": 9,
+  "ItemID": "BOARD_100550_Cherry_blossoms",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0024",
+  "ItemType": 9,
+  "ItemID": "BOARD_100600_Displayframe_spring",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0025",
+  "ItemType": 9,
+  "ItemID": "BOARD_100560_LUCARIO_RIOLU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0026",
+  "ItemType": 9,
+  "ItemID": "BOARD_100570_Hall_of_fame",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0027",
+  "ItemType": 9,
+  "ItemID": "BOARD_100620_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0028",
+  "ItemType": 9,
+  "ItemID": "BOARD_100630_STARRY_SKY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0029",
+  "ItemType": 9,
+  "ItemID": "BOARD_100670_DIGITAL_SPACE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0030",
+  "ItemType": 9,
+  "ItemID": "BOARD_100640_MOKUROH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0031",
+  "ItemType": 9,
+  "ItemID": "BOARD_100530_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0032",
+  "ItemType": 9,
+  "ItemID": "BOARD_100580_SHINY_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0033",
+  "ItemType": 9,
+  "ItemID": "BOARD_100680_uNECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0034",
+  "ItemType": 9,
+  "ItemID": "BOARD_100690_FLOWER_GIFTBOX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0035",
+  "ItemType": 9,
+  "ItemID": "BOARD_100700_aROKON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0036",
+  "ItemType": 9,
+  "ItemID": "BOARD_100770_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0037",
+  "ItemType": 9,
+  "ItemID": "BOARD_100780_Under_the_Sea",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0038",
+  "ItemType": 9,
+  "ItemID": "BOARD_100790_HOUOU_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0039",
+  "ItemType": 9,
+  "ItemID": "BOARD_100800_Displayframe_garden",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0040",
+  "ItemType": 9,
+  "ItemID": "BOARD_100720_GLAZI_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0041",
+  "ItemType": 9,
+  "ItemID": "BOARD_100730_NIGHT_CAMP",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0042",
+  "ItemType": 9,
+  "ItemID": "BOARD_100740_EIEVUI_2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0043",
+  "ItemType": 9,
+  "ItemID": "BOARD_100830_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0044",
+  "ItemType": 9,
+  "ItemID": "BOARD_100810_NUOH_PALDEADOOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0045",
+  "ItemType": 9,
+  "ItemID": "BOARD_100820_Displayframe_Halloween",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0046",
+  "ItemType": 9,
+  "ItemID": "BOARD_100880_Autumn_Leaf",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0047",
+  "ItemType": 9,
+  "ItemID": "BOARD_100870_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0048",
+  "ItemType": 9,
+  "ItemID": "BOARD_100890_KOIKING",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0049",
+  "ItemType": 9,
+  "ItemID": "BOARD_100900_Holiday2025",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0050",
+  "ItemType": 9,
+  "ItemID": "BOARD_100940_PremiumSet02",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0051",
+  "ItemType": 9,
+  "ItemID": "BOARD_100960_Music_Space",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0052",
+  "ItemType": 9,
+  "ItemID": "BOARD_100910_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0053",
+  "ItemType": 9,
+  "ItemID": "BOARD_100920_HARUKA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0054",
+  "ItemType": 9,
+  "ItemID": "BOARD_100970_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0055",
+  "ItemType": 9,
+  "ItemID": "BOARD_100980_Autumn_Afternoon_Tea",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0056",
+  "ItemType": 9,
+  "ItemID": "BOARD_100990_LILIE_Ver2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0057",
+  "ItemType": 9,
+  "ItemID": "BOARD_101070_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0058",
+  "ItemType": 9,
+  "ItemID": "BOARD_101080_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0059",
+  "ItemType": 9,
+  "ItemID": "BOARD_101100_NewYear2026",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0060",
+  "ItemType": 9,
+  "ItemID": "BOARD_101050_STRINDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0061",
+  "ItemType": 9,
+  "ItemID": "BOARD_101020_ShotingStar_Sky",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0062",
+  "ItemType": 9,
+  "ItemID": "BOARD_101060_SIRNIGHT_KIRLIA_RALTS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0063",
+  "ItemType": 9,
+  "ItemID": "BOARD_101030_Rainbow",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0064",
+  "ItemType": 9,
+  "ItemID": "BOARD_101110_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0065",
+  "ItemType": 9,
+  "ItemID": "BOARD_101120_Adventure_Field",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0066",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100620_NYAHOJA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0070",
+  "ItemType": 9,
+  "ItemID": "BOARD_101220_MEGALUCARIO_LUCARIO_RIOLU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0071",
+  "ItemType": 9,
+  "ItemID": "BOARD_101170_MEGAGANGAR_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0072",
+  "ItemType": 9,
+  "ItemID": "BOARD_101150_MEGAGARURA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0073",
+  "ItemType": 9,
+  "ItemID": "BOARD_101160_Displayframe_snowy_window",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0074",
+  "ItemType": 9,
+  "ItemID": "BOARD_101310_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0075",
+  "ItemType": 9,
+  "ItemID": "BOARD_101270_PIKACHU_POCHAMA_etc",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0079",
+  "ItemType": 9,
+  "ItemID": "BOARD_101410_MEGARAYQUAZA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0080",
+  "ItemType": 9,
+  "ItemID": "BOARD_101490_SAKAKI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0081",
+  "ItemType": 9,
+  "ItemID": "BOARD_101510_TEAM_ROCKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_BOARD_0082",
+  "ItemType": 9,
+  "ItemID": "BOARD_101560_MEGALIZARDONX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0001",
+  "ItemType": 1,
+  "ItemID": "TR_90_000010_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0002",
+  "ItemType": 1,
+  "ItemID": "TR_90_000020_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0003",
+  "ItemType": 1,
+  "ItemID": "TR_90_000030_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0004",
+  "ItemType": 1,
+  "ItemID": "TR_90_000040_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0005",
+  "ItemType": 1,
+  "ItemID": "TR_90_000050_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0006",
+  "ItemType": 1,
+  "ItemID": "TR_90_000060_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0007",
+  "ItemType": 1,
+  "ItemID": "TR_90_000070_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0008",
+  "ItemType": 0,
+  "ItemID": "PK_90_000940_02",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0009",
+  "ItemType": 0,
+  "ItemID": "PK_90_004490_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0010",
+  "ItemType": 0,
+  "ItemID": "PK_90_000070_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0011",
+  "ItemType": 0,
+  "ItemID": "PK_90_002760_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0012",
+  "ItemType": 0,
+  "ItemID": "PK_90_000940_01",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0013",
+  "ItemType": 0,
+  "ItemID": "PK_90_001130_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0014",
+  "ItemType": 0,
+  "ItemID": "PK_90_002770_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0015",
+  "ItemType": 0,
+  "ItemID": "PK_90_000030_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0016",
+  "ItemType": 0,
+  "ItemID": "PK_90_000890_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0017",
+  "ItemType": 0,
+  "ItemID": "PK_90_002780_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0018",
+  "ItemType": 0,
+  "ItemID": "PK_90_001500_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0019",
+  "ItemType": 0,
+  "ItemID": "PK_90_002790_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0020",
+  "ItemType": 0,
+  "ItemID": "PK_90_002800_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0021",
+  "ItemType": 0,
+  "ItemID": "PK_90_002280_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0022",
+  "ItemType": 0,
+  "ItemID": "PK_90_000550_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0023",
+  "ItemType": 0,
+  "ItemID": "PK_90_002810_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0024",
+  "ItemType": 0,
+  "ItemID": "PK_90_002110_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0025",
+  "ItemType": 0,
+  "ItemID": "PK_90_002910_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0026",
+  "ItemType": 0,
+  "ItemID": "PK_90_003380_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0027",
+  "ItemType": 0,
+  "ItemID": "PK_90_004960_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0028",
+  "ItemType": 0,
+  "ItemID": "PK_90_004970_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0029",
+  "ItemType": 0,
+  "ItemID": "PK_90_003920_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0030",
+  "ItemType": 0,
+  "ItemID": "PK_90_004320_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0031",
+  "ItemType": 0,
+  "ItemID": "PK_90_004500_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0032",
+  "ItemType": 0,
+  "ItemID": "PK_90_004980_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0033",
+  "ItemType": 0,
+  "ItemID": "PK_90_004690_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0034",
+  "ItemType": 0,
+  "ItemID": "PK_90_004990_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0035",
+  "ItemType": 0,
+  "ItemID": "PK_90_005000_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0036",
+  "ItemType": 0,
+  "ItemID": "PK_90_005010_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0037",
+  "ItemType": 0,
+  "ItemID": "PK_90_005020_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0038",
+  "ItemType": 0,
+  "ItemID": "PK_90_005030_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0039",
+  "ItemType": 0,
+  "ItemID": "PK_90_005040_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0040",
+  "ItemType": 0,
+  "ItemID": "PK_90_005830_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0041",
+  "ItemType": 0,
+  "ItemID": "PK_90_006220_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0042",
+  "ItemType": 0,
+  "ItemID": "PK_90_006780_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0043",
+  "ItemType": 0,
+  "ItemID": "PK_90_007230_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0044",
+  "ItemType": 0,
+  "ItemID": "PK_90_007240_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0045",
+  "ItemType": 0,
+  "ItemID": "PK_90_007250_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0046",
+  "ItemType": 0,
+  "ItemID": "PK_90_007260_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0047",
+  "ItemType": 0,
+  "ItemID": "PK_90_007270_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0048",
+  "ItemType": 0,
+  "ItemID": "PK_90_007280_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0049",
+  "ItemType": 0,
+  "ItemID": "PK_90_007290_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0050",
+  "ItemType": 0,
+  "ItemID": "PK_90_007300_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0051",
+  "ItemType": 0,
+  "ItemID": "PK_90_007310_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0052",
+  "ItemType": 0,
+  "ItemID": "PK_90_007320_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0053",
+  "ItemType": 0,
+  "ItemID": "PK_90_007330_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0054",
+  "ItemType": 0,
+  "ItemID": "PK_90_007340_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0055",
+  "ItemType": 0,
+  "ItemID": "PK_90_007350_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0056",
+  "ItemType": 0,
+  "ItemID": "PK_90_007360_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0057",
+  "ItemType": 0,
+  "ItemID": "PK_90_010070_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0058",
+  "ItemType": 0,
+  "ItemID": "PK_90_010080_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0059",
+  "ItemType": 0,
+  "ItemID": "PK_90_009740_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0060",
+  "ItemType": 0,
+  "ItemID": "PK_90_009890_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0061",
+  "ItemType": 0,
+  "ItemID": "PK_90_010090_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0062",
+  "ItemType": 0,
+  "ItemID": "PK_90_010100_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0063",
+  "ItemType": 0,
+  "ItemID": "PK_90_010110_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0064",
+  "ItemType": 0,
+  "ItemID": "PK_90_010120_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0065",
+  "ItemType": 0,
+  "ItemID": "PK_90_010130_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0066",
+  "ItemType": 0,
+  "ItemID": "PK_90_010140_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0067",
+  "ItemType": 0,
+  "ItemID": "PK_90_010150_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0068",
+  "ItemType": 0,
+  "ItemID": "PK_90_010160_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0069",
+  "ItemType": 0,
+  "ItemID": "PK_90_008290_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0070",
+  "ItemType": 0,
+  "ItemID": "PK_90_010170_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0071",
+  "ItemType": 0,
+  "ItemID": "PK_90_004240_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0072",
+  "ItemType": 0,
+  "ItemID": "PK_90_002020_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0073",
+  "ItemType": 0,
+  "ItemID": "PK_90_001960_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0074",
+  "ItemType": 0,
+  "ItemID": "PK_90_000010_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0075",
+  "ItemType": 0,
+  "ItemID": "PK_90_000970_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0076",
+  "ItemType": 0,
+  "ItemID": "PK_90_000330_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0077",
+  "ItemType": 0,
+  "ItemID": "PK_90_000530_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0078",
+  "ItemType": 0,
+  "ItemID": "PK_90_003080_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0079",
+  "ItemType": 0,
+  "ItemID": "PK_90_003440_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0080",
+  "ItemType": 0,
+  "ItemID": "PK_90_003310_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0081",
+  "ItemType": 0,
+  "ItemID": "PK_90_004870_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0082",
+  "ItemType": 0,
+  "ItemID": "PK_90_005060_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0083",
+  "ItemType": 0,
+  "ItemID": "PK_90_005070_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0084",
+  "ItemType": 0,
+  "ItemID": "PK_90_006660_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0085",
+  "ItemType": 0,
+  "ItemID": "PK_90_006810_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0086",
+  "ItemType": 0,
+  "ItemID": "PK_90_007370_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0087",
+  "ItemType": 0,
+  "ItemID": "PK_90_007380_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0088",
+  "ItemType": 0,
+  "ItemID": "PK_90_007390_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0089",
+  "ItemType": 0,
+  "ItemID": "PK_90_007400_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0090",
+  "ItemType": 0,
+  "ItemID": "PK_90_009050_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0091",
+  "ItemType": 0,
+  "ItemID": "PK_90_009720_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0092",
+  "ItemType": 0,
+  "ItemID": "PK_90_010180_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0093",
+  "ItemType": 0,
+  "ItemID": "PK_90_010190_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0094",
+  "ItemType": 0,
+  "ItemID": "PK_90_003030_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0095",
+  "ItemType": 0,
+  "ItemID": "PK_90_009760_00",
+  "ExpansionID": "PROMO-A",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0096",
+  "ItemType": 0,
+  "ItemID": "PK_90_012930_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0097",
+  "ItemType": 0,
+  "ItemID": "PK_90_012940_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0098",
+  "ItemType": 0,
+  "ItemID": "PK_90_011700_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0099",
+  "ItemType": 0,
+  "ItemID": "PK_90_012620_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0100",
+  "ItemType": 0,
+  "ItemID": "PK_90_012950_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0101",
+  "ItemType": 0,
+  "ItemID": "PK_90_011150_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0102",
+  "ItemType": 0,
+  "ItemID": "PK_90_011300_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0103",
+  "ItemType": 0,
+  "ItemID": "PK_90_011900_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0104",
+  "ItemType": 0,
+  "ItemID": "PK_90_012660_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0105",
+  "ItemType": 0,
+  "ItemID": "PK_90_011110_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0106",
+  "ItemType": 0,
+  "ItemID": "PK_90_012960_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0107",
+  "ItemType": 0,
+  "ItemID": "PK_90_011640_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0108",
+  "ItemType": 0,
+  "ItemID": "PK_90_012140_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0109",
+  "ItemType": 0,
+  "ItemID": "PK_90_012970_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0110",
+  "ItemType": 0,
+  "ItemID": "PK_90_013030_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0111",
+  "ItemType": 0,
+  "ItemID": "PK_90_013040_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0112",
+  "ItemType": 0,
+  "ItemID": "PK_90_012980_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0113",
+  "ItemType": 0,
+  "ItemID": "PK_90_012990_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0114",
+  "ItemType": 0,
+  "ItemID": "PK_90_013000_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0115",
+  "ItemType": 0,
+  "ItemID": "PK_90_013010_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0116",
+  "ItemType": 0,
+  "ItemID": "PK_90_013020_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0117",
+  "ItemType": 0,
+  "ItemID": "PK_90_015980_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0118",
+  "ItemType": 0,
+  "ItemID": "PK_90_015280_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0119",
+  "ItemType": 0,
+  "ItemID": "PK_90_015420_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0120",
+  "ItemType": 0,
+  "ItemID": "PK_90_015990_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0121",
+  "ItemType": 0,
+  "ItemID": "PK_90_015830_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0122",
+  "ItemType": 0,
+  "ItemID": "PK_90_015470_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0123",
+  "ItemType": 0,
+  "ItemID": "PK_90_015740_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0124",
+  "ItemType": 0,
+  "ItemID": "PK_90_015950_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0125",
+  "ItemType": 0,
+  "ItemID": "PK_90_014180_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0126",
+  "ItemType": 0,
+  "ItemID": "PK_90_015960_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0127",
+  "ItemType": 0,
+  "ItemID": "PK_90_015970_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0128",
+  "ItemType": 0,
+  "ItemID": "PK_90_015040_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0129",
+  "ItemType": 0,
+  "ItemID": "PK_90_013920_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0130",
+  "ItemType": 0,
+  "ItemID": "PK_90_013940_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0131",
+  "ItemType": 0,
+  "ItemID": "PK_90_014360_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0132",
+  "ItemType": 0,
+  "ItemID": "PK_90_018860_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0133",
+  "ItemType": 0,
+  "ItemID": "PK_90_018870_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0134",
+  "ItemType": 0,
+  "ItemID": "PK_90_018880_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0135",
+  "ItemType": 0,
+  "ItemID": "PK_90_012660_01",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0136",
+  "ItemType": 0,
+  "ItemID": "PK_90_018900_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0137",
+  "ItemType": 0,
+  "ItemID": "PK_90_016890_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0138",
+  "ItemType": 0,
+  "ItemID": "PK_90_018910_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0139",
+  "ItemType": 0,
+  "ItemID": "PK_90_018920_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0140",
+  "ItemType": 0,
+  "ItemID": "PK_90_017790_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0143",
+  "ItemType": 0,
+  "ItemID": "PK_90_016000_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0144",
+  "ItemType": 0,
+  "ItemID": "PK_90_016010_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0145",
+  "ItemType": 0,
+  "ItemID": "PK_90_016020_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0146",
+  "ItemType": 0,
+  "ItemID": "PK_90_016030_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0147",
+  "ItemType": 0,
+  "ItemID": "PK_90_016040_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0148",
+  "ItemType": 0,
+  "ItemID": "PK_90_016050_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0149",
+  "ItemType": 0,
+  "ItemID": "PK_90_016060_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0150",
+  "ItemType": 0,
+  "ItemID": "PK_90_018930_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0151",
+  "ItemType": 0,
+  "ItemID": "PK_90_018230_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0152",
+  "ItemType": 0,
+  "ItemID": "PK_90_018940_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0153",
+  "ItemType": 0,
+  "ItemID": "PK_90_018950_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0154",
+  "ItemType": 0,
+  "ItemID": "PK_90_018750_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0160",
+  "ItemType": 0,
+  "ItemID": "PK_90_018960_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0161",
+  "ItemType": 0,
+  "ItemID": "PK_90_018970_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0162",
+  "ItemType": 0,
+  "ItemID": "PK_90_018980_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0163",
+  "ItemType": 0,
+  "ItemID": "PK_90_018990_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0164",
+  "ItemType": 0,
+  "ItemID": "PK_90_019000_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0170",
+  "ItemType": 0,
+  "ItemID": "PK_90_021060_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0171",
+  "ItemType": 0,
+  "ItemID": "PK_90_021070_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0172",
+  "ItemType": 0,
+  "ItemID": "PK_90_020100_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0173",
+  "ItemType": 0,
+  "ItemID": "PK_90_020830_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0174",
+  "ItemType": 0,
+  "ItemID": "PK_90_021080_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0175",
+  "ItemType": 0,
+  "ItemID": "PK_90_021090_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0176",
+  "ItemType": 0,
+  "ItemID": "PK_90_021100_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0177",
+  "ItemType": 0,
+  "ItemID": "PK_90_021110_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0178",
+  "ItemType": 0,
+  "ItemID": "PK_90_021120_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0179",
+  "ItemType": 0,
+  "ItemID": "PK_90_021130_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0180",
+  "ItemType": 0,
+  "ItemID": "PK_90_014580_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0181",
+  "ItemType": 0,
+  "ItemID": "PK_90_021140_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0182",
+  "ItemType": 0,
+  "ItemID": "PK_90_021150_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0183",
+  "ItemType": 0,
+  "ItemID": "PK_90_021160_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CARD_0184",
+  "ItemType": 0,
+  "ItemID": "PK_90_020960_00",
+  "ExpansionID": "PROMO-B",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CHARGER_C_0002",
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CHARGER_C_0003",
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 6
+ },
+ {
+  "ContentID": "SH_CN_CHARGER_P_0002",
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_CHARGER_P_0003",
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 6
+ },
+ {
+  "ContentID": "SH_CN_COIN_0001",
+  "ItemType": 9,
+  "ItemID": "COIN_100240_PremiumSet",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0003",
+  "ItemType": 9,
+  "ItemID": "COIN_100060_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0004",
+  "ItemType": 9,
+  "ItemID": "COIN_100100_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0005",
+  "ItemType": 9,
+  "ItemID": "COIN_100260_ERIKA_RNB",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0006",
+  "ItemType": 9,
+  "ItemID": "COIN_100270_ERIKA_HOLO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0007",
+  "ItemType": 9,
+  "ItemID": "COIN_100140_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0008",
+  "ItemType": 9,
+  "ItemID": "COIN_100030_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0009",
+  "ItemType": 9,
+  "ItemID": "COIN_100080_KAMEX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0010",
+  "ItemType": 9,
+  "ItemID": "COIN_100040_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0011",
+  "ItemType": 9,
+  "ItemID": "COIN_100300_HIKOZARU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0012",
+  "ItemType": 9,
+  "ItemID": "COIN_100310_DARKRAI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0013",
+  "ItemType": 9,
+  "ItemID": "COIN_100320_MANAPHY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0014",
+  "ItemType": 9,
+  "ItemID": "COIN_100340_LEAFIA_HOLO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0015",
+  "ItemType": 9,
+  "ItemID": "COIN_100350_GLACIA_RNB",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0016",
+  "ItemType": 9,
+  "ItemID": "COIN_100360_LUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0017",
+  "ItemType": 9,
+  "ItemID": "COIN_100390_RED_RNB",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0018",
+  "ItemType": 9,
+  "ItemID": "COIN_100380_RED_HOLO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0019",
+  "ItemType": 9,
+  "ItemID": "COIN_100410_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0020",
+  "ItemType": 9,
+  "ItemID": "COIN_100420_MOKUROH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0021",
+  "ItemType": 9,
+  "ItemID": "COIN_100330_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0022",
+  "ItemType": 9,
+  "ItemID": "COIN_100370_SHINY_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0023",
+  "ItemType": 9,
+  "ItemID": "COIN_100450_uNECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0026",
+  "ItemType": 9,
+  "ItemID": "COIN_100460_aROKON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0027",
+  "ItemType": 9,
+  "ItemID": "COIN_100540_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0028",
+  "ItemType": 9,
+  "ItemID": "COIN_100550_HOUOU_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0031",
+  "ItemType": 9,
+  "ItemID": "COIN_100490_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0032",
+  "ItemType": 9,
+  "ItemID": "COIN_100490_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0035",
+  "ItemType": 9,
+  "ItemID": "COIN_100500_EIEVUI_2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0036",
+  "ItemType": 9,
+  "ItemID": "COIN_100570_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0037",
+  "ItemType": 9,
+  "ItemID": "COIN_100560_NUOH_PALDEADOOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0038",
+  "ItemType": 9,
+  "ItemID": "COIN_100650_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0039",
+  "ItemType": 9,
+  "ItemID": "COIN_100660_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0040",
+  "ItemType": 9,
+  "ItemID": "COIN_100700_PremiumSet02",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0041",
+  "ItemType": 9,
+  "ItemID": "COIN_100670_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0042",
+  "ItemType": 9,
+  "ItemID": "COIN_100680_HARUKA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0043",
+  "ItemType": 9,
+  "ItemID": "COIN_100600_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0044",
+  "ItemType": 9,
+  "ItemID": "COIN_100610_LILIE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0045",
+  "ItemType": 9,
+  "ItemID": "COIN_100770_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0046",
+  "ItemType": 9,
+  "ItemID": "COIN_100780_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0047",
+  "ItemType": 9,
+  "ItemID": "COIN_100750_STRINDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0048",
+  "ItemType": 9,
+  "ItemID": "COIN_100760_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0049",
+  "ItemType": 9,
+  "ItemID": "COIN_100800_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0050",
+  "ItemType": 9,
+  "ItemID": "COIN_100810_NYAHOJA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0052",
+  "ItemType": 9,
+  "ItemID": "COIN_100880_MEGALUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0053",
+  "ItemType": 9,
+  "ItemID": "COIN_100840_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0054",
+  "ItemType": 9,
+  "ItemID": "COIN_100830_MEGAGARURA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0055",
+  "ItemType": 9,
+  "ItemID": "COIN_100950_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0056",
+  "ItemType": 9,
+  "ItemID": "COIN_100920_POCHAMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0057",
+  "ItemType": 9,
+  "ItemID": "COIN_101010_MEGARAYQUAZA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0058",
+  "ItemType": 9,
+  "ItemID": "COIN_101040_SAKAKI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0059",
+  "ItemType": 9,
+  "ItemID": "COIN_101050_TEAM_ROCKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_COIN_0060",
+  "ItemType": 9,
+  "ItemID": "COIN_101080_MEGALIZARDONX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0001",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100160_PremiumSet",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0003",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100050_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0004",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100070_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0005",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100100_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0006",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100030_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0007",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100060_KAMEX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0009",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100040_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0010",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100190_HIKOZARU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0011",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100200_DARKRAI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0012",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100210_MANAPHY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0013",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100240_LUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0014",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100280_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0015",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100290_MOKUROH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0016",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100220_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0017",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100250_SHINY_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0018",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100320_uNECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0019",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100330_aROKON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0020",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100390_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0021",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100400_HOUOU_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0022",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100350_GLAZI_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0023",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100360_EIEVUI_2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0024",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100420_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0025",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100410_NUOH_PALDEADOOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0026",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100450_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0027",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100460_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0028",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100500_PremiumSet02",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0029",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100470_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0030",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100480_HARUKA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0031",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100510_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0032",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100520_LILIE_Ver2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0033",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100580_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0034",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100590_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0035",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100560_STRINDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0036",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100570_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0037",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100610_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0038",
+  "ItemType": 9,
+  "ItemID": "BOARD_101130_NYAHOJA_HOGATOR_KUWASSU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0040",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100690_MEGALUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0041",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100650_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0042",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100640_MEGAGARURA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0043",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100760_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0044",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100820_MEGARAYQUAZA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0045",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100730_POCHAMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0046",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100850_SAKAKI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0047",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100860_TEAM_ROCKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECKSHIELD_0048",
+  "ItemType": 9,
+  "ItemID": "DECKSHIELD_100890_MEGALIZARDONX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0001",
+  "ItemType": 15,
+  "ItemID": "1002024",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0002",
+  "ItemType": 15,
+  "ItemID": "1002025",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0003",
+  "ItemType": 15,
+  "ItemID": "1002026",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0004",
+  "ItemType": 15,
+  "ItemID": "1002027",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0005",
+  "ItemType": 15,
+  "ItemID": "1002028",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0006",
+  "ItemType": 15,
+  "ItemID": "1002029",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0007",
+  "ItemType": 15,
+  "ItemID": "1002030",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0008",
+  "ItemType": 15,
+  "ItemID": "1002031",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DECK_0009",
+  "ItemType": 15,
+  "ItemID": "1002032",
+  "ExpansionID": "A2b",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_DUST_0001",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0002",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0003",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0004",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0005",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0006",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0007",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0008",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0009",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0010",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 50
+ },
+ {
+  "ContentID": "SH_CN_DUST_0011",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 10
+ },
+ {
+  "ContentID": "SH_CN_DUST_0012",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 100
+ },
+ {
+  "ContentID": "SH_CN_DUST_0013",
+  "ItemType": 7,
+  "ItemID": "SHINEDUST",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1000
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0001",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100010_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0002",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100020_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0003",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100030_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0004",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100060_MEW",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0005",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100070_DIALGA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0006",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100080_PALKIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0007",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100100_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0008",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100120_GIRATINA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0009",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100140_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0010",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100150_LUNALA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0011",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100170_MASSIVOON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0012",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100210_HOUOU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0013",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100220_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0014",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100190_EIEVUI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0015",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100240_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0017",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100260_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0018",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100270_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0019",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100280_MEGATYLTALIS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0020",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100300_GEKKOUGA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0021",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100310_ODORIDORI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0022",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100360_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0023",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100330_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0024",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100340_OGERPON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0025",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100390_NYAHOJA_HOGATOR_KUWASSU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_EMBLEM_0028",
+  "ItemType": 6,
+  "ItemID": "EMBLEM_100410_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0001",
+  "ItemType": 9,
+  "ItemID": "FILE_100290_PremiumSet",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0002",
+  "ItemType": 9,
+  "ItemID": "FILE_100070_A1_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0003",
+  "ItemType": 9,
+  "ItemID": "FILE_100080_A1_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0004",
+  "ItemType": 9,
+  "ItemID": "FILE_100090_A1_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0006",
+  "ItemType": 9,
+  "ItemID": "FILE_100050_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0007",
+  "ItemType": 9,
+  "ItemID": "FILE_100100_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0008",
+  "ItemType": 9,
+  "ItemID": "FILE_100130_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0009",
+  "ItemType": 9,
+  "ItemID": "FILE_100030_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0010",
+  "ItemType": 9,
+  "ItemID": "FILE_100060_GREEN_KAMEX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0012",
+  "ItemType": 9,
+  "ItemID": "FILE_100040_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0013",
+  "ItemType": 9,
+  "ItemID": "FILE_100370_HIKOZARU_MOUKAZARU_GOUKAZARU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0014",
+  "ItemType": 9,
+  "ItemID": "FILE_100380_DARKRAI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0015",
+  "ItemType": 9,
+  "ItemID": "FILE_100390_A2_DIALGA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0016",
+  "ItemType": 9,
+  "ItemID": "FILE_100400_A2_PALKIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0017",
+  "ItemType": 9,
+  "ItemID": "FILE_100410_MANAPHY_POCHAMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0018",
+  "ItemType": 9,
+  "ItemID": "FILE_100440_A2a_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0019",
+  "ItemType": 9,
+  "ItemID": "FILE_100490_A2b_SHINY_POKEMONS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0020",
+  "ItemType": 9,
+  "ItemID": "FILE_100450_LUCARIO_RIOLU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0021",
+  "ItemType": 9,
+  "ItemID": "FILE_100500_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0022",
+  "ItemType": 9,
+  "ItemID": "FILE_100540_A3_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0023",
+  "ItemType": 9,
+  "ItemID": "FILE_100550_A3_LUNALA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0024",
+  "ItemType": 9,
+  "ItemID": "FILE_100510_MOKUROH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0025",
+  "ItemType": 9,
+  "ItemID": "FILE_100420_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0026",
+  "ItemType": 9,
+  "ItemID": "FILE_100460_SHINY_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0027",
+  "ItemType": 9,
+  "ItemID": "FILE_100560_uNECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0028",
+  "ItemType": 9,
+  "ItemID": "FILE_100590_A3a_CRISIS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0029",
+  "ItemType": 9,
+  "ItemID": "FILE_100570_aROKON_aKYUKON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0030",
+  "ItemType": 9,
+  "ItemID": "FILE_100650_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0031",
+  "ItemType": 9,
+  "ItemID": "FILE_100670_A4_HOUOU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0032",
+  "ItemType": 9,
+  "ItemID": "FILE_100680_A4_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0033",
+  "ItemType": 9,
+  "ItemID": "FILE_100660_HOUOU_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0034",
+  "ItemType": 9,
+  "ItemID": "FILE_100600_GLAZI_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0035",
+  "ItemType": 9,
+  "ItemID": "FILE_100630_EIEVUI_GRADEN_EIEVUI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0036",
+  "ItemType": 9,
+  "ItemID": "FILE_100610_EIEVUI_2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0037",
+  "ItemType": 9,
+  "ItemID": "FILE_100700_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0038",
+  "ItemType": 9,
+  "ItemID": "FILE_100690_NUOH_PALDEADOOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0039",
+  "ItemType": 9,
+  "ItemID": "FILE_100720_A4a_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0040",
+  "ItemType": 9,
+  "ItemID": "FILE_100740_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0041",
+  "ItemType": 9,
+  "ItemID": "FILE_100750_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0042",
+  "ItemType": 9,
+  "ItemID": "FILE_100790_PremiumSet02",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0043",
+  "ItemType": 9,
+  "ItemID": "FILE_100810_B1_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0044",
+  "ItemType": 9,
+  "ItemID": "FILE_100820_B1_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0045",
+  "ItemType": 9,
+  "ItemID": "FILE_100830_B1_MEGATYLTALIS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0046",
+  "ItemType": 9,
+  "ItemID": "FILE_100760_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0047",
+  "ItemType": 9,
+  "ItemID": "FILE_100770_HARUKA_ACHAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0048",
+  "ItemType": 9,
+  "ItemID": "FILE_100890_A4b_HIGH_CLASS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0049",
+  "ItemType": 9,
+  "ItemID": "FILE_100850_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0050",
+  "ItemType": 9,
+  "ItemID": "FILE_100860_LILIE_Ver2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0051",
+  "ItemType": 9,
+  "ItemID": "FILE_100950_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0052",
+  "ItemType": 9,
+  "ItemID": "FILE_100960_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0053",
+  "ItemType": 9,
+  "ItemID": "FILE_100980_B1a_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0054",
+  "ItemType": 9,
+  "ItemID": "FILE_100910_STRINDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0055",
+  "ItemType": 9,
+  "ItemID": "FILE_100930_B2_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0056",
+  "ItemType": 9,
+  "ItemID": "FILE_100920_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0057",
+  "ItemType": 9,
+  "ItemID": "FILE_100990_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0058",
+  "ItemType": 9,
+  "ItemID": "FILE_101020_B2a_PALDEAWONDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0059",
+  "ItemType": 9,
+  "ItemID": "FILE_101000_NYAHOJA_NYAROTE_MASQUERNYA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0061",
+  "ItemType": 9,
+  "ItemID": "FILE_101090_MEGALUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0063",
+  "ItemType": 9,
+  "ItemID": "FILE_101040_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0064",
+  "ItemType": 9,
+  "ItemID": "FILE_101060_B2b_SHINY_POKEMONS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0065",
+  "ItemType": 9,
+  "ItemID": "FILE_101030_MEGAGARURA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0066",
+  "ItemType": 9,
+  "ItemID": "FILE_101200_B3a_KORAIDON_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0067",
+  "ItemType": 9,
+  "ItemID": "FILE_101190_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0068",
+  "ItemType": 9,
+  "ItemID": "FILE_101140_PIKACHU_POCHAMA_etc",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0071",
+  "ItemType": 9,
+  "ItemID": "FILE_101250_MEGARAYQUAZA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0072",
+  "ItemType": 9,
+  "ItemID": "FILE_101290_SAKAKI_PERSIAN",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0073",
+  "ItemType": 9,
+  "ItemID": "FILE_101310_TEAM_ROCKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_FILE_0074",
+  "ItemType": 9,
+  "ItemID": "FILE_101340_MEGALIZARDONX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_HIDDEN_0001",
+  "ItemType": 22,
+  "ItemID": "HIDDEN_EVENT_ITEM_100010",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0001",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100080_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0002",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100050_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0003",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100100_KAMEX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0004",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100220_MONSTER BALL",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0005",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100310_DENZI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0006",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100280_SHIRONA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0007",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100340_LILIE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0008",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100400_NECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0009",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100460_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0010",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100430_GLAZI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0011",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100520_NUOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0012",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100550_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0013",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100560_KOIKING",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0014",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100630_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0015",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100700_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0016",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100650_ACEBURN",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0017",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100730_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_ICON_0019",
+  "ItemType": 6,
+  "ItemID": "PROFILE_ICON_100760_GHOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0001",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100160_PremiumSet",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0003",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100050_FUSHIGIBANA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0004",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100070_MEWTWO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0005",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100100_PIKACHU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0006",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100030_NYARTH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0007",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100060_GREEN_KAMEX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0009",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100040_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0010",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100190_HIKOZARU_MOUKAZARU_GOUKAZARU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0011",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100200_DARKRAI",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0012",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100210_MANAPHY_POCHAMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0013",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100240_LUCARIO_RIOLU",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0014",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100280_SOLGALEO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0015",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100290_MOKUROH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0016",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100220_ARCEUS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0017",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100250_SHINY_LIZARDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0018",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100320_uNECROZMA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0019",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100330_aROKON_aKYUKON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0020",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100390_BANGIRAS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0021",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100400_HOUOU_LUGIA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0022",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100350_GLAZI_SILVADY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0023",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100360_EIEVUI_2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0024",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100420_SUICUNE",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0025",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100410_NUOH_PALDEADOOH",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0026",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100450_KODUCK",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0027",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100460_MEGAGYARADOS",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0028",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100500_PremiumSet02",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0029",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100470_MEGABURSYAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0030",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100480_HARUKA_ACHAMO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0031",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100510_PROF_OHKIDO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0032",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100520_LILIE_Ver2",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0033",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100580_NUMERA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0034",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100590_MEGALIZARDONY",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0035",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100560_STRINDER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0036",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100570_MEGASIRNIGHT",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0037",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100610_PEPER",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0038",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100620_NYAHOJA_NYAROTE_MASQUERNYA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0040",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100690_MEGALUCARIO",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0041",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100650_SHINY_MEGAGANGAR",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0042",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100640_MEGAGARURA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0043",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100760_MIRAIDON",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0044",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100730_PIKACHU_POCHAMA_etc",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0045",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100820_MEGARAYQUAZA",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0046",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100850_SAKAKI_PERSIAN",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0047",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100860_TEAM_ROCKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_PLAYMAT_0048",
+  "ItemType": 9,
+  "ItemID": "PLAYMAT_100890_MEGALIZARDONX",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_TICKET_0001",
+  "ItemType": 7,
+  "ItemID": "SHOPTICKET",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ },
+ {
+  "ContentID": "SH_CN_TICKET_0002",
+  "ItemType": 7,
+  "ItemID": "SHOPTICKET_P",
+  "ExpansionID": "",
+  "NameMSID": "",
+  "Amount": 1
+ }
+]

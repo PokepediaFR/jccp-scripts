@@ -1,0 +1,11 @@
+{
+  "LOCAL_PUSH_1_BODY": "可以開封擴充包了。",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "開包力恢復到1時發送通知",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "恢復開包力",
+  "LOCAL_PUSH_1_TITLE": "開包力已恢復！",
+  "LOCAL_PUSH_2_BODY": "要去看看得卡挑戰嗎？",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "當挑戰力完全恢復時發送通知",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "挑戰力完全恢復",
+  "LOCAL_PUSH_2_TITLE": "挑戰力已完全恢復！",
+  "LocalizeSystemLocalPush": "\u0010"
+}

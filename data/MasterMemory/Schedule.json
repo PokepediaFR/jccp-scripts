@@ -1,0 +1,9218 @@
+[
+ {
+  "ScheduleID": "SC_2405",
+  "OpenAt": [
+   "2024-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2406",
+  "OpenAt": [
+   "2024-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2407",
+  "OpenAt": [
+   "2024-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2408",
+  "OpenAt": [
+   "2024-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2409",
+  "OpenAt": [
+   "2024-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2410",
+  "OpenAt": [
+   "2024-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2411",
+  "OpenAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2412",
+  "OpenAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2501",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2502",
+  "OpenAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2503",
+  "OpenAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2504",
+  "OpenAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2505",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2506",
+  "OpenAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2507",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2508",
+  "OpenAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2509",
+  "OpenAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2510",
+  "OpenAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2511",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2512",
+  "OpenAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2601",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2602",
+  "OpenAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2603",
+  "OpenAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2604",
+  "OpenAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2605",
+  "OpenAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2606",
+  "OpenAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2607",
+  "OpenAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2607000_BUG_01",
+  "OpenAt": [
+   "2026-08-06T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2608",
+  "OpenAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2609",
+  "OpenAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2610",
+  "OpenAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2611",
+  "OpenAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_2612",
+  "OpenAt": [
+   "2026-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1_A1a",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1_A1a_GLOBAL",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1_A2",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1_A2_GLOBAL",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1_HOTFIX_PACK",
+  "OpenAt": [
+   "2000-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2000-01-01T06:00:01+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A1a_A2",
+  "OpenAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A2_A2a",
+  "OpenAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A2_A3",
+  "OpenAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A2a_A2b",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A2a_A3",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A2b_A3",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A3_A3a",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A3_A3b",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A3a_A3b",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A3b_A4",
+  "OpenAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A4_A4a",
+  "OpenAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A4_UPDATE",
+  "OpenAt": [
+   "2025-07-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_A4a_A4b",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A4a_B1",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_A4b_B1",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_ANNOUNCEMENT_B2",
+  "OpenAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_B1_B1a",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_B1a_B2",
+  "OpenAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_B2a_B2b",
+  "OpenAt": [
+   "2026-02-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_BPROMO_END",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_C1_END",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-29T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CARD_GIVE_QA",
+  "OpenAt": [
+   "2025-09-05T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-17T13:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CLOSE_B2",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-28T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CLOSE_B3",
+  "OpenAt": [
+   "1970-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_0002010_01",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2408010_01",
+  "OpenAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2408010_02",
+  "OpenAt": [
+   "2024-12-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2408010_03",
+  "OpenAt": [
+   "2024-12-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2503010_01",
+  "OpenAt": [
+   "2025-04-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2503010_02",
+  "OpenAt": [
+   "2025-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2504010_01",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2504010_02",
+  "OpenAt": [
+   "2025-05-05T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2505010_01",
+  "OpenAt": [
+   "2025-06-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2506000_01",
+  "OpenAt": [
+   "2025-06-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-07T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2507000_01",
+  "OpenAt": [
+   "2025-08-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2507000_TEST01",
+  "OpenAt": [
+   "2025-08-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2508000_PKW_01",
+  "OpenAt": [
+   "2025-09-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2509000_02",
+  "OpenAt": [
+   "2025-10-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2509000_PKW_01",
+  "OpenAt": [
+   "2025-10-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2510000_GIVE_01",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-07T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2510000_PKW_01",
+  "OpenAt": [
+   "2025-11-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2512000_01",
+  "OpenAt": [
+   "2025-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2512000_02",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2512000_PKW_01",
+  "OpenAt": [
+   "2026-01-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2601000_PKW_01",
+  "OpenAt": [
+   "2026-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2602000_BNS_01",
+  "OpenAt": [
+   "2026-03-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2603000_BNS_01",
+  "OpenAt": [
+   "2026-04-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2604000_BNS_01",
+  "OpenAt": [
+   "2026-05-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2605000_BNS_01",
+  "OpenAt": [
+   "2026-06-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2606000_COMM_01",
+  "OpenAt": [
+   "2026-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2607000_COMM_01",
+  "OpenAt": [
+   "2026-08-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2608000_BNS_01",
+  "OpenAt": [
+   "2026-09-05T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2609000_BNS_01",
+  "OpenAt": [
+   "2026-10-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_CM_2609000_BNS_02",
+  "OpenAt": [
+   "2026-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_DEVELOP_GIFTCODE",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-31T15:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_DR_01",
+  "OpenAt": [
+   "2024-11-05T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_DR_02",
+  "OpenAt": [
+   "2024-11-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_EM_01",
+  "OpenAt": [
+   "2024-11-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_EM_02",
+  "OpenAt": [
+   "2024-12-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_MI_01",
+  "OpenAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_MI_02",
+  "OpenAt": [
+   "2024-11-08T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_MI_03",
+  "OpenAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_MI_04",
+  "OpenAt": [
+   "2024-12-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_0002010_MI_05",
+  "OpenAt": [
+   "2024-12-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_DR_01",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_EM_01",
+  "OpenAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_EM_02",
+  "OpenAt": [
+   "2025-01-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_01",
+  "OpenAt": [
+   "2024-12-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_02",
+  "OpenAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_03",
+  "OpenAt": [
+   "2025-01-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_04",
+  "OpenAt": [
+   "2025-01-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_05",
+  "OpenAt": [
+   "2024-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2408010_MI_06",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_DR_01",
+  "OpenAt": [
+   "2025-02-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_EM_01",
+  "OpenAt": [
+   "2025-02-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_MI_01",
+  "OpenAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_MI_02",
+  "OpenAt": [
+   "2025-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_MI_03",
+  "OpenAt": [
+   "2025-02-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2409010_MI_04",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_DR_01",
+  "OpenAt": [
+   "2025-03-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_EM_01",
+  "OpenAt": [
+   "2025-03-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_MI_01",
+  "OpenAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_MI_02",
+  "OpenAt": [
+   "2025-03-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_MI_03",
+  "OpenAt": [
+   "2025-03-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2502010_MI_04",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2503010_DR_01",
+  "OpenAt": [
+   "2025-04-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2503010_MI_01",
+  "OpenAt": [
+   "2025-04-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2503010_MI_02",
+  "OpenAt": [
+   "2025-04-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2504010_DR_01",
+  "OpenAt": [
+   "2025-05-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2504010_MI_01",
+  "OpenAt": [
+   "2025-05-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2504010_MI_02",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2505010_DR_01",
+  "OpenAt": [
+   "2025-06-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2505010_MI_01",
+  "OpenAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2506000_DR_01",
+  "OpenAt": [
+   "2025-07-02T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2506000_MI_01",
+  "OpenAt": [
+   "2025-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2506000_MI_02",
+  "OpenAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2506000_MI_03",
+  "OpenAt": [
+   "2025-07-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2507000_DR_01",
+  "OpenAt": [
+   "2025-08-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2507000_MI_01",
+  "OpenAt": [
+   "2025-08-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2508000_DR_01",
+  "OpenAt": [
+   "2025-09-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2508000_MI_01",
+  "OpenAt": [
+   "2025-09-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2509000_DR_01",
+  "OpenAt": [
+   "2025-10-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2509000_MI_01",
+  "OpenAt": [
+   "2025-10-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_DR_01",
+  "OpenAt": [
+   "2025-11-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_EM_01",
+  "OpenAt": [
+   "2025-11-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_MI_01",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_MI_02",
+  "OpenAt": [
+   "2025-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_MI_03",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-09T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2510000_MI_04",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2512000_DR_01",
+  "OpenAt": [
+   "2026-01-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2512000_DR_02",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2512000_EM_01",
+  "OpenAt": [
+   "2025-12-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2601000_DR_01",
+  "OpenAt": [
+   "2026-02-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2601000_EM_01",
+  "OpenAt": [
+   "2026-02-02T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2602000_DR_01",
+  "OpenAt": [
+   "2026-03-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2602000_EM_01",
+  "OpenAt": [
+   "2026-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2603000_DR_01",
+  "OpenAt": [
+   "2026-04-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2603000_EM_01",
+  "OpenAt": [
+   "2026-03-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2604000_DR_01",
+  "OpenAt": [
+   "2026-05-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2604000_EM_01",
+  "OpenAt": [
+   "2026-05-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2604000_MI_01",
+  "OpenAt": [
+   "2026-04-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-09T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2605000_DR_01",
+  "OpenAt": [
+   "2026-06-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2605000_EM_01",
+  "OpenAt": [
+   "2026-05-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2606000_DR_01",
+  "OpenAt": [
+   "2026-07-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2606000_EM_01",
+  "OpenAt": [
+   "2026-07-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2607000_DR_01",
+  "OpenAt": [
+   "2026-08-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2607000_EM_01",
+  "OpenAt": [
+   "2026-08-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2607000_MI_01",
+  "OpenAt": [
+   "2026-07-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-09T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2608000_DR_01",
+  "OpenAt": [
+   "2026-09-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2608000_EM_01",
+  "OpenAt": [
+   "2026-08-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2608000_MI_01",
+  "OpenAt": [
+   "2026-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2609000_DR_01",
+  "OpenAt": [
+   "2026-10-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2609000_EM_01",
+  "OpenAt": [
+   "2026-10-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2609000_MI_01",
+  "OpenAt": [
+   "2026-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-09T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2609000_MI_02",
+  "OpenAt": [
+   "2026-10-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-10-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_EV_2609000_MI_02_DISPLAY",
+  "OpenAt": [
+   "2026-10-20T13:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-10-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_FR_01",
+  "OpenAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_FR_02",
+  "OpenAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_FR_03",
+  "OpenAt": [
+   "2024-12-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_LC_01",
+  "OpenAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_LC_02",
+  "OpenAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_0002010_LC_03",
+  "OpenAt": [
+   "2024-12-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_FR_01",
+  "OpenAt": [
+   "2024-12-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_FR_02",
+  "OpenAt": [
+   "2025-01-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_FR_03",
+  "OpenAt": [
+   "2025-01-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_LC_01",
+  "OpenAt": [
+   "2024-12-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_LC_02",
+  "OpenAt": [
+   "2025-01-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2408010_LC_03",
+  "OpenAt": [
+   "2025-01-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2409010_FR_01",
+  "OpenAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2409010_FR_02",
+  "OpenAt": [
+   "2025-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2409010_LC_01",
+  "OpenAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2409010_LC_02",
+  "OpenAt": [
+   "2025-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2502010_FR_01",
+  "OpenAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2502010_FR_02",
+  "OpenAt": [
+   "2025-03-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2502010_LC_01",
+  "OpenAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2502010_LC_02",
+  "OpenAt": [
+   "2025-03-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2503010_FR_01",
+  "OpenAt": [
+   "2025-04-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2503010_FR_02",
+  "OpenAt": [
+   "2025-04-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2503010_LC_01",
+  "OpenAt": [
+   "2025-04-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2503010_LC_02",
+  "OpenAt": [
+   "2025-04-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2504010_FR_01",
+  "OpenAt": [
+   "2025-05-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2504010_FR_02",
+  "OpenAt": [
+   "2025-05-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2504010_LC_01",
+  "OpenAt": [
+   "2025-05-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2504010_LC_02",
+  "OpenAt": [
+   "2025-05-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2505010_FR_01",
+  "OpenAt": [
+   "2025-06-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2505010_FR_02",
+  "OpenAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2505010_LC_01",
+  "OpenAt": [
+   "2025-06-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2505010_LC_02",
+  "OpenAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2506000_FR_01",
+  "OpenAt": [
+   "2025-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2506000_FR_02",
+  "OpenAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2506000_LC_01",
+  "OpenAt": [
+   "2025-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2506000_LC_02",
+  "OpenAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2507000_FR_01",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2507000_FR_02",
+  "OpenAt": [
+   "2025-08-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2507000_LC_01",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2507000_LC_02",
+  "OpenAt": [
+   "2025-08-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2508000_01",
+  "OpenAt": [
+   "2025-09-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2508000_02",
+  "OpenAt": [
+   "2025-09-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2509000_01",
+  "OpenAt": [
+   "2025-10-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2509000_02",
+  "OpenAt": [
+   "2025-10-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2510000_01",
+  "OpenAt": [
+   "2025-11-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-07T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2510000_02",
+  "OpenAt": [
+   "2025-12-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2512000_01",
+  "OpenAt": [
+   "2026-01-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-19T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2601000_01",
+  "OpenAt": [
+   "2026-02-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2602000_01",
+  "OpenAt": [
+   "2026-03-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2603000_01",
+  "OpenAt": [
+   "2026-04-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2604000_01",
+  "OpenAt": [
+   "2026-05-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2605000_01",
+  "OpenAt": [
+   "2026-06-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2606000_01",
+  "OpenAt": [
+   "2026-07-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2607000_01",
+  "OpenAt": [
+   "2026-08-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2608000_01",
+  "OpenAt": [
+   "2026-09-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GC_2609000_01",
+  "OpenAt": [
+   "2026-10-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_01",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-01T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_02",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-31T18:29:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_03",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_04",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_05",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_06",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_07",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_08",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_09",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_10",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2512000_11",
+  "OpenAt": [
+   "2025-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-01-11T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_01",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_02",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_03",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_04",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_05",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_06",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_07",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_08",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_09",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_10",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-03-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_11",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2601000_12",
+  "OpenAt": [
+   "2025-10-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2604000_01",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-07-01T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2604000_02",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-07-01T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2604000_03",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-07-01T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2604000_04",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-07-01T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2605000_01",
+  "OpenAt": [
+   "2026-03-19T03:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-06-30T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2605000_02",
+  "OpenAt": [
+   "2026-03-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-05-31T14:59:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2606000_01",
+  "OpenAt": [
+   "2026-04-22T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-12-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2608000_01",
+  "OpenAt": [
+   "2026-06-07T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GIFT_2608000_02",
+  "OpenAt": [
+   "2026-06-07T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-11-28T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GL_news_2010",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_GPGS_RELEASE",
+  "OpenAt": [
+   "2026-07-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_INFINITE",
+  "OpenAt": [
+   "1970-01-01T00:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_LL_GL_news",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_LL_MAINTENANCE",
+  "OpenAt": [
+   "2024-10-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_LL_MAINTENANCE_news",
+  "OpenAt": [
+   "2024-10-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-29T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MA_2504010_01",
+  "OpenAt": [
+   "2025-07-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_0002010_SS_01",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_0002010_SS_02",
+  "OpenAt": [
+   "2024-10-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_0002010_SS_03",
+  "OpenAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2408010_SS_01",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2409010_SS_01",
+  "OpenAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2502010_SS_01",
+  "OpenAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2503010_SS_01",
+  "OpenAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2504010_SS_01",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2505010_SS_01",
+  "OpenAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2506000_SS_01",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2507000_SS_01",
+  "OpenAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2508000_SS_01",
+  "OpenAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2509000_SS_01",
+  "OpenAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2510000_SS_01",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2510000_SS_02",
+  "OpenAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2512000_SS_01",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2601000_ELITE_01",
+  "OpenAt": [
+   "2026-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2601000_SS_01",
+  "OpenAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2602000_04",
+  "OpenAt": [
+   "2026-02-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-02-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2602000_04_DISPLAY",
+  "OpenAt": [
+   "2026-02-27T14:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2027-02-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2602000_SS_01",
+  "OpenAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2603000_SS_01",
+  "OpenAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2604000_ELITE_01",
+  "OpenAt": [
+   "2026-04-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2604000_SS_01",
+  "OpenAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2605000_SS_01",
+  "OpenAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2606000_SS_01",
+  "OpenAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2607000_ELITE_01",
+  "OpenAt": [
+   "2026-07-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2607000_ELITE_01_END",
+  "OpenAt": [
+   "2026-07-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2607000_SS_01",
+  "OpenAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2608000_SS_01",
+  "OpenAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_MI_2609000_SS_01",
+  "OpenAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_01",
+  "OpenAt": [
+   "2023-12-31T15:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_02",
+  "OpenAt": [
+   "2024-10-30T01:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_03",
+  "OpenAt": [
+   "2024-10-30T01:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_04",
+  "OpenAt": [
+   "2024-10-30T01:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_17",
+  "OpenAt": [
+   "2023-12-31T15:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_19",
+  "OpenAt": [
+   "2024-11-22T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_23",
+  "OpenAt": [
+   "2024-10-30T01:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_25",
+  "OpenAt": [
+   "2024-10-30T01:00:06+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_26",
+  "OpenAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_27",
+  "OpenAt": [
+   "2024-10-30T01:00:05+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_28",
+  "OpenAt": [
+   "2024-10-30T01:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_29",
+  "OpenAt": [
+   "2024-10-30T01:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_30",
+  "OpenAt": [
+   "2024-10-30T01:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_0002010_31",
+  "OpenAt": [
+   "2024-10-30T01:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_01",
+  "OpenAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_02",
+  "OpenAt": [
+   "2024-12-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_03",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_04",
+  "OpenAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_05",
+  "OpenAt": [
+   "2025-01-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_06",
+  "OpenAt": [
+   "2025-01-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_07",
+  "OpenAt": [
+   "2025-01-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_08",
+  "OpenAt": [
+   "2024-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_09",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_10",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_11",
+  "OpenAt": [
+   "2025-01-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_12",
+  "OpenAt": [
+   "2024-12-17T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2408010_13",
+  "OpenAt": [
+   "2024-12-17T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_01",
+  "OpenAt": [
+   "2025-02-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_02",
+  "OpenAt": [
+   "2025-02-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_03",
+  "OpenAt": [
+   "2025-02-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_04",
+  "OpenAt": [
+   "2025-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_05",
+  "OpenAt": [
+   "2025-02-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_06",
+  "OpenAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_07",
+  "OpenAt": [
+   "2025-02-27T14:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-28T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_08",
+  "OpenAt": [
+   "2025-01-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_09",
+  "OpenAt": [
+   "2025-01-30T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_10",
+  "OpenAt": [
+   "2025-01-30T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_11",
+  "OpenAt": [
+   "2025-01-30T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2409010_12",
+  "OpenAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_01",
+  "OpenAt": [
+   "2025-03-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_02",
+  "OpenAt": [
+   "2025-03-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_03",
+  "OpenAt": [
+   "2025-03-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_04",
+  "OpenAt": [
+   "2025-03-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_05",
+  "OpenAt": [
+   "2025-03-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_06",
+  "OpenAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_07",
+  "OpenAt": [
+   "2025-02-28T06:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_08",
+  "OpenAt": [
+   "2025-02-28T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_09",
+  "OpenAt": [
+   "2025-02-28T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_10",
+  "OpenAt": [
+   "2025-02-28T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2502010_11",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_01",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_02",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_03",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_04",
+  "OpenAt": [
+   "2025-04-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_05",
+  "OpenAt": [
+   "2025-04-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_06",
+  "OpenAt": [
+   "2025-04-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_07",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_08",
+  "OpenAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_09",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_10",
+  "OpenAt": [
+   "2025-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_11",
+  "OpenAt": [
+   "2025-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2503010_12",
+  "OpenAt": [
+   "2025-04-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_01",
+  "OpenAt": [
+   "2025-04-30T06:00:05+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_02",
+  "OpenAt": [
+   "2025-04-30T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_04",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_05",
+  "OpenAt": [
+   "2025-05-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_06",
+  "OpenAt": [
+   "2025-05-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_07",
+  "OpenAt": [
+   "2025-05-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_08",
+  "OpenAt": [
+   "2025-05-01T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_09",
+  "OpenAt": [
+   "2025-04-30T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_10",
+  "OpenAt": [
+   "2025-05-05T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_11",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2504010_12",
+  "OpenAt": [
+   "2025-04-30T06:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_01",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_03",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_04",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_05",
+  "OpenAt": [
+   "2025-05-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_06",
+  "OpenAt": [
+   "2025-06-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_07",
+  "OpenAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_08",
+  "OpenAt": [
+   "2025-06-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_09",
+  "OpenAt": [
+   "2025-06-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2505010_10",
+  "OpenAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_01",
+  "OpenAt": [
+   "2025-06-26T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_02",
+  "OpenAt": [
+   "2025-06-26T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_04",
+  "OpenAt": [
+   "2025-06-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_05",
+  "OpenAt": [
+   "2025-07-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_06",
+  "OpenAt": [
+   "2025-07-02T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_07",
+  "OpenAt": [
+   "2025-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_08",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_09",
+  "OpenAt": [
+   "2025-06-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_10",
+  "OpenAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_11",
+  "OpenAt": [
+   "2025-07-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2506000_12",
+  "OpenAt": [
+   "2025-07-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_01",
+  "OpenAt": [
+   "2025-07-30T06:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_02",
+  "OpenAt": [
+   "2025-07-30T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_04",
+  "OpenAt": [
+   "2025-07-30T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_05",
+  "OpenAt": [
+   "2025-07-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_06",
+  "OpenAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_07",
+  "OpenAt": [
+   "2025-08-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_08",
+  "OpenAt": [
+   "2025-08-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_09",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_10",
+  "OpenAt": [
+   "2025-08-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_12",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_13",
+  "OpenAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2507000_14",
+  "OpenAt": [
+   "2025-07-30T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_01",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_02",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_03",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_04",
+  "OpenAt": [
+   "2025-08-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_05",
+  "OpenAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_07",
+  "OpenAt": [
+   "2025-09-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_08",
+  "OpenAt": [
+   "2025-09-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_09",
+  "OpenAt": [
+   "2025-09-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_09_01",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10",
+  "OpenAt": [
+   "2025-09-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10_01",
+  "OpenAt": [
+   "2025-10-30T05:59:59+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10_02",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10_03",
+  "OpenAt": [
+   "2025-11-01T05:59:59+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10_04",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_10_05",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2508000_11",
+  "OpenAt": [
+   "2025-09-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_01",
+  "OpenAt": [
+   "2025-09-30T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_02",
+  "OpenAt": [
+   "2025-09-30T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_03",
+  "OpenAt": [
+   "2025-09-30T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_04",
+  "OpenAt": [
+   "2025-10-01T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_05",
+  "OpenAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_06",
+  "OpenAt": [
+   "2025-10-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_07",
+  "OpenAt": [
+   "2025-10-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_08",
+  "OpenAt": [
+   "2025-10-24T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_09",
+  "OpenAt": [
+   "2025-10-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_10",
+  "OpenAt": [
+   "2025-10-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_11",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2509000_11_DATE",
+  "OpenAt": [
+   "2025-10-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_01",
+  "OpenAt": [
+   "2025-10-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_02",
+  "OpenAt": [
+   "2025-10-30T06:00:04+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_03",
+  "OpenAt": [
+   "2025-10-30T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_04",
+  "OpenAt": [
+   "2025-10-30T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_05",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_06",
+  "OpenAt": [
+   "2025-11-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_08",
+  "OpenAt": [
+   "2025-11-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_09",
+  "OpenAt": [
+   "2025-11-27T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_10",
+  "OpenAt": [
+   "2025-11-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_11",
+  "OpenAt": [
+   "2025-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_12",
+  "OpenAt": [
+   "2025-11-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_14",
+  "OpenAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_16",
+  "OpenAt": [
+   "2025-12-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_17",
+  "OpenAt": [
+   "2025-10-30T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_18",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_19",
+  "OpenAt": [
+   "2025-11-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2510000_24",
+  "OpenAt": [
+   "2025-11-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_01",
+  "OpenAt": [
+   "2025-12-17T06:00:03+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_02",
+  "OpenAt": [
+   "2025-12-17T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_03",
+  "OpenAt": [
+   "2025-12-17T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_04",
+  "OpenAt": [
+   "2025-12-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_05",
+  "OpenAt": [
+   "2025-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_06",
+  "OpenAt": [
+   "2026-01-01T06:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_07",
+  "OpenAt": [
+   "2026-01-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_08",
+  "OpenAt": [
+   "2026-01-01T06:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_11",
+  "OpenAt": [
+   "2026-01-04T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_12",
+  "OpenAt": [
+   "2026-01-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_13",
+  "OpenAt": [
+   "2026-01-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_14",
+  "OpenAt": [
+   "2026-01-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_16",
+  "OpenAt": [
+   "2026-01-22T14:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2512000_17",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_01",
+  "OpenAt": [
+   "2026-06-30T01:00:02+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_02",
+  "OpenAt": [
+   "2026-06-30T01:00:01+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_03",
+  "OpenAt": [
+   "2026-06-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_04",
+  "OpenAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_05",
+  "OpenAt": [
+   "2026-07-03T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_06",
+  "OpenAt": [
+   "2026-07-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_07",
+  "OpenAt": [
+   "2026-07-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_08",
+  "OpenAt": [
+   "2026-07-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_09",
+  "OpenAt": [
+   "2026-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2606000_10",
+  "OpenAt": [
+   "2026-07-23T13:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2608000_12_01",
+  "OpenAt": [
+   "2026-11-01T05:59:59+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2608000_12_02",
+  "OpenAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_2608000_12_03",
+  "OpenAt": [
+   "2026-09-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_BUG_0002100_001",
+  "OpenAt": [
+   "2024-09-25T23:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-09-26T01:43:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_BUG_0002100_002",
+  "OpenAt": [
+   "2024-10-01T09:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_NW_BUG_2408010_001",
+  "OpenAt": [
+   "2025-01-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_BUG_2408010_002",
+  "OpenAt": [
+   "2025-01-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_NW_BUG_2505100_001",
+  "OpenAt": [
+   "2025-06-12T18:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-12T20:50:01+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B2",
+  "OpenAt": [
+   "2026-01-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B2a",
+  "OpenAt": [
+   "2026-02-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B2b",
+  "OpenAt": [
+   "2026-03-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B3",
+  "OpenAt": [
+   "2026-04-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B3a",
+  "OpenAt": [
+   "2026-05-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B3b",
+  "OpenAt": [
+   "2026-06-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B4",
+  "OpenAt": [
+   "2026-07-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B4a",
+  "OpenAt": [
+   "2026-08-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACKMISSION_RELEASE_B4b",
+  "OpenAt": [
+   "2026-09-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2",
+  "OpenAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2_B2a",
+  "OpenAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-26T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2a",
+  "OpenAt": [
+   "2026-02-26T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2a_B2b",
+  "OpenAt": [
+   "2026-02-26T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-26T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2b",
+  "OpenAt": [
+   "2026-03-26T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B2b_B3",
+  "OpenAt": [
+   "2026-03-26T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-28T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3",
+  "OpenAt": [
+   "2026-04-28T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3_B3a",
+  "OpenAt": [
+   "2026-04-28T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-28T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3a",
+  "OpenAt": [
+   "2026-05-28T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3a_B3b",
+  "OpenAt": [
+   "2026-05-28T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3b",
+  "OpenAt": [
+   "2026-06-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B3b_B4",
+  "OpenAt": [
+   "2026-06-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4",
+  "OpenAt": [
+   "2026-07-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4_B4a",
+  "OpenAt": [
+   "2026-07-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-27T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4a",
+  "OpenAt": [
+   "2026-08-27T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4a_B4b",
+  "OpenAt": [
+   "2026-08-27T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4b",
+  "OpenAt": [
+   "2026-09-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_B4b_C1",
+  "OpenAt": [
+   "2026-09-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-29T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PACK_RELEASE_C1",
+  "OpenAt": [
+   "2026-10-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_PC_2408010_01",
+  "OpenAt": [
+   "2024-12-03T00:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-01T10:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2502010_01",
+  "OpenAt": [
+   "2024-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-26T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2503010_01",
+  "OpenAt": [
+   "2025-01-15T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2504010_01",
+  "OpenAt": [
+   "2025-01-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-29T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2505010_01",
+  "OpenAt": [
+   "2025-03-13T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_01",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_02",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_03",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_04",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_05",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_06",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-25T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2506000_07",
+  "OpenAt": [
+   "2025-03-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2507000_01",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-31T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2507000_02",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-30T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_01",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_02",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_03",
+  "OpenAt": [
+   "2025-07-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_04",
+  "OpenAt": [
+   "2025-07-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-30T05:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_05",
+  "OpenAt": [
+   "2025-07-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-29T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2509000_06",
+  "OpenAt": [
+   "2025-07-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-31T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2510000_01",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-29T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2512000_01",
+  "OpenAt": [
+   "2026-01-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2512000_02",
+  "OpenAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-15T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2607000_01",
+  "OpenAt": [
+   "2026-07-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2607000_02",
+  "OpenAt": [
+   "2026-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PC_2607000_03",
+  "OpenAt": [
+   "2026-08-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-27T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2408010_01",
+  "OpenAt": [
+   "2025-01-20T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2409010_01",
+  "OpenAt": [
+   "2025-02-27T14:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2409010_02",
+  "OpenAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2409010_03",
+  "OpenAt": [
+   "2025-02-05T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2502010_01",
+  "OpenAt": [
+   "2025-03-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2503010_01",
+  "OpenAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2504010_01",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2505010_01",
+  "OpenAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2506000_01",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2507000_01",
+  "OpenAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2510000_01",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2510000_02",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2604000_01",
+  "OpenAt": [
+   "2026-04-28T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2604000_02",
+  "OpenAt": [
+   "2026-04-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_PR_2607000_01",
+  "OpenAt": [
+   "2026-07-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_QU_0002010_01",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_QU_2507000_01",
+  "OpenAt": [
+   "2025-08-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_QU_2512000_01",
+  "OpenAt": [
+   "2025-12-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A2b",
+  "OpenAt": [
+   "2025-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A2b_MI_01",
+  "OpenAt": [
+   "2025-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A2b_RESULT",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3_MI_01",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3_RESULT",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3a",
+  "OpenAt": [
+   "2025-05-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3a_MI_01",
+  "OpenAt": [
+   "2025-05-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3a_RESULT",
+  "OpenAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3b",
+  "OpenAt": [
+   "2025-06-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3b_MI_01",
+  "OpenAt": [
+   "2025-06-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A3b_RESULT",
+  "OpenAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4",
+  "OpenAt": [
+   "2025-07-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4_RESULT",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4a",
+  "OpenAt": [
+   "2025-08-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4a_RESULT",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4b",
+  "OpenAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_A4b_RESULT",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B1",
+  "OpenAt": [
+   "2025-11-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B1_RESULT",
+  "OpenAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B1a",
+  "OpenAt": [
+   "2026-01-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B1a_RESULT",
+  "OpenAt": [
+   "2026-01-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2",
+  "OpenAt": [
+   "2026-02-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2_RESULT",
+  "OpenAt": [
+   "2026-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2a",
+  "OpenAt": [
+   "2026-03-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2a_RESULT",
+  "OpenAt": [
+   "2026-03-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2b",
+  "OpenAt": [
+   "2026-04-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B2b_RESULT",
+  "OpenAt": [
+   "2026-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3",
+  "OpenAt": [
+   "2026-05-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3_RESULT",
+  "OpenAt": [
+   "2026-05-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3a",
+  "OpenAt": [
+   "2026-06-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3a_RESULT",
+  "OpenAt": [
+   "2026-07-02T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3b",
+  "OpenAt": [
+   "2026-07-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B3b_RESULT",
+  "OpenAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4",
+  "OpenAt": [
+   "2026-08-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4_RESULT",
+  "OpenAt": [
+   "2026-08-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4a",
+  "OpenAt": [
+   "2026-09-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4a_RESULT",
+  "OpenAt": [
+   "2026-10-02T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4b",
+  "OpenAt": [
+   "2026-10-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_B4b_RESULT",
+  "OpenAt": [
+   "2026-10-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA0",
+  "OpenAt": [
+   "2024-10-31T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-06T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA0_RESULT",
+  "OpenAt": [
+   "2024-11-07T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-08T14:59:59+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA11",
+  "OpenAt": [
+   "2024-12-06T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-06T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA11_RESULT",
+  "OpenAt": [
+   "2024-12-06T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-06T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA12",
+  "OpenAt": [
+   "2024-12-09T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-09T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA12_RESULT",
+  "OpenAt": [
+   "2024-12-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA13",
+  "OpenAt": [
+   "2024-12-11T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-11T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA13_RESULT",
+  "OpenAt": [
+   "2024-12-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA14",
+  "OpenAt": [
+   "2024-12-13T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA14_RESULT",
+  "OpenAt": [
+   "2024-12-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA15",
+  "OpenAt": [
+   "2024-12-16T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA15_RESULT",
+  "OpenAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA16",
+  "OpenAt": [
+   "2024-12-18T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA16_RESULT",
+  "OpenAt": [
+   "2024-12-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA17",
+  "OpenAt": [
+   "2024-12-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-19T08:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA17_RESULT",
+  "OpenAt": [
+   "2024-12-19T09:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA18",
+  "OpenAt": [
+   "2024-12-19T09:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA18_RESULT",
+  "OpenAt": [
+   "2024-12-20T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA19",
+  "OpenAt": [
+   "2024-12-20T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-20T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA19_RESULT",
+  "OpenAt": [
+   "2024-12-20T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA1_mission",
+  "OpenAt": [
+   "2024-11-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-12T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA20",
+  "OpenAt": [
+   "2024-12-20T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA20_RESULT",
+  "OpenAt": [
+   "2024-12-23T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA21",
+  "OpenAt": [
+   "2024-12-23T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA21_RESULT",
+  "OpenAt": [
+   "2024-12-23T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA22",
+  "OpenAt": [
+   "2024-12-23T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-23T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA22_RESULT",
+  "OpenAt": [
+   "2024-12-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-24T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA23",
+  "OpenAt": [
+   "2024-12-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-24T03:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA23_RESULT",
+  "OpenAt": [
+   "2024-12-24T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA24",
+  "OpenAt": [
+   "2024-12-24T04:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA24_RESULT",
+  "OpenAt": [
+   "2024-12-24T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA25",
+  "OpenAt": [
+   "2024-12-24T07:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA25_RESULT",
+  "OpenAt": [
+   "2024-12-25T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA26",
+  "OpenAt": [
+   "2024-12-25T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA26_RESULT",
+  "OpenAt": [
+   "2024-12-25T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T07:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA27",
+  "OpenAt": [
+   "2024-12-25T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-25T07:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA27_RESULT",
+  "OpenAt": [
+   "2024-12-26T08:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-27T02:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA28",
+  "OpenAt": [
+   "2024-12-26T08:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-27T02:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA28_RESULT",
+  "OpenAt": [
+   "2025-01-06T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-06T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA29",
+  "OpenAt": [
+   "2025-01-06T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-06T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA29_RESULT",
+  "OpenAt": [
+   "2025-01-06T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-06T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA30",
+  "OpenAt": [
+   "2025-01-06T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-06T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA30_RESULT",
+  "OpenAt": [
+   "2025-01-07T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-07T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA31",
+  "OpenAt": [
+   "2025-01-07T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-07T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA31_RESULT",
+  "OpenAt": [
+   "2025-01-08T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA32",
+  "OpenAt": [
+   "2025-01-08T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA32_RESULT",
+  "OpenAt": [
+   "2025-01-09T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-09T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA33",
+  "OpenAt": [
+   "2025-01-09T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-09T04:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA33_RESULT",
+  "OpenAt": [
+   "2025-01-09T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-09T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA34",
+  "OpenAt": [
+   "2025-01-09T05:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-09T09:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA34_RESULT",
+  "OpenAt": [
+   "2025-01-10T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA35",
+  "OpenAt": [
+   "2025-01-10T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA35_RESULT",
+  "OpenAt": [
+   "2025-01-13T02:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-13T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA36",
+  "OpenAt": [
+   "2025-01-14T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-14T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA36_RESULT",
+  "OpenAt": [
+   "2025-01-15T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-15T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA37",
+  "OpenAt": [
+   "2025-01-15T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-15T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA37_RESULT",
+  "OpenAt": [
+   "2025-01-16T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-16T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA38",
+  "OpenAt": [
+   "2025-01-16T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-16T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA38_RESULT",
+  "OpenAt": [
+   "2025-01-17T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-17T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA40",
+  "OpenAt": [
+   "2025-01-20T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-20T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA40_RESULT",
+  "OpenAt": [
+   "2025-01-21T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-21T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA41",
+  "OpenAt": [
+   "2025-01-21T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-21T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA41_RESULT",
+  "OpenAt": [
+   "2025-01-22T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA42",
+  "OpenAt": [
+   "2025-01-22T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-22T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA42_RESULT",
+  "OpenAt": [
+   "2025-01-23T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-23T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA43",
+  "OpenAt": [
+   "2025-01-24T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-24T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA43_RESULT",
+  "OpenAt": [
+   "2025-01-24T09:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-24T13:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA44",
+  "OpenAt": [
+   "2025-01-27T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-27T05:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RANKMATCH_QA44_RESULT",
+  "OpenAt": [
+   "2025-01-27T09:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-27T13:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RELEASE",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A1a",
+  "OpenAt": [
+   "2024-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A2",
+  "OpenAt": [
+   "2025-01-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A2a",
+  "OpenAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A2b",
+  "OpenAt": [
+   "2025-03-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A3",
+  "OpenAt": [
+   "2025-04-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A3a",
+  "OpenAt": [
+   "2025-05-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A3b",
+  "OpenAt": [
+   "2025-06-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A4",
+  "OpenAt": [
+   "2025-07-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A4a",
+  "OpenAt": [
+   "2025-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_A4b",
+  "OpenAt": [
+   "2025-09-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_B1",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_B1a",
+  "OpenAt": [
+   "2025-12-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_B2a",
+  "OpenAt": [
+   "2026-02-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_B3",
+  "OpenAt": [
+   "2026-04-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_GLOBAL",
+  "OpenAt": [
+   "2024-10-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_RELEASE_LL_B1",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_RELEASE_RANDOMMATCH_B2",
+  "OpenAt": [
+   "2026-01-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_01",
+  "OpenAt": [
+   "2024-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_02",
+  "OpenAt": [
+   "2024-11-08T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_03",
+  "OpenAt": [
+   "2024-11-22T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_04",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-10-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_05",
+  "OpenAt": [
+   "2024-10-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_06",
+  "OpenAt": [
+   "2024-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_07",
+  "OpenAt": [
+   "2024-12-06T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_0002010_08",
+  "OpenAt": [
+   "2024-12-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2024-12-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2408010_01",
+  "OpenAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2408010_02",
+  "OpenAt": [
+   "2025-01-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2408010_03",
+  "OpenAt": [
+   "2024-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2408010_04",
+  "OpenAt": [
+   "2025-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2409010_01",
+  "OpenAt": [
+   "2025-02-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2409010_02",
+  "OpenAt": [
+   "2025-02-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-02-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2409010_03",
+  "OpenAt": [
+   "2025-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2502010_01",
+  "OpenAt": [
+   "2025-03-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2502010_02",
+  "OpenAt": [
+   "2025-03-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-03-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2502010_03",
+  "OpenAt": [
+   "2025-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2503010_01",
+  "OpenAt": [
+   "2025-04-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-03T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2503010_02",
+  "OpenAt": [
+   "2025-04-21T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-03T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2503010_03 ",
+  "OpenAt": [
+   "2025-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2504010_01",
+  "OpenAt": [
+   "2025-05-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-05-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2504010_02",
+  "OpenAt": [
+   "2025-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2505010_01",
+  "OpenAt": [
+   "2025-06-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-06-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2505010_02",
+  "OpenAt": [
+   "2025-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2506000_01",
+  "OpenAt": [
+   "2025-07-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2506000_02",
+  "OpenAt": [
+   "2025-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2507000_01",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2507000_02",
+  "OpenAt": [
+   "2025-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2507000_03",
+  "OpenAt": [
+   "2025-08-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-08-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2507000_04",
+  "OpenAt": [
+   "2025-07-29T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2508000_01",
+  "OpenAt": [
+   "2025-09-14T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2508000_02",
+  "OpenAt": [
+   "2025-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2509000_01",
+  "OpenAt": [
+   "2025-10-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2509000_02",
+  "OpenAt": [
+   "2025-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2509000_03",
+  "OpenAt": [
+   "2023-12-31T15:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_01",
+  "OpenAt": [
+   "2025-11-27T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-14T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_02",
+  "OpenAt": [
+   "2025-12-07T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-24T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_03",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_04",
+  "OpenAt": [
+   "2025-12-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_05",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-25T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_06",
+  "OpenAt": [
+   "2025-11-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_07",
+  "OpenAt": [
+   "2025-11-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_09",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_10",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-11-21T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2510000_11",
+  "OpenAt": [
+   "2025-11-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-12-05T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_01",
+  "OpenAt": [
+   "2025-12-25T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_02",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-08T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_03",
+  "OpenAt": [
+   "2026-01-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_04",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_05",
+  "OpenAt": [
+   "2026-01-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-02-03T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_06",
+  "OpenAt": [
+   "2026-01-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-01-18T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2512000_07",
+  "OpenAt": [
+   "2026-01-07T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_SH_2601000_01",
+  "OpenAt": [
+   "2026-02-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2601000_02",
+  "OpenAt": [
+   "2026-02-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2601000_03",
+  "OpenAt": [
+   "2026-02-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2602000_01",
+  "OpenAt": [
+   "2026-03-11T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-03-28T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2602000_02",
+  "OpenAt": [
+   "2026-03-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2602000_03",
+  "OpenAt": [
+   "2026-03-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2603000_01",
+  "OpenAt": [
+   "2026-04-09T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-04-26T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2603000_02",
+  "OpenAt": [
+   "2026-04-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2603000_03",
+  "OpenAt": [
+   "2026-04-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2604000_01",
+  "OpenAt": [
+   "2026-04-29T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-16T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2604000_02",
+  "OpenAt": [
+   "2026-05-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-05-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2604000_03",
+  "OpenAt": [
+   "2026-05-17T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-03T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2604000_04",
+  "OpenAt": [
+   "2026-05-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2605000_01",
+  "OpenAt": [
+   "2026-06-13T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-06-30T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2605000_02",
+  "OpenAt": [
+   "2026-06-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-07-06T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2605000_03",
+  "OpenAt": [
+   "2026-06-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2606000_01",
+  "OpenAt": [
+   "2026-07-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2606000_02",
+  "OpenAt": [
+   "2026-07-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-05T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2606000_03",
+  "OpenAt": [
+   "2026-07-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2607000_01",
+  "OpenAt": [
+   "2026-08-12T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-29T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2607000_02",
+  "OpenAt": [
+   "2026-08-16T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-02T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2607000_03",
+  "OpenAt": [
+   "2026-08-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2607000_04",
+  "OpenAt": [
+   "2026-07-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-08-10T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2608000_01",
+  "OpenAt": [
+   "2026-09-10T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-27T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2608000_02",
+  "OpenAt": [
+   "2026-09-19T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-10-06T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2608000_03",
+  "OpenAt": [
+   "2026-09-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2608000_04",
+  "OpenAt": [
+   "2026-08-28T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-09-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2609000_01",
+  "OpenAt": [
+   "2026-10-15T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2609000_02",
+  "OpenAt": [
+   "2026-10-18T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-11-04T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_SH_2609000_03",
+  "OpenAt": [
+   "2026-10-01T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2026-12-01T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_TRADEUPDATE_2510000",
+  "OpenAt": [
+   "2025-10-30T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_TRADE_250700_01",
+  "OpenAt": [
+   "1970-01-01T00:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "2025-07-30T01:00:00+00:00",
+   0
+  ],
+  "IsNoClose": false
+ },
+ {
+  "ScheduleID": "SC_TRADE_250700_02",
+  "OpenAt": [
+   "2025-07-30T01:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ },
+ {
+  "ScheduleID": "SC_ZUKANMISSION_2604000",
+  "OpenAt": [
+   "2026-04-26T06:00:00+00:00",
+   0
+  ],
+  "CloseAt": [
+   "3000-12-31T06:00:00+00:00",
+   0
+  ],
+  "IsNoClose": true
+ }
+]

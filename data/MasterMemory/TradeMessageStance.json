@@ -1,0 +1,20 @@
+[
+ {
+  "ID": "STANCE_ID_ALL_OK",
+  "MessageMSID": "TRADE_STANCE_MESSAGE_ALL_OK",
+  "SortOrderPriority": 3,
+  "IsDefault": false
+ },
+ {
+  "ID": "STANCE_ID_DEFAULT",
+  "MessageMSID": "TRADE_STANCE_MESSAGE_DEFAULT",
+  "SortOrderPriority": 1,
+  "IsDefault": true
+ },
+ {
+  "ID": "STANCE_ID_DESIRED_ONLY",
+  "MessageMSID": "TRADE_STANCE_MESSAGE_DESIRED_ONLY",
+  "SortOrderPriority": 2,
+  "IsDefault": false
+ }
+]

@@ -1,0 +1,12 @@
+{
+  "LOCAL_PUSH_1_BODY": "Você pode abrir um Pacote de Booster!",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "Nós avisaremos quando sua Recarga de Pacote recuperar para 1.",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "Recarga de Pacote recuperada.",
+  "LOCAL_PUSH_1_TITLE": "Sua Recarga de Pacote foi recuperada!",
+  "LOCAL_PUSH_2_BODY": "Quer dar uma olhada nas Escolhas Misteriosas?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "Nós avisaremos quando sua Recarga Misteriosa estiver totalmente recuperada.\n",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "Recarga Misteriosa totalmente recuperada.",
+  "LOCAL_PUSH_2_TITLE": "Sua Recarga Misteriosa se recuperou completamente!",
+  "LocalizeSystemLocalPush": "\u0010",
+  "LocalizeSystemLocalPush_plural": "\u0011"
+}

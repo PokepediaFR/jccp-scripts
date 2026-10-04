@@ -1,0 +1,12 @@
+{
+  "LOCAL_PUSH_1_BODY": "¡Puedes abrir un sobre de mejora!",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "Te avisaremos cuando hayas recuperado suficiente energía de sobre para poder abrir uno.",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "Energía de sobre recuperada.",
+  "LOCAL_PUSH_1_TITLE": "¡Se ha recuperado tu energía de sobre!",
+  "LOCAL_PUSH_2_BODY": "¿Quieres echarles un ojo a las elecciones mágicas?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "Recibirás una notificación cuando hayas recuperado toda tu energía mágica.",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "Energía mágica recuperada por completo.",
+  "LOCAL_PUSH_2_TITLE": "¡Has recuperado toda tu energía mágica!",
+  "LocalizeSystemLocalPush": "\u0010",
+  "LocalizeSystemLocalPush_plural": "\u0011"
+}

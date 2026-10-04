@@ -1,0 +1,1362 @@
+[
+ {
+  "PackTableID": "AN001_0010_00_000_01",
+  "PackID": "AN001_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0010_00_000_02",
+  "PackID": "AN001_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0010_01_000_01",
+  "PackID": "AN001_0010_01_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0020_00_000_01",
+  "PackID": "AN001_0020_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0020_00_000_02",
+  "PackID": "AN001_0020_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0020_01_000_01",
+  "PackID": "AN001_0020_01_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0030_00_000_01",
+  "PackID": "AN001_0030_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0030_00_000_02",
+  "PackID": "AN001_0030_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN001_0030_01_000_01",
+  "PackID": "AN001_0030_01_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN002_0010_00_000_01",
+  "PackID": "AN002_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN002_0010_00_000_02",
+  "PackID": "AN002_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN003_0010_00_000_01",
+  "PackID": "AN003_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN003_0010_00_000_02",
+  "PackID": "AN003_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN003_0020_00_000_01",
+  "PackID": "AN003_0020_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN003_0020_00_000_02",
+  "PackID": "AN003_0020_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN004_0010_00_000_01",
+  "PackID": "AN004_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN004_0010_00_000_02",
+  "PackID": "AN004_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN005_0010_00_000_01",
+  "PackID": "AN005_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN005_0010_00_000_02",
+  "PackID": "AN005_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN006_0010_00_000_01",
+  "PackID": "AN006_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN006_0010_00_000_02",
+  "PackID": "AN006_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN006_0020_00_000_01",
+  "PackID": "AN006_0020_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN006_0020_00_000_02",
+  "PackID": "AN006_0020_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN007_0010_00_000_01",
+  "PackID": "AN007_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN007_0010_00_000_02",
+  "PackID": "AN007_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN008_0010_00_000_01",
+  "PackID": "AN008_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN008_0010_00_000_02",
+  "PackID": "AN008_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0010_00_000_01",
+  "PackID": "AN009_0010_00_000",
+  "ProbabilityWeight": 9162,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0010_00_000_02",
+  "PackID": "AN009_0010_00_000",
+  "ProbabilityWeight": 5,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0010_00_000_03",
+  "PackID": "AN009_0010_00_000",
+  "ProbabilityWeight": 833,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0020_00_000_01",
+  "PackID": "AN009_0020_00_000",
+  "ProbabilityWeight": 9162,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0020_00_000_02",
+  "PackID": "AN009_0020_00_000",
+  "ProbabilityWeight": 5,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN009_0020_00_000_03",
+  "PackID": "AN009_0020_00_000",
+  "ProbabilityWeight": 833,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN010_0010_00_000_01",
+  "PackID": "AN010_0010_00_000",
+  "ProbabilityWeight": 9162,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN010_0010_00_000_02",
+  "PackID": "AN010_0010_00_000",
+  "ProbabilityWeight": 5,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN010_0010_00_000_03",
+  "PackID": "AN010_0010_00_000",
+  "ProbabilityWeight": 833,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN011_0010_00_000_01",
+  "PackID": "AN011_0010_00_000",
+  "ProbabilityWeight": 1999,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AN011_0010_00_000_02",
+  "PackID": "AN011_0010_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0010_00_000_01",
+  "PackID": "AP001_0010_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0020_00_000_01",
+  "PackID": "AP001_0020_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0030_00_000_01",
+  "PackID": "AP001_0030_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0040_00_000_01",
+  "PackID": "AP001_0040_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0050_00_000_01",
+  "PackID": "AP001_0050_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0060_00_000_01",
+  "PackID": "AP001_0060_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0070_00_000_01",
+  "PackID": "AP001_0070_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0080_00_000_01",
+  "PackID": "AP001_0080_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0090_00_000_01",
+  "PackID": "AP001_0090_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0100_00_000_01",
+  "PackID": "AP001_0100_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0110_00_000_01",
+  "PackID": "AP001_0110_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0120_00_000_04",
+  "PackID": "AP001_0120_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "AP001_0130_00_000_01",
+  "PackID": "AP001_0130_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0010_00_000_01",
+  "PackID": "BN001_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0010_00_000_02",
+  "PackID": "BN001_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0010_00_000_03",
+  "PackID": "BN001_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0020_00_000_01",
+  "PackID": "BN001_0020_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0020_00_000_02",
+  "PackID": "BN001_0020_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0020_00_000_03",
+  "PackID": "BN001_0020_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0030_00_000_01",
+  "PackID": "BN001_0030_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0030_00_000_02",
+  "PackID": "BN001_0030_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN001_0030_00_000_03",
+  "PackID": "BN001_0030_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN002_0010_00_000_01",
+  "PackID": "BN002_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN002_0010_00_000_02",
+  "PackID": "BN002_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN002_0010_00_000_03",
+  "PackID": "BN002_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN003_0010_00_000_01",
+  "PackID": "BN003_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN003_0010_00_000_02",
+  "PackID": "BN003_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN003_0010_00_000_03",
+  "PackID": "BN003_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN004_0010_00_000_01",
+  "PackID": "BN004_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN004_0010_00_000_02",
+  "PackID": "BN004_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN004_0010_00_000_03",
+  "PackID": "BN004_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN005_0010_00_000_01",
+  "PackID": "BN005_0010_00_000",
+  "ProbabilityWeight": 947069,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN005_0010_00_000_02",
+  "PackID": "BN005_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN005_0010_00_000_03",
+  "PackID": "BN005_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN005_0010_00_000_04",
+  "PackID": "BN005_0010_00_000",
+  "ProbabilityWeight": 50,
+  "NameMSID": "PACK_TABLE_NAME_THEMERARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN006_0010_00_000_01",
+  "PackID": "BN006_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN006_0010_00_000_02",
+  "PackID": "BN006_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN006_0010_00_000_03",
+  "PackID": "BN006_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN007_0010_00_000_01",
+  "PackID": "BN007_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN007_0010_00_000_02",
+  "PackID": "BN007_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN007_0010_00_000_03",
+  "PackID": "BN007_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN008_0010_00_000_01",
+  "PackID": "BN008_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN008_0010_00_000_02",
+  "PackID": "BN008_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN008_0010_00_000_03",
+  "PackID": "BN008_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN009_0010_00_000_01",
+  "PackID": "BN009_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN009_0010_00_000_02",
+  "PackID": "BN009_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN009_0010_00_000_03",
+  "PackID": "BN009_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN010_0010_00_000_01",
+  "PackID": "BN010_0010_00_000",
+  "ProbabilityWeight": 947119,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN010_0010_00_000_02",
+  "PackID": "BN010_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN010_0010_00_000_03",
+  "PackID": "BN010_0010_00_000",
+  "ProbabilityWeight": 52381,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN011_0010_00_000_01",
+  "PackID": "BN011_0010_00_000",
+  "ProbabilityWeight": 982833,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 1,
+  "ShuffleEndNth": 3,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN011_0010_00_000_02",
+  "PackID": "BN011_0010_00_000",
+  "ProbabilityWeight": 500,
+  "NameMSID": "PACK_TABLE_NAME_RARE",
+  "NoticeType": 1,
+  "ShuffleStartNth": 1,
+  "ShuffleEndNth": 3,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BN011_0010_00_000_03",
+  "PackID": "BN011_0010_00_000",
+  "ProbabilityWeight": 16667,
+  "NameMSID": "PACK_TABLE_NAME_PLUS1",
+  "NoticeType": 1,
+  "ShuffleStartNth": 1,
+  "ShuffleEndNth": 3,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0010_00_000_01",
+  "PackID": "BP001_0010_00_000",
+  "ProbabilityWeight": 2000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0020_00_000_01",
+  "PackID": "BP001_0020_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0030_00_000_01",
+  "PackID": "BP001_0030_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0040_00_000_01",
+  "PackID": "BP001_0040_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0050_00_000_01",
+  "PackID": "BP001_0050_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0060_00_000_01",
+  "PackID": "BP001_0060_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0070_00_000_01",
+  "PackID": "BP001_0070_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0080_00_000_01",
+  "PackID": "BP001_0080_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0090_00_000_01",
+  "PackID": "BP001_0090_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0100_00_000_01",
+  "PackID": "BP001_0100_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0110_00_000_01",
+  "PackID": "BP001_0110_00_000",
+  "ProbabilityWeight": 1,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0120_00_000_01",
+  "PackID": "BP001_0120_00_000",
+  "ProbabilityWeight": 100,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "BP001_0130_00_000_01",
+  "PackID": "BP001_0130_00_000",
+  "ProbabilityWeight": 100,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "EVP001_0010_00_000_01",
+  "PackID": "EVP001_0010_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 1,
+  "ShuffleEndNth": 2,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "EVP001_0020_00_000_01",
+  "PackID": "EVP001_0020_00_000",
+  "ProbabilityWeight": 1000,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 1,
+  "ShuffleEndNth": 2,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "GR_AN001_0010_01",
+  "PackID": "AN001_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN001_0020_01",
+  "PackID": "AN001_0020_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN001_0030_01",
+  "PackID": "AN001_0030_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN002_0010_01",
+  "PackID": "AN002_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN003_0010_01",
+  "PackID": "AN003_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN003_0020_01",
+  "PackID": "AN003_0020_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN004_0010_01",
+  "PackID": "AN004_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN005_0010_01",
+  "PackID": "AN005_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN006_0010_01",
+  "PackID": "AN006_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN006_0020_01",
+  "PackID": "AN006_0020_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN007_0010_01",
+  "PackID": "AN007_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN008_0010_01",
+  "PackID": "AN008_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_AN009_0010_01",
+  "PackID": "AN009_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 3,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_03"
+ },
+ {
+  "PackTableID": "GR_AN009_0020_01",
+  "PackID": "AN009_0020_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 3,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_03"
+ },
+ {
+  "PackTableID": "GR_AN010_0010_01",
+  "PackID": "AN010_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 3,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_03"
+ },
+ {
+  "PackTableID": "GR_BN001_0010_01",
+  "PackID": "BN001_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN001_0020_01",
+  "PackID": "BN001_0020_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN001_0030_01",
+  "PackID": "BN001_0030_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN002_0010_01",
+  "PackID": "BN002_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN003_0010_01",
+  "PackID": "BN003_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN004_0010_01",
+  "PackID": "BN004_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN005_0010_01",
+  "PackID": "BN005_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN006_0010_01",
+  "PackID": "BN006_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN007_0010_01",
+  "PackID": "BN007_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN008_0010_01",
+  "PackID": "BN008_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN009_0010_01",
+  "PackID": "BN009_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "GR_BN010_0010_01",
+  "PackID": "BN010_0010_00_000",
+  "ProbabilityWeight": 0,
+  "NameMSID": "PACK_TABLE_NAME_GUARANTEE",
+  "NoticeType": 2,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": "pack_offer_ratio_caution_02"
+ },
+ {
+  "PackTableID": "TUTORIAL_1",
+  "PackID": "TUTORIAL_1",
+  "ProbabilityWeight": 100,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "TUTORIAL_2",
+  "PackID": "TUTORIAL_2",
+  "ProbabilityWeight": 100,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ },
+ {
+  "PackTableID": "TUTORIAL_3",
+  "PackID": "TUTORIAL_3",
+  "ProbabilityWeight": 100,
+  "NameMSID": "PACK_TABLE_NAME_NORMAL",
+  "NoticeType": 0,
+  "ShuffleStartNth": 0,
+  "ShuffleEndNth": 0,
+  "AnnotationMSID": ""
+ }
+]

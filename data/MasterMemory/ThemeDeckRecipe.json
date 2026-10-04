@@ -1,0 +1,2637 @@
+[
+ {
+  "ThemeDeckRecipeID": "1001004",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100100405",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_1",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001007",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100100705",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_4",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001010",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100101005",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_7",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001014",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100101401",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_11",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001016",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100101601",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_13",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001019",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100101905",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_16",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001022",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100102205",
+  "MainCardSub1": "100102211",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_19",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001023",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   4,
+   7
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100102305",
+  "MainCardSub1": "100102310",
+  "MainCardSub2": "100102316",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_20",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001024",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100102401",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_21",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001025",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100102501",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_22",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001026",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100102601",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_23",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001027",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100102701",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_24",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001035",
+  "ExpansionID": "A1a",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100103501",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_26",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001036",
+  "ExpansionID": "A1a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100103604",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_27",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001037",
+  "ExpansionID": "A1a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100103703",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_28",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001042",
+  "ExpansionID": "A1a",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100104211",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_29",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001043",
+  "ExpansionID": "A1a",
+  "EnergyType": [
+   2,
+   7
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100104318",
+  "MainCardSub1": "100104311",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_30",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1001044",
+  "ExpansionID": "A1",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100104403",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_25",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002001",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100200108",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_31",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002002",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100200211",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_32",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002003",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100200313",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_33",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002004",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   4,
+   7
+  ],
+  "DeckCaseType": 10,
+  "MainCard": "100200418",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_34",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002005",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100200518",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_35",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002006",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100200609",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_36",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002007",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100200703",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_37",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002008",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100200803",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_38",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002009",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100200910",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_39",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002010",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100201014",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_40",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002011",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100201103",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_41",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002012",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100201209",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_42",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002013",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100201316",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_43",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002014",
+  "ExpansionID": "A2",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100201407",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_44",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002015",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100201513",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_45",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002016",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   2,
+   4
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100201618",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_46",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002017",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100201714",
+  "MainCardSub1": "100201705",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_47",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002018",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100201808",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_48",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002019",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   4,
+   9
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100201912",
+  "MainCardSub1": "100201907",
+  "MainCardSub2": "100201902",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_49",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002020",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100202014",
+  "MainCardSub1": "100202003",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_50",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002021",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100202114",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_51",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002022",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100202214",
+  "MainCardSub1": "100202206",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_52",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002023",
+  "ExpansionID": "A2a",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100202308",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_53",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002024",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100202405",
+  "MainCardSub1": "100202411",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_117",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002025",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100202505",
+  "MainCardSub1": "100202508",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_118",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002026",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100202609",
+  "MainCardSub1": "100202610",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_119",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002027",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100202701",
+  "MainCardSub1": "100202711",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_120",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002028",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100202811",
+  "MainCardSub1": "100202805",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_121",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002029",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100202910",
+  "MainCardSub1": "100202905",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_122",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002030",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100203006",
+  "MainCardSub1": "100203011",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_123",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002031",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100203107",
+  "MainCardSub1": "100203111",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_124",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002032",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100203209",
+  "MainCardSub1": "100203206",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_125",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_2"
+ },
+ {
+  "ThemeDeckRecipeID": "1002033",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100203305",
+  "MainCardSub1": "100203311",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_54",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002034",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100203405",
+  "MainCardSub1": "100203408",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_55",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002035",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100203509",
+  "MainCardSub1": "100203510",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_56",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002036",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100203601",
+  "MainCardSub1": "100203611",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_57",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002037",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100203711",
+  "MainCardSub1": "100203705",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_58",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002038",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100203810",
+  "MainCardSub1": "100203805",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_59",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002039",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100203906",
+  "MainCardSub1": "100203911",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_60",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002040",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100204007",
+  "MainCardSub1": "100204011",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_61",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1002041",
+  "ExpansionID": "A2b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100204109",
+  "MainCardSub1": "100204106",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_62",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003001",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100300109",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_63",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003002",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100300218",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_64",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003003",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100300308",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_65",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003004",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100300418",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_66",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003005",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100300510",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_67",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003006",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100300618",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_68",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003007",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100300703",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_69",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003008",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100300820",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_70",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003009",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100300913",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_71",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003010",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100301018",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_72",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003011",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100301113",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_73",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003012",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100301209",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_74",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003013",
+  "ExpansionID": "A3",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100301311",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_75",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003014",
+  "ExpansionID": "A3a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100301405",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_76",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003015",
+  "ExpansionID": "A3a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100301510",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_77",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003016",
+  "ExpansionID": "A3a",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100301609",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_78",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003017",
+  "ExpansionID": "A3a",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100301710",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_79",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003018",
+  "ExpansionID": "A3a",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100301803",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_80",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003019",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100301902",
+  "MainCardSub1": "100301914",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_81",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003020",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100302008",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_82",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003021",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100302106",
+  "MainCardSub1": "100302111",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_83",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003022",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   2,
+   4
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100302214",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_84",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003023",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   4,
+   5
+  ],
+  "DeckCaseType": 10,
+  "MainCard": "100302307",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_85",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1003024",
+  "ExpansionID": "A3b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100302408",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_86",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004001",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100400113",
+  "MainCardSub1": "100400105",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_87",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004002",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100400203",
+  "MainCardSub1": "100400201",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_88",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004003",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100400305",
+  "MainCardSub1": "100400313",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_89",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004004",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100400403",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_96",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004005",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100400503",
+  "MainCardSub1": "100400509",
+  "MainCardSub2": "100400508",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_90",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004006",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100400606",
+  "MainCardSub1": "100400605",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_91",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004007",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100400712",
+  "MainCardSub1": "100400709",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_92",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004008",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100400801",
+  "MainCardSub1": "100400808",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_93",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004009",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100400907",
+  "MainCardSub1": "100400906",
+  "MainCardSub2": "100400905",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_94",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004010",
+  "ExpansionID": "A4",
+  "EnergyType": [
+   3,
+   4,
+   5
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100401014",
+  "MainCardSub1": "100401008",
+  "MainCardSub2": "100401003",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_95",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004011",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100401105",
+  "MainCardSub1": "100401108",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_97",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004012",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100401205",
+  "MainCardSub1": "100401208",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_98",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004013",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100401307",
+  "MainCardSub1": "100401310",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_99",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004014",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100401401",
+  "MainCardSub1": "100401406",
+  "MainCardSub2": "100401411",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_100",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004015",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100401509",
+  "MainCardSub1": "100401508",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_101",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004016",
+  "ExpansionID": "A4a",
+  "EnergyType": [
+   4,
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100401606",
+  "MainCardSub1": "100401609",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_102",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004017",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100401702",
+  "MainCardSub1": "100401701",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_103",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004018",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100401805",
+  "MainCardSub1": "100401808",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_104",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004019",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100401902",
+  "MainCardSub1": "100401901",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_105",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004020",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100402004",
+  "MainCardSub1": "100402003",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_106",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004021",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100402102",
+  "MainCardSub1": "100402103",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_107",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004022",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100402213",
+  "MainCardSub1": "100402204",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_108",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004023",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100402310",
+  "MainCardSub1": "100402307",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_109",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004024",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100402410",
+  "MainCardSub1": "100402405",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_110",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004025",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100402513",
+  "MainCardSub1": "100402509",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_111",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004026",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100402612",
+  "MainCardSub1": "100402607",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_112",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004027",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   6,
+   8
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100402708",
+  "MainCardSub1": "100402701",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_113",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004028",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   3,
+   4,
+   5
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100402803",
+  "MainCardSub1": "100402801",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_114",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004029",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   2,
+   3,
+   4
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100402908",
+  "MainCardSub1": "100402904",
+  "MainCardSub2": "100402912",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_115",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1004030",
+  "ExpansionID": "A4b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100403004",
+  "MainCardSub1": "100403003",
+  "MainCardSub2": "100403008",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_116",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005001",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100500101",
+  "MainCardSub1": "100500106",
+  "MainCardSub2": "100500113",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_126",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005002",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100500205",
+  "MainCardSub1": "100500209",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_127",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005003",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100500303",
+  "MainCardSub1": "100500306",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_128",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005004",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100500417",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_129",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005005",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100500505",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_130",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005006",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100500601",
+  "MainCardSub1": "100500602",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_131",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005007",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100500719",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_132",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005008",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100500805",
+  "MainCardSub1": "100500809",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_133",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005009",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100500919",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_134",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005010",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100501003",
+  "MainCardSub1": "100501008",
+  "MainCardSub2": "100501009",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_135",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005011",
+  "ExpansionID": "B1",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100501114",
+  "MainCardSub1": "100501111",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_136",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005012",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100501205",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_137",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005013",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100501305",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_138",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005014",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100501405",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_139",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005015",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100501517",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_140",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005016",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100501604",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_141",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1005017",
+  "ExpansionID": "B1a",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100501705",
+  "MainCardSub1": "100501708",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_142",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006001",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100600112",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_143",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006002",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100600206",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_144",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006003",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100600306",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_145",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006004",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100600403",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_146",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006005",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100600510",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_147",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006006",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100600610",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_148",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006007",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100600708",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_149",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006008",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100600819",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_150",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006009",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100600906",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_151",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006010",
+  "ExpansionID": "B2",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100601009",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_152",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006011",
+  "ExpansionID": "B2a",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100601105",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_153",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006012",
+  "ExpansionID": "B2a",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100601208",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_154",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006013",
+  "ExpansionID": "B2a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100601314",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_155",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006014",
+  "ExpansionID": "B2a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100601408",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_156",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006015",
+  "ExpansionID": "B2a",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100601509",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_157",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006016",
+  "ExpansionID": "B2b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100601605",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_158",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006017",
+  "ExpansionID": "B2b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100601703",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_159",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006018",
+  "ExpansionID": "B2b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100601809",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_160",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006019",
+  "ExpansionID": "B2b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100601905",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_161",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006020",
+  "ExpansionID": "B2b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100602006",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_162",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1006021",
+  "ExpansionID": "",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100602108",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_187",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007001",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100700110",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_163",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007002",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100700203",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_164",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007003",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100700302",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_165",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007004",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100700405",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_166",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007005",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100700503",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_167",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007006",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100700608",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_168",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007007",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100700708",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_169",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007008",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100700808",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_170",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007009",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   2,
+   7
+  ],
+  "DeckCaseType": 10,
+  "MainCard": "100700908",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_171",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007010",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100701008",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_172",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007011",
+  "ExpansionID": "B3",
+  "EnergyType": [
+   3,
+   4
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100701115",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_173",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007012",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100701210",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_174",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007013",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100701308",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_175",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007014",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100701410",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_176",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007015",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100701508",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_177",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007016",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   2,
+   4,
+   5
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100701614",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_178",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007017",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   3,
+   4,
+   5
+  ],
+  "DeckCaseType": 10,
+  "MainCard": "100701707",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_179",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007018",
+  "ExpansionID": "B3a",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100701801",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_180",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007019",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100701907",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_181",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007020",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100702006",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_182",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007021",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100702111",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_183",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007022",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100702203",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_184",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007023",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100702313",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_185",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007024",
+  "ExpansionID": "B3b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100702415",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_186",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1007025",
+  "ExpansionID": "",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100702501",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_212",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008001",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100800107",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_188",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008002",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100800210",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_189",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008003",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100800306",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_190",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008004",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100800406",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_191",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008005",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100800503",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_192",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008006",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100800609",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_193",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008007",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100800714",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_194",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008008",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100800810",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_195",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008009",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   3,
+   5
+  ],
+  "DeckCaseType": 10,
+  "MainCard": "100800907",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_196",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008010",
+  "ExpansionID": "B4",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100801014",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_197",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008011",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100801101",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_198",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008012",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100801203",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_199",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008013",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100801305",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_200",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008014",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100801403",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_201",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008015",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100801511",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_202",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008016",
+  "ExpansionID": "B4a",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 1,
+  "MainCard": "100801609",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_203",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008017",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   2
+  ],
+  "DeckCaseType": 2,
+  "MainCard": "100801706",
+  "MainCardSub1": "100801712",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_204",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008018",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   3
+  ],
+  "DeckCaseType": 3,
+  "MainCard": "100801810",
+  "MainCardSub1": "100801805",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_205",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008019",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   4
+  ],
+  "DeckCaseType": 4,
+  "MainCard": "100801905",
+  "MainCardSub1": "100801908",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_206",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008020",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   5
+  ],
+  "DeckCaseType": 5,
+  "MainCard": "100802006",
+  "MainCardSub1": "100802013",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_207",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008021",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   6
+  ],
+  "DeckCaseType": 6,
+  "MainCard": "100802105",
+  "MainCardSub1": "100802110",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_208",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008022",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100802204",
+  "MainCardSub1": "100802207",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_209",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008023",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   8
+  ],
+  "DeckCaseType": 8,
+  "MainCard": "100802306",
+  "MainCardSub1": "100802309",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_210",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008024",
+  "ExpansionID": "B4b",
+  "EnergyType": [
+   9
+  ],
+  "DeckCaseType": 9,
+  "MainCard": "100802406",
+  "MainCardSub1": "100802412",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_211",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ },
+ {
+  "ThemeDeckRecipeID": "1008025",
+  "ExpansionID": "",
+  "EnergyType": [
+   7
+  ],
+  "DeckCaseType": 7,
+  "MainCard": "100802501",
+  "MainCardSub1": "",
+  "MainCardSub2": "",
+  "ThemeDeckRecipeNameMSID": "BATTLE_THEME_DECK_213",
+  "ThemeDeckDescriptionMSID": "BATTLE_THEME_DECK_DESCRIPTION_1"
+ }
+]

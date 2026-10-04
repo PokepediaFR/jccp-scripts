@@ -1,0 +1,1890 @@
+[
+ {
+  "ID": "PL_RW_002_1",
+  "Level": 2,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_002_2",
+  "Level": 2,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_002_3",
+  "Level": 2,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_002_4",
+  "Level": 2,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_003_1",
+  "Level": 3,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_003_2",
+  "Level": 3,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_003_3",
+  "Level": 3,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_003_4",
+  "Level": 3,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_004_1",
+  "Level": 4,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_004_2",
+  "Level": 4,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_004_3",
+  "Level": 4,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_004_4",
+  "Level": 4,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_005_1",
+  "Level": 5,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_005_2",
+  "Level": 5,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_005_3",
+  "Level": 5,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_005_4",
+  "Level": 5,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_006_1",
+  "Level": 6,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_006_2",
+  "Level": 6,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_006_3",
+  "Level": 6,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_006_4",
+  "Level": 6,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_007_1",
+  "Level": 7,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_007_2",
+  "Level": 7,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_007_3",
+  "Level": 7,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_007_4",
+  "Level": 7,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_008_1",
+  "Level": 8,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_008_2",
+  "Level": 8,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_008_3",
+  "Level": 8,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_008_4",
+  "Level": 8,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_009_1",
+  "Level": 9,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_009_2",
+  "Level": 9,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_009_3",
+  "Level": 9,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_009_4",
+  "Level": 9,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_010_1",
+  "Level": 10,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_010_2",
+  "Level": 10,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_010_3",
+  "Level": 10,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_010_4",
+  "Level": 10,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_011_1",
+  "Level": 11,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_011_2",
+  "Level": 11,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_011_3",
+  "Level": 11,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_011_4",
+  "Level": 11,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_012_1",
+  "Level": 12,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_012_2",
+  "Level": 12,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_012_3",
+  "Level": 12,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_012_4",
+  "Level": 12,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_013_1",
+  "Level": 13,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_013_2",
+  "Level": 13,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_013_3",
+  "Level": 13,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_013_4",
+  "Level": 13,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_014_1",
+  "Level": 14,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_014_2",
+  "Level": 14,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_014_3",
+  "Level": 14,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_014_4",
+  "Level": 14,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_015_1",
+  "Level": 15,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_015_2",
+  "Level": 15,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_015_3",
+  "Level": 15,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_015_4",
+  "Level": 15,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_016_1",
+  "Level": 16,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_016_2",
+  "Level": 16,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_016_3",
+  "Level": 16,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_016_4",
+  "Level": 16,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_017_1",
+  "Level": 17,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_017_2",
+  "Level": 17,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_017_3",
+  "Level": 17,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_017_4",
+  "Level": 17,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_018_1",
+  "Level": 18,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_018_2",
+  "Level": 18,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_018_3",
+  "Level": 18,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_018_4",
+  "Level": 18,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_019_1",
+  "Level": 19,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_019_2",
+  "Level": 19,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_019_3",
+  "Level": 19,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_019_4",
+  "Level": 19,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_020_1",
+  "Level": 20,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_020_2",
+  "Level": 20,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_020_3",
+  "Level": 20,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_020_4",
+  "Level": 20,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_021_1",
+  "Level": 21,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_021_2",
+  "Level": 21,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_021_3",
+  "Level": 21,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_021_4",
+  "Level": 21,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_022_1",
+  "Level": 22,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_022_2",
+  "Level": 22,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_022_3",
+  "Level": 22,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_022_4",
+  "Level": 22,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_023_1",
+  "Level": 23,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_023_2",
+  "Level": 23,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_023_3",
+  "Level": 23,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_023_4",
+  "Level": 23,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_024_1",
+  "Level": 24,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_024_2",
+  "Level": 24,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_024_3",
+  "Level": 24,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_024_4",
+  "Level": 24,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_025_1",
+  "Level": 25,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_025_2",
+  "Level": 25,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_025_3",
+  "Level": 25,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_025_4",
+  "Level": 25,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_026_1",
+  "Level": 26,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_026_2",
+  "Level": 26,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_026_3",
+  "Level": 26,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_026_4",
+  "Level": 26,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_027_1",
+  "Level": 27,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_027_2",
+  "Level": 27,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_027_3",
+  "Level": 27,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_027_4",
+  "Level": 27,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_028_1",
+  "Level": 28,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_028_2",
+  "Level": 28,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_028_3",
+  "Level": 28,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_028_4",
+  "Level": 28,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_029_1",
+  "Level": 29,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_029_2",
+  "Level": 29,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_029_3",
+  "Level": 29,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_029_4",
+  "Level": 29,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_030_1",
+  "Level": 30,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_030_2",
+  "Level": 30,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_030_3",
+  "Level": 30,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_030_4",
+  "Level": 30,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_031_1",
+  "Level": 31,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_031_2",
+  "Level": 31,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_031_3",
+  "Level": 31,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_031_4",
+  "Level": 31,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_032_1",
+  "Level": 32,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_032_2",
+  "Level": 32,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_032_3",
+  "Level": 32,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_032_4",
+  "Level": 32,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_033_1",
+  "Level": 33,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_033_2",
+  "Level": 33,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_033_3",
+  "Level": 33,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_033_4",
+  "Level": 33,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_034_1",
+  "Level": 34,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_034_2",
+  "Level": 34,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_034_3",
+  "Level": 34,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_034_4",
+  "Level": 34,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_035_1",
+  "Level": 35,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_035_2",
+  "Level": 35,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_035_3",
+  "Level": 35,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_035_4",
+  "Level": 35,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_036_1",
+  "Level": 36,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_036_2",
+  "Level": 36,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_036_3",
+  "Level": 36,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_036_4",
+  "Level": 36,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_037_1",
+  "Level": 37,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_037_2",
+  "Level": 37,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_037_3",
+  "Level": 37,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_037_4",
+  "Level": 37,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_038_1",
+  "Level": 38,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_038_2",
+  "Level": 38,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_038_3",
+  "Level": 38,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_038_4",
+  "Level": 38,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_039_1",
+  "Level": 39,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_039_2",
+  "Level": 39,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_039_3",
+  "Level": 39,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_039_4",
+  "Level": 39,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_040_1",
+  "Level": 40,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_040_2",
+  "Level": 40,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_040_3",
+  "Level": 40,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_040_4",
+  "Level": 40,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_041_1",
+  "Level": 41,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_041_2",
+  "Level": 41,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_041_3",
+  "Level": 41,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_041_4",
+  "Level": 41,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_042_1",
+  "Level": 42,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_042_2",
+  "Level": 42,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_042_3",
+  "Level": 42,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_042_4",
+  "Level": 42,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_043_1",
+  "Level": 43,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_043_2",
+  "Level": 43,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_043_3",
+  "Level": 43,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_043_4",
+  "Level": 43,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_044_1",
+  "Level": 44,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_044_2",
+  "Level": 44,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_044_3",
+  "Level": 44,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_044_4",
+  "Level": 44,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_045_1",
+  "Level": 45,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_045_2",
+  "Level": 45,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_045_3",
+  "Level": 45,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_045_4",
+  "Level": 45,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_046_1",
+  "Level": 46,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_046_2",
+  "Level": 46,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_046_3",
+  "Level": 46,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_046_4",
+  "Level": 46,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_047_1",
+  "Level": 47,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_047_2",
+  "Level": 47,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_047_3",
+  "Level": 47,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_047_4",
+  "Level": 47,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_048_1",
+  "Level": 48,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_048_2",
+  "Level": 48,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_048_3",
+  "Level": 48,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_048_4",
+  "Level": 48,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_049_1",
+  "Level": 49,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_049_2",
+  "Level": 49,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_049_3",
+  "Level": 49,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_049_4",
+  "Level": 49,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_050_1",
+  "Level": 50,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_050_2",
+  "Level": 50,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_050_3",
+  "Level": 50,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_050_4",
+  "Level": 50,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_051_1",
+  "Level": 51,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_051_2",
+  "Level": 51,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_051_3",
+  "Level": 51,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_051_4",
+  "Level": 51,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_052_1",
+  "Level": 52,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_052_2",
+  "Level": 52,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_052_3",
+  "Level": 52,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_052_4",
+  "Level": 52,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_053_1",
+  "Level": 53,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_053_2",
+  "Level": 53,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_053_3",
+  "Level": 53,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_053_4",
+  "Level": 53,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_054_1",
+  "Level": 54,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_054_2",
+  "Level": 54,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_054_3",
+  "Level": 54,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_054_4",
+  "Level": 54,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_055_1",
+  "Level": 55,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_055_2",
+  "Level": 55,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_055_3",
+  "Level": 55,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_055_4",
+  "Level": 55,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_056_1",
+  "Level": 56,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_056_2",
+  "Level": 56,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_056_3",
+  "Level": 56,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_056_4",
+  "Level": 56,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_057_1",
+  "Level": 57,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_057_2",
+  "Level": 57,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_057_3",
+  "Level": 57,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_057_4",
+  "Level": 57,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_058_1",
+  "Level": 58,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_058_2",
+  "Level": 58,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_058_3",
+  "Level": 58,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_058_4",
+  "Level": 58,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_059_1",
+  "Level": 59,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_059_2",
+  "Level": 59,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_059_3",
+  "Level": 59,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_059_4",
+  "Level": 59,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_060_1",
+  "Level": 60,
+  "ItemType": 7,
+  "ItemID": "POKEGOLD_FREE",
+  "ExpansionID": "",
+  "Amount": 2
+ },
+ {
+  "ID": "PL_RW_060_2",
+  "Level": 60,
+  "ItemType": 14,
+  "ItemID": "REVIVAL_CLOCK_100010",
+  "ExpansionID": "",
+  "Amount": 1
+ },
+ {
+  "ID": "PL_RW_060_3",
+  "Level": 60,
+  "ItemType": 4,
+  "ItemID": "PACK_CHARGER_100030",
+  "ExpansionID": "",
+  "Amount": 12
+ },
+ {
+  "ID": "PL_RW_060_4",
+  "Level": 60,
+  "ItemType": 5,
+  "ItemID": "CHALLENGE_CHARGER_110030",
+  "ExpansionID": "",
+  "Amount": 12
+ }
+]

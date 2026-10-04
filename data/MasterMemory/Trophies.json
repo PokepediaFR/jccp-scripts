@@ -1,0 +1,527 @@
+[
+ {
+  "ID": "TROPHY_100010_PACK_A1",
+  "TrophyTextMSID": "TROPHY_100010_PACK_A1_MSID",
+  "Type": 9,
+  "TargetIDs": [],
+  "SortOrder": 180,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 1
+ },
+ {
+  "ID": "TROPHY_100020_FEED_A1",
+  "TrophyTextMSID": "TROPHY_100020_FEED_A1_MSID",
+  "Type": 11,
+  "TargetIDs": [],
+  "SortOrder": 170,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 1
+ },
+ {
+  "ID": "TROPHY_100030_ALBUM_A1",
+  "TrophyTextMSID": "TROPHY_100190_ALBUM_A1_MSID",
+  "Type": 36,
+  "TargetIDs": [],
+  "SortOrder": 160,
+  "BronzeAmount": 500,
+  "SilverAmount": 1000,
+  "GoldAmount": 2000,
+  "RainbowAmount": 5000,
+  "BronzeRewards": [],
+  "SilverRewards": [],
+  "GoldRewards": [],
+  "RainbowRewards": [],
+  "Category": 1
+ },
+ {
+  "ID": "TROPHY_100040_DECK_A1",
+  "TrophyTextMSID": "TROPHY_100040_DECK_A1_MSID",
+  "Type": 12,
+  "TargetIDs": [],
+  "SortOrder": 150,
+  "BronzeAmount": 500,
+  "SilverAmount": 1000,
+  "GoldAmount": 5000,
+  "RainbowAmount": 10000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100050_Grass_A1",
+  "TrophyTextMSID": "TROPHY_100050_Grass_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "2"
+  ],
+  "SortOrder": 140,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100060_Fire_A1",
+  "TrophyTextMSID": "TROPHY_100060_Fire_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "3"
+  ],
+  "SortOrder": 130,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100070_Water_A1",
+  "TrophyTextMSID": "TROPHY_100070_Water_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "4"
+  ],
+  "SortOrder": 120,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100080_Lightning_A1",
+  "TrophyTextMSID": "TROPHY_100080_Lightning_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "5"
+  ],
+  "SortOrder": 110,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100090_Psychic_A1",
+  "TrophyTextMSID": "TROPHY_100090_Psychic_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "6"
+  ],
+  "SortOrder": 100,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100100_Fighting_A1",
+  "TrophyTextMSID": "TROPHY_100100_Fighting_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "7"
+  ],
+  "SortOrder": 90,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100110_Darkness_A1",
+  "TrophyTextMSID": "TROPHY_100110_Darkness_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "8"
+  ],
+  "SortOrder": 80,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100120_Metal_A1",
+  "TrophyTextMSID": "TROPHY_100120_Metal_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "9"
+  ],
+  "SortOrder": 70,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100130_Dragon_A1",
+  "TrophyTextMSID": "TROPHY_100130_Dragon_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "10"
+  ],
+  "SortOrder": 60,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100140_Colorless_A1",
+  "TrophyTextMSID": "TROPHY_100140_Colorless_A1_MSID",
+  "Type": 14,
+  "TargetIDs": [
+   "1"
+  ],
+  "SortOrder": 50,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100150_SUPPORT_A1",
+  "TrophyTextMSID": "TROPHY_100150_SUPPORT_A1_MSID",
+  "Type": 29,
+  "TargetIDs": [
+   "1"
+  ],
+  "SortOrder": 40,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100160_MONSTERBALL_A1",
+  "TrophyTextMSID": "TROPHY_100160_MONSTERBALL_A1_MSID",
+  "Type": 29,
+  "TargetIDs": [
+   "2",
+   "4"
+  ],
+  "SortOrder": 30,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100170_CUP_A1",
+  "TrophyTextMSID": "TROPHY_100170_CUP_A1_MSID",
+  "Type": 4,
+  "TargetIDs": [],
+  "SortOrder": 20,
+  "BronzeAmount": 100,
+  "SilverAmount": 500,
+  "GoldAmount": 1000,
+  "RainbowAmount": 10000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 3
+ },
+ {
+  "ID": "TROPHY_100180_RIBBONCUP_A1",
+  "TrophyTextMSID": "TROPHY_100180_RIBBONCUP_A1_MSID",
+  "Type": 8,
+  "TargetIDs": [],
+  "SortOrder": 10,
+  "BronzeAmount": 50,
+  "SilverAmount": 100,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 3
+ },
+ {
+  "ID": "TROPHY_100210_STADIUM_B2",
+  "TrophyTextMSID": "TROPHY_100210_STADIUM_B2_MSID",
+  "Type": 29,
+  "TargetIDs": [
+   "5"
+  ],
+  "SortOrder": 23,
+  "BronzeAmount": 50,
+  "SilverAmount": 100,
+  "GoldAmount": 250,
+  "RainbowAmount": 500,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100220_GOTSU_A2",
+  "TrophyTextMSID": "TROPHY_100220_GOTSU_A2_MSID",
+  "Type": 29,
+  "TargetIDs": [
+   "3"
+  ],
+  "SortOrder": 25,
+  "BronzeAmount": 50,
+  "SilverAmount": 100,
+  "GoldAmount": 250,
+  "RainbowAmount": 500,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 2
+ },
+ {
+  "ID": "TROPHY_100250_GIVECARD_B1",
+  "TrophyTextMSID": "TROPHY_100250_GIVECARD_B1_MSID",
+  "Type": 49,
+  "TargetIDs": [],
+  "SortOrder": 165,
+  "BronzeAmount": 100,
+  "SilverAmount": 250,
+  "GoldAmount": 500,
+  "RainbowAmount": 1000,
+  "BronzeRewards": [
+   "TROPHY_RW_CURRENCY_001"
+  ],
+  "SilverRewards": [
+   "TROPHY_RW_CURRENCY_002"
+  ],
+  "GoldRewards": [
+   "TROPHY_RW_CURRENCY_003"
+  ],
+  "RainbowRewards": [
+   "TROPHY_RW_CURRENCY_004"
+  ],
+  "Category": 1
+ }
+]

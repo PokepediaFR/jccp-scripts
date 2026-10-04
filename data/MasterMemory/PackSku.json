@@ -1,0 +1,474 @@
+[
+ {
+  "PackSkuID": "A1_1",
+  "ExpansionID": "A1",
+  "BasePackID": "AN001_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A1_100010_MEWTWO",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A1_2",
+  "ExpansionID": "A1",
+  "BasePackID": "AN001_0020_00_000",
+  "AssetID": "EXPANSION_PACK_A1_100020_LIZARDON",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A1_3",
+  "ExpansionID": "A1",
+  "BasePackID": "AN001_0030_00_000",
+  "AssetID": "EXPANSION_PACK_A1_100030_PIKACHU",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A1a_1",
+  "ExpansionID": "A1a",
+  "BasePackID": "AN002_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A1_100040_theme",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A2_1",
+  "ExpansionID": "A2",
+  "BasePackID": "AN003_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A2_100050_DIALGA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A2_2",
+  "ExpansionID": "A2",
+  "BasePackID": "AN003_0020_00_000",
+  "AssetID": "EXPANSION_PACK_A2_100060_PALKIA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A2a_1",
+  "ExpansionID": "A2a",
+  "BasePackID": "AN004_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A2a_100070_TRIUMPHAN",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A2b_1",
+  "ExpansionID": "A2b",
+  "BasePackID": "AN005_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A2b_100080_SHINING",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A3_1",
+  "ExpansionID": "A3",
+  "BasePackID": "AN006_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A3_100090_SOLGALEO",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A3_2",
+  "ExpansionID": "A3",
+  "BasePackID": "AN006_0020_00_000",
+  "AssetID": "EXPANSION_PACK_A3_100100_LUNALA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A3a_1",
+  "ExpansionID": "A3a",
+  "BasePackID": "AN007_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A3a_100110_CRISIS",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A3b_1",
+  "ExpansionID": "A3b",
+  "BasePackID": "AN008_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A3b_100120_EIEVUI",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A4_1",
+  "ExpansionID": "A4",
+  "BasePackID": "AN009_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A4_100130_HOUOU",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A4_2",
+  "ExpansionID": "A4",
+  "BasePackID": "AN009_0020_00_000",
+  "AssetID": "EXPANSION_PACK_A4_100140_LUGIA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A4a_1",
+  "ExpansionID": "A4a",
+  "BasePackID": "AN010_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A4a_100150_SUICUNE",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "A4b_1",
+  "ExpansionID": "A4b",
+  "BasePackID": "AN011_0010_00_000",
+  "AssetID": "EXPANSION_PACK_A4b_100160_PIKACHU",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B1_1",
+  "ExpansionID": "B1",
+  "BasePackID": "BN001_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B1_100170_MEGABURSYAMO",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B1_2",
+  "ExpansionID": "B1",
+  "BasePackID": "BN001_0020_00_000",
+  "AssetID": "EXPANSION_PACK_B1_100180_MEGAGYARADOS",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B1_3",
+  "ExpansionID": "B1",
+  "BasePackID": "BN001_0030_00_000",
+  "AssetID": "EXPANSION_PACK_B1_100190_MEGATYLTALIS",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B1a_1",
+  "ExpansionID": "B1a",
+  "BasePackID": "BN002_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B1a_100200_BLAZE",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B2_1",
+  "ExpansionID": "B2",
+  "BasePackID": "BN003_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B2_100210_PARADE",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B2a_1",
+  "ExpansionID": "B2a",
+  "BasePackID": "BN004_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B2a_100220_PALDEA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B2b_1",
+  "ExpansionID": "B2b",
+  "BasePackID": "BN005_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B2b_100230_SHININGMEGA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B3_1",
+  "ExpansionID": "B3",
+  "BasePackID": "BN006_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B3_100240_WAVEBEAT",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B3a_1",
+  "ExpansionID": "B3a",
+  "BasePackID": "BN007_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B3a_100250_ADVANCEPARADOX",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B3b_1",
+  "ExpansionID": "B3b",
+  "BasePackID": "BN008_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B3b_100260_MIRACLEDAYS",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B4_1",
+  "ExpansionID": "B4",
+  "BasePackID": "BN009_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B4_100270_RULER",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "B4a_1",
+  "ExpansionID": "B4a",
+  "BasePackID": "BN010_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B4a_100280_AMBITION",
+  "BackgroundAuraCategory": 1,
+  "PackOpenSoundCategory": 1
+ },
+ {
+  "PackSkuID": "B4b_1",
+  "ExpansionID": "B4b",
+  "BasePackID": "BN011_0010_00_000",
+  "AssetID": "EXPANSION_PACK_B4b_100290_HIGHCLASSMEGA",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "EVP_1",
+  "ExpansionID": "",
+  "BasePackID": "EVP001_0010_00_000",
+  "AssetID": "",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_1",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0010_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_10",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0100_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_11",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0110_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_12",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0120_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_13",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0130_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_2",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0020_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_3",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0030_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_4",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0040_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_5",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0050_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_6",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0060_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_7",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0070_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_8",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0080_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-A_9",
+  "ExpansionID": "PROMO-A",
+  "BasePackID": "AP001_0090_00_000",
+  "AssetID": "LOGO_expansion_PROMO-A",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_1",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0010_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_10",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0100_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_11",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0110_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_12",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0120_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_13",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0130_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_2",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0020_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_3",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0030_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_4",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0040_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_5",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0050_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_6",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0060_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_7",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0070_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_8",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0080_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "PROMO-B_9",
+  "ExpansionID": "PROMO-B",
+  "BasePackID": "BP001_0090_00_000",
+  "AssetID": "LOGO_expansion_PROMO-B",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "TUTORIAL_1",
+  "ExpansionID": "A1",
+  "BasePackID": "TUTORIAL_1",
+  "AssetID": "EXPANSION_PACK_A1_100010_MEWTWO",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "TUTORIAL_2",
+  "ExpansionID": "A1",
+  "BasePackID": "TUTORIAL_2",
+  "AssetID": "EXPANSION_PACK_A1_100020_LIZARDON",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ },
+ {
+  "PackSkuID": "TUTORIAL_3",
+  "ExpansionID": "A1",
+  "BasePackID": "TUTORIAL_3",
+  "AssetID": "EXPANSION_PACK_A1_100030_PIKACHU",
+  "BackgroundAuraCategory": 0,
+  "PackOpenSoundCategory": 0
+ }
+]

@@ -1,0 +1,9 @@
+[
+ {
+  "ID": "PRESENT_BOX_SETTING_ID",
+  "MaxReceiveLimit": 100,
+  "MaxReceivePackLimit": 20,
+  "MaxPackOpenBatchSize": 10,
+  "MaxThankYouSendCount": 3
+ }
+]

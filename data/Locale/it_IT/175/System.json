@@ -1,0 +1,12 @@
+{
+  "LOCAL_PUSH_1_BODY": "Puoi aprire una busta di espansione!",
+  "LOCAL_PUSH_1_CHANNEL_DESC": "Riceverai una notifica quando l'energia buste si sarà ricaricata abbastanza da permetterti di aprire una busta.",
+  "LOCAL_PUSH_1_CHANNEL_NAME": "Energia buste ricaricata",
+  "LOCAL_PUSH_1_TITLE": "L'energia buste si è ricaricata.",
+  "LOCAL_PUSH_2_BODY": "Vuoi dare un'occhiata alla pesca misteriosa?",
+  "LOCAL_PUSH_2_CHANNEL_DESC": "Riceverai una notifica quando l'energia misteriosa si sarà completamente ricaricata.",
+  "LOCAL_PUSH_2_CHANNEL_NAME": "Energia misteriosa completamente ricaricata",
+  "LOCAL_PUSH_2_TITLE": "L'energia misteriosa si è ricaricata completamente!",
+  "LocalizeSystemLocalPush": "\u0010",
+  "LocalizeSystemLocalPush_plural": "\u0011"
+}

@@ -1,0 +1,86 @@
+[
+ {
+  "ID": "LINK_BATTLE",
+  "URLMSID": "LINK_PATH_BATTLE",
+  "TextMSID": "LINK_TEXT_BATTLE",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_CHALLENGE",
+  "URLMSID": "LINK_PATH_CHALLENGE",
+  "TextMSID": "LINK_TEXT_CHALLENGE",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_EVENT_BATTLE",
+  "URLMSID": "LINK_PATH_BATTLE",
+  "TextMSID": "LINK_TEXT_EVENT",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_EVENT_MISSION",
+  "URLMSID": "LINK_PATH_MISSION",
+  "TextMSID": "LINK_TEXT_EVENT",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_MISSION",
+  "URLMSID": "LINK_PATH_MISSION",
+  "TextMSID": "LINK_TEXT_MISSION",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_PACK",
+  "URLMSID": "LINK_PATH_PACK",
+  "TextMSID": "LINK_TEXT_PACK",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "LINK_SHOP",
+  "URLMSID": "LINK_PATH_SHOP",
+  "TextMSID": "LINK_TEXT_SHOP",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "WebLink_BugNews_001",
+  "URLMSID": "WebLink_URL_BugNews_001",
+  "TextMSID": "WebLink_Text_BugNews_001",
+  "AllowedInBMode": true
+ },
+ {
+  "ID": "WebLink_OfficialX_001",
+  "URLMSID": "WebLink_URL_OfficialX_001",
+  "TextMSID": "WebLink_Text_OfficialX_001",
+  "AllowedInBMode": true
+ },
+ {
+  "ID": "WebLink_OfficialX_002",
+  "URLMSID": "WebLink_URL_OfficialX_002",
+  "TextMSID": "WebLink_Text_OfficialX_002",
+  "AllowedInBMode": true
+ },
+ {
+  "ID": "WebLink_Questionnaire_001",
+  "URLMSID": "WebLink_URL_Questionnaire_001",
+  "TextMSID": "WebLink_Text_Questionnaire_001",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "WebLink_Questionnaire_002",
+  "URLMSID": "WebLink_URL_Questionnaire_002",
+  "TextMSID": "WebLink_Text_Questionnaire_001",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "WebLink_Questionnaire_003",
+  "URLMSID": "WebLink_URL_Questionnaire_003",
+  "TextMSID": "WebLink_Text_Questionnaire_001",
+  "AllowedInBMode": false
+ },
+ {
+  "ID": "Weblink_EULA_KOREA",
+  "URLMSID": "Weblink_URL_EULA_KOREA",
+  "TextMSID": "WebLink_Text_BugNews_001",
+  "AllowedInBMode": true
+ }
+]

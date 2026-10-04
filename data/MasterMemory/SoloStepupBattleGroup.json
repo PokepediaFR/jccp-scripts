@@ -1,0 +1,22 @@
+[
+ {
+  "GroupID": "ADVANCED",
+  "Type": 3,
+  "GroupNameMSID": ""
+ },
+ {
+  "GroupID": "BEGINNER",
+  "Type": 1,
+  "GroupNameMSID": ""
+ },
+ {
+  "GroupID": "EXPERT",
+  "Type": 4,
+  "GroupNameMSID": ""
+ },
+ {
+  "GroupID": "INTERMEDIATE",
+  "Type": 2,
+  "GroupNameMSID": ""
+ }
+]
