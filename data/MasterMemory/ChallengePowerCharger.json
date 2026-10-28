@@ -1,0 +1,10 @@
+[
+  {
+    "ID": "CHALLENGE_CHARGER_110030",
+    "Type": 300,
+    "NameMSID": "ITEM_NAME_CHARGER_C3",
+    "DescriptionMSID": "ITEM_DESC_CHARGER_C3",
+    "SortOrderPriority": 10,
+    "RecoveryDuration": 60
+  }
+]

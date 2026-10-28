@@ -1,0 +1,17 @@
+[
+  {
+    "CardID": "PK_20_024100_00",
+    "PackOpenAssetPath": "RGB",
+    "BattleCardAppearanceType": 1
+  },
+  {
+    "CardID": "PK_20_024100_01",
+    "PackOpenAssetPath": "RGB",
+    "BattleCardAppearanceType": 1
+  },
+  {
+    "CardID": "PK_20_024100_02",
+    "PackOpenAssetPath": "RGB",
+    "BattleCardAppearanceType": 1
+  }
+]

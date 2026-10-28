@@ -1,0 +1,44 @@
+[
+  {
+    "LuckyFeedRarityWeightID": "AR",
+    "Rarity": 500,
+    "ProbabilityWeight": 270,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "C",
+    "Rarity": 100,
+    "ProbabilityWeight": 6000,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "R",
+    "Rarity": 300,
+    "ProbabilityWeight": 500,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "RR",
+    "Rarity": 400,
+    "ProbabilityWeight": 180,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "SAR",
+    "Rarity": 600,
+    "ProbabilityWeight": 35,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "SR",
+    "Rarity": 700,
+    "ProbabilityWeight": 15,
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "LuckyFeedRarityWeightID": "U",
+    "Rarity": 200,
+    "ProbabilityWeight": 3000,
+    "ScheduleID": "SC_RELEASE"
+  }
+]

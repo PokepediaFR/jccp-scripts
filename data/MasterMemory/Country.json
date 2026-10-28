@@ -1,0 +1,1202 @@
+[
+  {
+    "CountryID": "COUNTRY_ID_AE",
+    "Code": "AE",
+    "NameMSID": "COUNTRY_NAME_AE",
+    "SortOrder": 144,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AG",
+    "Code": "AG",
+    "NameMSID": "COUNTRY_NAME_AG",
+    "SortOrder": 3,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AI",
+    "Code": "AI",
+    "NameMSID": "COUNTRY_NAME_AI",
+    "SortOrder": 2,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AL",
+    "Code": "AL",
+    "NameMSID": "COUNTRY_NAME_AL",
+    "SortOrder": 1,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AR",
+    "Code": "AR",
+    "NameMSID": "COUNTRY_NAME_AR",
+    "SortOrder": 4,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AT",
+    "Code": "AT",
+    "NameMSID": "COUNTRY_NAME_AT",
+    "SortOrder": 7,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AU",
+    "Code": "AU",
+    "NameMSID": "COUNTRY_NAME_AU",
+    "SortOrder": 6,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_AW",
+    "Code": "AW",
+    "NameMSID": "COUNTRY_NAME_AW",
+    "SortOrder": 5,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BA",
+    "Code": "BA",
+    "NameMSID": "COUNTRY_NAME_BA",
+    "SortOrder": 17,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BB",
+    "Code": "BB",
+    "NameMSID": "COUNTRY_NAME_BB",
+    "SortOrder": 11,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BD",
+    "Code": "BD",
+    "NameMSID": "COUNTRY_NAME_BD",
+    "SortOrder": 10,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_BF",
+    "Code": "BF",
+    "NameMSID": "COUNTRY_NAME_BF",
+    "SortOrder": 23,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BG",
+    "Code": "BG",
+    "NameMSID": "COUNTRY_NAME_BG",
+    "SortOrder": 22,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BH",
+    "Code": "BH",
+    "NameMSID": "COUNTRY_NAME_BH",
+    "SortOrder": 9,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BJ",
+    "Code": "BJ",
+    "NameMSID": "COUNTRY_NAME_BJ",
+    "SortOrder": 13,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BL",
+    "Code": "BL",
+    "NameMSID": "COUNTRY_NAME_BL",
+    "SortOrder": 117,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BM",
+    "Code": "BM",
+    "NameMSID": "COUNTRY_NAME_BM",
+    "SortOrder": 14,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BN",
+    "Code": "BN",
+    "NameMSID": "COUNTRY_NAME_BN",
+    "SortOrder": 21,
+    "DateFormat": 1,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_BO",
+    "Code": "BO",
+    "NameMSID": "COUNTRY_NAME_BO",
+    "SortOrder": 16,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BR",
+    "Code": "BR",
+    "NameMSID": "COUNTRY_NAME_BR",
+    "SortOrder": 19,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BS",
+    "Code": "BS",
+    "NameMSID": "COUNTRY_NAME_BS",
+    "SortOrder": 8,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BT",
+    "Code": "BT",
+    "NameMSID": "COUNTRY_NAME_BT",
+    "SortOrder": 15,
+    "DateFormat": 1,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_BW",
+    "Code": "BW",
+    "NameMSID": "COUNTRY_NAME_BW",
+    "SortOrder": 18,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BY",
+    "Code": "BY",
+    "NameMSID": "COUNTRY_NAME_BY",
+    "SortOrder": 111,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_BZ",
+    "Code": "BZ",
+    "NameMSID": "COUNTRY_NAME_BZ",
+    "SortOrder": 12,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CA",
+    "Code": "CA",
+    "NameMSID": "COUNTRY_NAME_CA",
+    "SortOrder": 25,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CH",
+    "Code": "CH",
+    "NameMSID": "COUNTRY_NAME_CH",
+    "SortOrder": 132,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CI",
+    "Code": "CI",
+    "NameMSID": "COUNTRY_NAME_CI",
+    "SortOrder": 32,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CL",
+    "Code": "CL",
+    "NameMSID": "COUNTRY_NAME_CL",
+    "SortOrder": 29,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CO",
+    "Code": "CO",
+    "NameMSID": "COUNTRY_NAME_CO",
+    "SortOrder": 30,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CR",
+    "Code": "CR",
+    "NameMSID": "COUNTRY_NAME_CR",
+    "SortOrder": 31,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CV",
+    "Code": "CV",
+    "NameMSID": "COUNTRY_NAME_CV",
+    "SortOrder": 26,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CY",
+    "Code": "CY",
+    "NameMSID": "COUNTRY_NAME_CY",
+    "SortOrder": 34,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_CZ",
+    "Code": "CZ",
+    "NameMSID": "COUNTRY_NAME_CZ",
+    "SortOrder": 35,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_DE",
+    "Code": "DE",
+    "NameMSID": "COUNTRY_NAME_DE",
+    "SortOrder": 49,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_DK",
+    "Code": "DK",
+    "NameMSID": "COUNTRY_NAME_DK",
+    "SortOrder": 36,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_DM",
+    "Code": "DM",
+    "NameMSID": "COUNTRY_NAME_DM",
+    "SortOrder": 37,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_DO",
+    "Code": "DO",
+    "NameMSID": "COUNTRY_NAME_DO",
+    "SortOrder": 38,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_EC",
+    "Code": "EC",
+    "NameMSID": "COUNTRY_NAME_EC",
+    "SortOrder": 39,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_EE",
+    "Code": "EE",
+    "NameMSID": "COUNTRY_NAME_EE",
+    "SortOrder": 42,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_EG",
+    "Code": "EG",
+    "NameMSID": "COUNTRY_NAME_EG",
+    "SortOrder": 40,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_ES",
+    "Code": "ES",
+    "NameMSID": "COUNTRY_NAME_ES",
+    "SortOrder": 127,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_FI",
+    "Code": "FI",
+    "NameMSID": "COUNTRY_NAME_FI",
+    "SortOrder": 45,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_FJ",
+    "Code": "FJ",
+    "NameMSID": "COUNTRY_NAME_FJ",
+    "SortOrder": 44,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_FM",
+    "Code": "FM",
+    "NameMSID": "COUNTRY_NAME_FM",
+    "SortOrder": 89,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_FR",
+    "Code": "FR",
+    "NameMSID": "COUNTRY_NAME_FR",
+    "SortOrder": 46,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GA",
+    "Code": "GA",
+    "NameMSID": "COUNTRY_NAME_GA",
+    "SortOrder": 47,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GB",
+    "Code": "GB",
+    "NameMSID": "COUNTRY_NAME_GB",
+    "SortOrder": 145,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GD",
+    "Code": "GD",
+    "NameMSID": "COUNTRY_NAME_GD",
+    "SortOrder": 52,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GH",
+    "Code": "GH",
+    "NameMSID": "COUNTRY_NAME_GH",
+    "SortOrder": 50,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GM",
+    "Code": "GM",
+    "NameMSID": "COUNTRY_NAME_GM",
+    "SortOrder": 48,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GR",
+    "Code": "GR",
+    "NameMSID": "COUNTRY_NAME_GR",
+    "SortOrder": 51,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GT",
+    "Code": "GT",
+    "NameMSID": "COUNTRY_NAME_GT",
+    "SortOrder": 53,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GW",
+    "Code": "GW",
+    "NameMSID": "COUNTRY_NAME_GW",
+    "SortOrder": 54,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_GY",
+    "Code": "GY",
+    "NameMSID": "COUNTRY_NAME_GY",
+    "SortOrder": 55,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_HK",
+    "Code": "HK",
+    "NameMSID": "COUNTRY_NAME_HK",
+    "SortOrder": 58,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_HN",
+    "Code": "HN",
+    "NameMSID": "COUNTRY_NAME_HN",
+    "SortOrder": 57,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_HR",
+    "Code": "HR",
+    "NameMSID": "COUNTRY_NAME_HR",
+    "SortOrder": 33,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_HT",
+    "Code": "HT",
+    "NameMSID": "COUNTRY_NAME_HT",
+    "SortOrder": 56,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_HU",
+    "Code": "HU",
+    "NameMSID": "COUNTRY_NAME_HU",
+    "SortOrder": 59,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_ID",
+    "Code": "ID",
+    "NameMSID": "COUNTRY_NAME_ID",
+    "SortOrder": 62,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_IE",
+    "Code": "IE",
+    "NameMSID": "COUNTRY_NAME_IE",
+    "SortOrder": 63,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_IL",
+    "Code": "IL",
+    "NameMSID": "COUNTRY_NAME_IL",
+    "SortOrder": 64,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_IN",
+    "Code": "IN",
+    "NameMSID": "COUNTRY_NAME_IN",
+    "SortOrder": 61,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_IS",
+    "Code": "IS",
+    "NameMSID": "COUNTRY_NAME_IS",
+    "SortOrder": 60,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_IT",
+    "Code": "IT",
+    "NameMSID": "COUNTRY_NAME_IT",
+    "SortOrder": 65,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_JM",
+    "Code": "JM",
+    "NameMSID": "COUNTRY_NAME_JM",
+    "SortOrder": 66,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_JO",
+    "Code": "JO",
+    "NameMSID": "COUNTRY_NAME_JO",
+    "SortOrder": 68,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_JP",
+    "Code": "JP",
+    "NameMSID": "COUNTRY_NAME_JP",
+    "SortOrder": 67,
+    "DateFormat": 1,
+    "InquiryType": 1
+  },
+  {
+    "CountryID": "COUNTRY_ID_KG",
+    "Code": "KG",
+    "NameMSID": "COUNTRY_NAME_KG",
+    "SortOrder": 72,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_KH",
+    "Code": "KH",
+    "NameMSID": "COUNTRY_NAME_KH",
+    "SortOrder": 24,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_KN",
+    "Code": "KN",
+    "NameMSID": "COUNTRY_NAME_KN",
+    "SortOrder": 114,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_KR",
+    "Code": "KR",
+    "NameMSID": "COUNTRY_NAME_KR",
+    "SortOrder": 126,
+    "DateFormat": 1,
+    "InquiryType": 2
+  },
+  {
+    "CountryID": "COUNTRY_ID_KW",
+    "Code": "KW",
+    "NameMSID": "COUNTRY_NAME_KW",
+    "SortOrder": 71,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_KY",
+    "Code": "KY",
+    "NameMSID": "COUNTRY_NAME_KY",
+    "SortOrder": 27,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_KZ",
+    "Code": "KZ",
+    "NameMSID": "COUNTRY_NAME_KZ",
+    "SortOrder": 69,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LA",
+    "Code": "LA",
+    "NameMSID": "COUNTRY_NAME_LA",
+    "SortOrder": 73,
+    "DateFormat": 1,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_LB",
+    "Code": "LB",
+    "NameMSID": "COUNTRY_NAME_LB",
+    "SortOrder": 75,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LC",
+    "Code": "LC",
+    "NameMSID": "COUNTRY_NAME_LC",
+    "SortOrder": 115,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LI",
+    "Code": "LI",
+    "NameMSID": "COUNTRY_NAME_LI",
+    "SortOrder": 77,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LK",
+    "Code": "LK",
+    "NameMSID": "COUNTRY_NAME_LK",
+    "SortOrder": 128,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_LR",
+    "Code": "LR",
+    "NameMSID": "COUNTRY_NAME_LR",
+    "SortOrder": 76,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LT",
+    "Code": "LT",
+    "NameMSID": "COUNTRY_NAME_LT",
+    "SortOrder": 78,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LU",
+    "Code": "LU",
+    "NameMSID": "COUNTRY_NAME_LU",
+    "SortOrder": 79,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_LV",
+    "Code": "LV",
+    "NameMSID": "COUNTRY_NAME_LV",
+    "SortOrder": 74,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MA",
+    "Code": "MA",
+    "NameMSID": "COUNTRY_NAME_MA",
+    "SortOrder": 92,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MG",
+    "Code": "MG",
+    "NameMSID": "COUNTRY_NAME_MG",
+    "SortOrder": 82,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MK",
+    "Code": "MK",
+    "NameMSID": "COUNTRY_NAME_MK",
+    "SortOrder": 81,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MN",
+    "Code": "MN",
+    "NameMSID": "COUNTRY_NAME_MN",
+    "SortOrder": 90,
+    "DateFormat": 1,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_MO",
+    "Code": "MO",
+    "NameMSID": "COUNTRY_NAME_MO",
+    "SortOrder": 80,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_MR",
+    "Code": "MR",
+    "NameMSID": "COUNTRY_NAME_MR",
+    "SortOrder": 86,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MS",
+    "Code": "MS",
+    "NameMSID": "COUNTRY_NAME_MS",
+    "SortOrder": 91,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MT",
+    "Code": "MT",
+    "NameMSID": "COUNTRY_NAME_MT",
+    "SortOrder": 85,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MU",
+    "Code": "MU",
+    "NameMSID": "COUNTRY_NAME_MU",
+    "SortOrder": 87,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MW",
+    "Code": "MW",
+    "NameMSID": "COUNTRY_NAME_MW",
+    "SortOrder": 83,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MX",
+    "Code": "MX",
+    "NameMSID": "COUNTRY_NAME_MX",
+    "SortOrder": 88,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_MY",
+    "Code": "MY",
+    "NameMSID": "COUNTRY_NAME_MY",
+    "SortOrder": 84,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_MZ",
+    "Code": "MZ",
+    "NameMSID": "COUNTRY_NAME_MZ",
+    "SortOrder": 93,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NA",
+    "Code": "NA",
+    "NameMSID": "COUNTRY_NAME_NA",
+    "SortOrder": 94,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NE",
+    "Code": "NE",
+    "NameMSID": "COUNTRY_NAME_NE",
+    "SortOrder": 98,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NG",
+    "Code": "NG",
+    "NameMSID": "COUNTRY_NAME_NG",
+    "SortOrder": 43,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NI",
+    "Code": "NI",
+    "NameMSID": "COUNTRY_NAME_NI",
+    "SortOrder": 97,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NO",
+    "Code": "NO",
+    "NameMSID": "COUNTRY_NAME_NO",
+    "SortOrder": 99,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_NP",
+    "Code": "NP",
+    "NameMSID": "COUNTRY_NAME_NP",
+    "SortOrder": 95,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_NZ",
+    "Code": "NZ",
+    "NameMSID": "COUNTRY_NAME_NZ",
+    "SortOrder": 96,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_OM",
+    "Code": "OM",
+    "NameMSID": "COUNTRY_NAME_OM",
+    "SortOrder": 100,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PA",
+    "Code": "PA",
+    "NameMSID": "COUNTRY_NAME_PA",
+    "SortOrder": 103,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PE",
+    "Code": "PE",
+    "NameMSID": "COUNTRY_NAME_PE",
+    "SortOrder": 106,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PG",
+    "Code": "PG",
+    "NameMSID": "COUNTRY_NAME_PG",
+    "SortOrder": 104,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_PH",
+    "Code": "PH",
+    "NameMSID": "COUNTRY_NAME_PH",
+    "SortOrder": 107,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_PK",
+    "Code": "PK",
+    "NameMSID": "COUNTRY_NAME_PK",
+    "SortOrder": 101,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_PL",
+    "Code": "PL",
+    "NameMSID": "COUNTRY_NAME_PL",
+    "SortOrder": 108,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PT",
+    "Code": "PT",
+    "NameMSID": "COUNTRY_NAME_PT",
+    "SortOrder": 109,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PW",
+    "Code": "PW",
+    "NameMSID": "COUNTRY_NAME_PW",
+    "SortOrder": 102,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_PY",
+    "Code": "PY",
+    "NameMSID": "COUNTRY_NAME_PY",
+    "SortOrder": 105,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_QA",
+    "Code": "QA",
+    "NameMSID": "COUNTRY_NAME_QA",
+    "SortOrder": 110,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_RO",
+    "Code": "RO",
+    "NameMSID": "COUNTRY_NAME_RO",
+    "SortOrder": 112,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_RS",
+    "Code": "RS",
+    "NameMSID": "COUNTRY_NAME_RS",
+    "SortOrder": 118,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_RW",
+    "Code": "RW",
+    "NameMSID": "COUNTRY_NAME_RW",
+    "SortOrder": 113,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SA",
+    "Code": "SA",
+    "NameMSID": "COUNTRY_NAME_SA",
+    "SortOrder": 70,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SB",
+    "Code": "SB",
+    "NameMSID": "COUNTRY_NAME_SB",
+    "SortOrder": 124,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SC",
+    "Code": "SC",
+    "NameMSID": "COUNTRY_NAME_SC",
+    "SortOrder": 119,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SE",
+    "Code": "SE",
+    "NameMSID": "COUNTRY_NAME_SE",
+    "SortOrder": 131,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SG",
+    "Code": "SG",
+    "NameMSID": "COUNTRY_NAME_SG",
+    "SortOrder": 121,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_SI",
+    "Code": "SI",
+    "NameMSID": "COUNTRY_NAME_SI",
+    "SortOrder": 123,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SK",
+    "Code": "SK",
+    "NameMSID": "COUNTRY_NAME_SK",
+    "SortOrder": 122,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SL",
+    "Code": "SL",
+    "NameMSID": "COUNTRY_NAME_SL",
+    "SortOrder": 120,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SR",
+    "Code": "SR",
+    "NameMSID": "COUNTRY_NAME_SR",
+    "SortOrder": 129,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SV",
+    "Code": "SV",
+    "NameMSID": "COUNTRY_NAME_SV",
+    "SortOrder": 41,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_SZ",
+    "Code": "SZ",
+    "NameMSID": "COUNTRY_NAME_SZ",
+    "SortOrder": 130,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TC",
+    "Code": "TC",
+    "NameMSID": "COUNTRY_NAME_TC",
+    "SortOrder": 141,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TD",
+    "Code": "TD",
+    "NameMSID": "COUNTRY_NAME_TD",
+    "SortOrder": 28,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TG",
+    "Code": "TG",
+    "NameMSID": "COUNTRY_NAME_TG",
+    "SortOrder": 137,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TH",
+    "Code": "TH",
+    "NameMSID": "COUNTRY_NAME_TH",
+    "SortOrder": 136,
+    "DateFormat": 2,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_TJ",
+    "Code": "TJ",
+    "NameMSID": "COUNTRY_NAME_TJ",
+    "SortOrder": 134,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TM",
+    "Code": "TM",
+    "NameMSID": "COUNTRY_NAME_TM",
+    "SortOrder": 140,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TR",
+    "Code": "TR",
+    "NameMSID": "COUNTRY_NAME_TR",
+    "SortOrder": 139,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TT",
+    "Code": "TT",
+    "NameMSID": "COUNTRY_NAME_TT",
+    "SortOrder": 138,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_TW",
+    "Code": "TW",
+    "NameMSID": "COUNTRY_NAME_TW",
+    "SortOrder": 133,
+    "DateFormat": 1,
+    "InquiryType": 3
+  },
+  {
+    "CountryID": "COUNTRY_ID_TZ",
+    "Code": "TZ",
+    "NameMSID": "COUNTRY_NAME_TZ",
+    "SortOrder": 135,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_UA",
+    "Code": "UA",
+    "NameMSID": "COUNTRY_NAME_UA",
+    "SortOrder": 143,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_UG",
+    "Code": "UG",
+    "NameMSID": "COUNTRY_NAME_UG",
+    "SortOrder": 142,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_US",
+    "Code": "US",
+    "NameMSID": "COUNTRY_NAME_US",
+    "SortOrder": 146,
+    "DateFormat": 1,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_UY",
+    "Code": "UY",
+    "NameMSID": "COUNTRY_NAME_UY",
+    "SortOrder": 147,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_UZ",
+    "Code": "UZ",
+    "NameMSID": "COUNTRY_NAME_UZ",
+    "SortOrder": 148,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_VC",
+    "Code": "VC",
+    "NameMSID": "COUNTRY_NAME_VC",
+    "SortOrder": 116,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_VE",
+    "Code": "VE",
+    "NameMSID": "COUNTRY_NAME_VE",
+    "SortOrder": 149,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_VG",
+    "Code": "VG",
+    "NameMSID": "COUNTRY_NAME_VG",
+    "SortOrder": 20,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_ZA",
+    "Code": "ZA",
+    "NameMSID": "COUNTRY_NAME_ZA",
+    "SortOrder": 125,
+    "DateFormat": 2,
+    "InquiryType": 4
+  },
+  {
+    "CountryID": "COUNTRY_ID_ZM",
+    "Code": "ZM",
+    "NameMSID": "COUNTRY_NAME_ZM",
+    "SortOrder": 150,
+    "DateFormat": 2,
+    "InquiryType": 4
+  }
+]

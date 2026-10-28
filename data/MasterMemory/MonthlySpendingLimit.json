@@ -1,0 +1,8 @@
+[
+  {
+    "LimitID": "underage",
+    "AgeFrom": 0,
+    "AgeTo": 18,
+    "PurchasedPokeGoldAmount": 357
+  }
+]

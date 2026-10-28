@@ -1,0 +1,26 @@
+[
+  {
+    "PackPowerID": "PACK_POWER_NORMAL",
+    "AutoHealLimit": 2,
+    "HealSecondsPerPower": 43200,
+    "PokeGoldUseLimit": 720,
+    "HealSecondsPerPokeGold": 7200,
+    "ConsumePriority": 2,
+    "Type": 1,
+    "NameMSID": "",
+    "PassIDs": []
+  },
+  {
+    "PackPowerID": "PACK_POWER_PREMIUM",
+    "AutoHealLimit": 2,
+    "HealSecondsPerPower": 86400,
+    "PokeGoldUseLimit": 0,
+    "HealSecondsPerPokeGold": 0,
+    "ConsumePriority": 1,
+    "Type": 2,
+    "NameMSID": "",
+    "PassIDs": [
+      "PREMIUM_PASS"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "Id": "1010",
+    "Threshold": 16,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0010",
+    "ImageID": "tips_16"
+  },
+  {
+    "Id": "1020",
+    "Threshold": 25,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0020",
+    "ImageID": "tips_25"
+  },
+  {
+    "Id": "1030",
+    "Threshold": 50,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0030",
+    "ImageID": "tips_50"
+  },
+  {
+    "Id": "1040",
+    "Threshold": 80,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0040",
+    "ImageID": "tips_80"
+  },
+  {
+    "Id": "1050",
+    "Threshold": 100,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0050",
+    "ImageID": "tips_100"
+  },
+  {
+    "Id": "1060",
+    "Threshold": 151,
+    "CardType": 2,
+    "CardID": "TR_90_000060_00",
+    "TextMSID": "CardTotalMilestone_TIPS_0060",
+    "ImageID": ""
+  },
+  {
+    "Id": "1070",
+    "Threshold": 180,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0070",
+    "ImageID": "tips_180"
+  },
+  {
+    "Id": "1080",
+    "Threshold": 250,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0080",
+    "ImageID": "tips_250"
+  },
+  {
+    "Id": "1090",
+    "Threshold": 300,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0090",
+    "ImageID": "tips_300"
+  },
+  {
+    "Id": "1100",
+    "Threshold": 500,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0100",
+    "ImageID": "tips_500"
+  },
+  {
+    "Id": "1110",
+    "Threshold": 777,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0110",
+    "ImageID": "tips_777"
+  },
+  {
+    "Id": "1120",
+    "Threshold": 1000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0120",
+    "ImageID": "tips_1000"
+  },
+  {
+    "Id": "1130",
+    "Threshold": 1500,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0130",
+    "ImageID": "tips_1500"
+  },
+  {
+    "Id": "1140",
+    "Threshold": 2000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0140",
+    "ImageID": "tips_2000"
+  },
+  {
+    "Id": "1150",
+    "Threshold": 5000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0150",
+    "ImageID": "tips_5000"
+  },
+  {
+    "Id": "1160",
+    "Threshold": 10000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0160",
+    "ImageID": "tips_10000"
+  },
+  {
+    "Id": "1170",
+    "Threshold": 15000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0170",
+    "ImageID": "tips_15000"
+  },
+  {
+    "Id": "1180",
+    "Threshold": 20000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0180",
+    "ImageID": "tips_20000"
+  },
+  {
+    "Id": "1190",
+    "Threshold": 100000,
+    "CardType": 1,
+    "CardID": "",
+    "TextMSID": "CardTotalMilestone_TIPS_0190",
+    "ImageID": "tips_100000"
+  }
+]

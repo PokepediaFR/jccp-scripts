@@ -1,0 +1,26 @@
+[
+  {
+    "PackSeriesListTabID": "series_a",
+    "SortOrderPriority": 1,
+    "ScheduleID": "SC_RELEASE",
+    "SeriesID": "A"
+  },
+  {
+    "PackSeriesListTabID": "series_b",
+    "SortOrderPriority": 2,
+    "ScheduleID": "SC_RELEASE_B1",
+    "SeriesID": "B"
+  },
+  {
+    "PackSeriesListTabID": "series_c",
+    "SortOrderPriority": 3,
+    "ScheduleID": "SC_PACK_RELEASE_C1",
+    "SeriesID": "C"
+  },
+  {
+    "PackSeriesListTabID": "series_sp",
+    "SortOrderPriority": 99,
+    "ScheduleID": "SC_PACK_RELEASE_C1",
+    "SeriesID": "SP"
+  }
+]

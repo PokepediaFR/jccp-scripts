@@ -1,0 +1,27 @@
+[
+  {
+    "ID": "MI_RW_OR_B4a_001",
+    "MissionID": "MI_AC_2607000_RETURN_01_02",
+    "ScheduleID": "SC_PACK_RELEASE_B4a_B4b",
+    "RewardIDs": [
+      "MI_RW_PACK_B4a_001"
+    ]
+  },
+  {
+    "ID": "MI_RW_OR_B4b_001",
+    "MissionID": "MI_AC_2607000_RETURN_01_02",
+    "ScheduleID": "SC_PACK_RELEASE_B4b_C1",
+    "RewardIDs": [
+      "MI_RW_PACK_B4b_004"
+    ]
+  },
+  {
+    "ID": "MI_RW_OR_C1_001",
+    "MissionID": "MI_AC_2607000_RETURN_01_02",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "RewardIDs": [
+      "MI_RW_PACK_C1_008",
+      "MI_RW_PACK_C1_009"
+    ]
+  }
+]

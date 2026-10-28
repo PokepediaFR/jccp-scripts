@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "POKEGOLD_FREE",
+    "Type": 1,
+    "NameMSID": "ITEM_NAME_CURRENCY_G1",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_G1",
+    "SortOrderPriority": 2,
+    "AssetID": "POKEGOLD"
+  },
+  {
+    "ID": "POKEGOLD_PAID",
+    "Type": 0,
+    "NameMSID": "ITEM_NAME_CURRENCY_G1",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_G1",
+    "SortOrderPriority": 1,
+    "AssetID": "POKEGOLD"
+  },
+  {
+    "ID": "PREMIUM_TICKET",
+    "Type": 5,
+    "NameMSID": "ITEM_NAME_CURRENCY_T3",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_T3",
+    "SortOrderPriority": 6,
+    "AssetID": "PREMIUM_TICKET"
+  },
+  {
+    "ID": "SHINEDUST",
+    "Type": 2,
+    "NameMSID": "ITEM_NAME_CURRENCY_D1",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_D1",
+    "SortOrderPriority": 3,
+    "AssetID": "SHINEDUST"
+  },
+  {
+    "ID": "SHOPTICKET",
+    "Type": 3,
+    "NameMSID": "ITEM_NAME_CURRENCY_T1",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_T1",
+    "SortOrderPriority": 4,
+    "AssetID": "SHOPTICKET"
+  },
+  {
+    "ID": "SHOPTICKET_P",
+    "Type": 4,
+    "NameMSID": "ITEM_NAME_CURRENCY_T2",
+    "DescriptionMSID": "ITEM_DESC_CURRENCY_T2",
+    "SortOrderPriority": 5,
+    "AssetID": "PREMIER_SHOPTICKET"
+  }
+]

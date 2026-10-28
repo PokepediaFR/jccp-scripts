@@ -1,0 +1,11 @@
+[
+  {
+    "ID": "EVENT_CHARGER",
+    "Type": 1,
+    "NameMSID": "ITEM_NAME_CHARGER_E1",
+    "DescriptionMSID": "ITEM_DESC_CHARGER_E1",
+    "SortOrderPriority": 1,
+    "ScheduleID": "SC_RELEASE",
+    "RecoveryDuration": 720
+  }
+]

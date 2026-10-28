@@ -1,0 +1,23 @@
+[
+  {
+    "MissionGroupIndexListItemID": "MI_GR_ILI_2610000_PROMO_01_01",
+    "MissionGroupID": "MI_GR_2610000_PROMO_01",
+    "ItemType": 0,
+    "ItemID": "PK_90_010030_00",
+    "SortOrderPriority": 10
+  },
+  {
+    "MissionGroupIndexListItemID": "MI_GR_ILI_2610000_PROMO_01_02",
+    "MissionGroupID": "MI_GR_2610000_PROMO_01",
+    "ItemType": 0,
+    "ItemID": "PK_90_007340_01",
+    "SortOrderPriority": 20
+  },
+  {
+    "MissionGroupIndexListItemID": "MI_GR_ILI_2610000_PROMO_01_03",
+    "MissionGroupID": "MI_GR_2610000_PROMO_01",
+    "ItemType": 0,
+    "ItemID": "PK_90_013980_00",
+    "SortOrderPriority": 30
+  }
+]
