@@ -1,0 +1,44 @@
+[
+  {
+    "TutorialDeckID": "1001001",
+    "EnergyType": [
+      3
+    ],
+    "DeckCaseType": 3,
+    "DeckShield": "",
+    "CoinSkin": "",
+    "PlayMat": "",
+    "TutorialDeckNameMSID": "BATTLE_TUTORIAL_DECK_1",
+    "MainCard": "100100105",
+    "MainCardSub1": "",
+    "MainCardSub2": ""
+  },
+  {
+    "TutorialDeckID": "1001002",
+    "EnergyType": [
+      2
+    ],
+    "DeckCaseType": 2,
+    "DeckShield": "",
+    "CoinSkin": "",
+    "PlayMat": "",
+    "TutorialDeckNameMSID": "BATTLE_TUTORIAL_DECK_2",
+    "MainCard": "100100207",
+    "MainCardSub1": "",
+    "MainCardSub2": ""
+  },
+  {
+    "TutorialDeckID": "1001003",
+    "EnergyType": [
+      7
+    ],
+    "DeckCaseType": 7,
+    "DeckShield": "",
+    "CoinSkin": "",
+    "PlayMat": "",
+    "TutorialDeckNameMSID": "BATTLE_TUTORIAL_DECK_3",
+    "MainCard": "100100303",
+    "MainCardSub1": "",
+    "MainCardSub2": ""
+  }
+]

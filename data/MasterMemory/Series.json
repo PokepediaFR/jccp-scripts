@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "A",
+    "NameMSID": "SERIES_NAME_1",
+    "Order": 100,
+    "LongNameMSID": "SERIES_NAME_1_LONG",
+    "IsSpecialPack": false
+  },
+  {
+    "ID": "B",
+    "NameMSID": "SERIES_NAME_2",
+    "Order": 200,
+    "LongNameMSID": "SERIES_NAME_2_LONG",
+    "IsSpecialPack": false
+  },
+  {
+    "ID": "C",
+    "NameMSID": "SERIES_NAME_3",
+    "Order": 300,
+    "LongNameMSID": "SERIES_NAME_3_LONG",
+    "IsSpecialPack": false
+  },
+  {
+    "ID": "SP",
+    "NameMSID": "SERIES_NAME_4",
+    "Order": 250,
+    "LongNameMSID": "SERIES_NAME_4_LONG",
+    "IsSpecialPack": true
+  }
+]

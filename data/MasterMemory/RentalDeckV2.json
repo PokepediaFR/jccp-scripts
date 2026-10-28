@@ -1,0 +1,98 @@
+[
+  {
+    "RentalDeckID": "1009001",
+    "EnergyType": [
+      5
+    ],
+    "DeckCaseType": 5,
+    "MainCard": "100900101",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_193",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010700,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  },
+  {
+    "RentalDeckID": "1009002",
+    "EnergyType": [
+      6
+    ],
+    "DeckCaseType": 6,
+    "MainCard": "100900202",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_194",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010600,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  },
+  {
+    "RentalDeckID": "1009003",
+    "EnergyType": [
+      4
+    ],
+    "DeckCaseType": 4,
+    "MainCard": "100900309",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_195",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010500,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  },
+  {
+    "RentalDeckID": "1009004",
+    "EnergyType": [
+      8
+    ],
+    "DeckCaseType": 8,
+    "MainCard": "100900408",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_196",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010400,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  },
+  {
+    "RentalDeckID": "1009005",
+    "EnergyType": [
+      2
+    ],
+    "DeckCaseType": 2,
+    "MainCard": "100900508",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_197",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010300,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  },
+  {
+    "RentalDeckID": "1009006",
+    "EnergyType": [
+      6
+    ],
+    "DeckCaseType": 3,
+    "MainCard": "100900603",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_198",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1",
+    "ScheduleID": "SC_PACK_RELEASE_C1_C2",
+    "SortOrderPriority": 10010200,
+    "ExpansionID": "C1",
+    "IsDefault": false
+  }
+]

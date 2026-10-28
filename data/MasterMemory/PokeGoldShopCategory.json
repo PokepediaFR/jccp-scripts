@@ -1,0 +1,26 @@
+[
+  {
+    "CategoryID": "SH_CG_PG_001",
+    "NameMSID": "SHOP_POKEGOLD_SAIL",
+    "SortOrderPriority": 100,
+    "IsOutOfStockInvisible": true
+  },
+  {
+    "CategoryID": "SH_CG_PG_002",
+    "NameMSID": "SHOP_POKEGOLD_EXTRA_ITEM",
+    "SortOrderPriority": 90,
+    "IsOutOfStockInvisible": true
+  },
+  {
+    "CategoryID": "SH_CG_PG_003",
+    "NameMSID": "SHOP_POKEGOLD",
+    "SortOrderPriority": 80,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PG_SUB_001",
+    "NameMSID": "SHOP_POKEGOLD_CATEGORY_SUB_3",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": true
+  }
+]

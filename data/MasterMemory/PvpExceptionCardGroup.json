@@ -1,0 +1,12 @@
+[
+  {
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "GroupName": "PROMO-C vol1",
+    "IsVisibleOnConfirmDialog": true
+  },
+  {
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "GroupName": "ショップ販売プロモ",
+    "IsVisibleOnConfirmDialog": true
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_001",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022970_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_002",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022390_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_003",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022980_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_004",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022990_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_005",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022410_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_006",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022420_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_007",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "PK_90_022430_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_PROMO_C1_01_008",
+    "GroupID": "PVP_GR_PROMO_C1_01",
+    "CardID": "TR_90_001790_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_001",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000010_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_002",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000020_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_003",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000030_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_004",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000040_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_005",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000050_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_006",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000060_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_007",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000070_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_008",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_20_000030_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_009",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_20_000040_00"
+  },
+  {
+    "PvpExceptionCardGroupMemberID": "PVP_GM_SHOP_PROMO_01_010",
+    "GroupID": "PVP_GR_SHOP_PROMO_01",
+    "CardID": "TR_90_000060_01"
+  }
+]

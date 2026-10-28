@@ -1,0 +1,218 @@
+[
+  {
+    "RewardID": "BT_RW_COIN_SP01_01",
+    "ItemType": 9,
+    "ItemID": "COIN_101100_MEGAMEWTWOX",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "BT_RW_CP001_0010_00_000",
+    "ItemType": 8,
+    "ItemID": "CP001_0010_00_000",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "BT_RW_DECKSHIELD_SP01_01",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100910_MEGAMEWTWOX",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "BT_RW_DR_CP001_0010_00_000",
+    "ItemType": 8,
+    "ItemID": "CP001_0010_00_000",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 200
+  },
+  {
+    "RewardID": "BT_RW_PLAYMAT_SP01_01",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100910_MEGAMEWTWOX",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_10",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 10,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_100",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 100,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_15",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 15,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_20",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 20,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_25",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 25,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_30",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 30,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_35",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 35,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_40",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 40,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_45",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 45,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_50",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 50,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_55",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 55,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_60",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 60,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_65",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 65,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_75",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 75,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_80",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 80,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_85",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 85,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_90",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 90,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "PACK_CHARGER_95",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "Amount": 95,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "RANK_RW_MASTER_C1_01",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100990_C1_Master_01",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "RANK_RW_MASTER_C1_02",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_101000_C1_Master_02",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "RANK_RW_MASTER_C1_03",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_101010_C1_Master_03",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  },
+  {
+    "RewardID": "RANK_RW_MASTER_C1_04",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_101020_C1_Master_04",
+    "ExpansionID": "C1",
+    "Amount": 1,
+    "ProbabilityPerMil": 1000
+  }
+]

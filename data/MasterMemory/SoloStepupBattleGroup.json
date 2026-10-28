@@ -1,0 +1,37 @@
+[
+  {
+    "GroupID": "ADVANCED",
+    "Type": 3,
+    "GroupNameMSID": "",
+    "ExpansionID": "",
+    "Schedule": ""
+  },
+  {
+    "GroupID": "BEGINNER",
+    "Type": 1,
+    "GroupNameMSID": "",
+    "ExpansionID": "",
+    "Schedule": ""
+  },
+  {
+    "GroupID": "EXPERT",
+    "Type": 4,
+    "GroupNameMSID": "",
+    "ExpansionID": "",
+    "Schedule": ""
+  },
+  {
+    "GroupID": "GR_BATTLE_C1_01",
+    "Type": 0,
+    "GroupNameMSID": "",
+    "ExpansionID": "C1",
+    "Schedule": "SC_PACK_RELEASE_C1_C2"
+  },
+  {
+    "GroupID": "INTERMEDIATE",
+    "Type": 2,
+    "GroupNameMSID": "",
+    "ExpansionID": "",
+    "Schedule": ""
+  }
+]

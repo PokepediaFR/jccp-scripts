@@ -1,0 +1,266 @@
+[
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B2",
+    "BattleId": "RANDOMBATTLE_ADVANCED",
+    "Schedule": "SC_PACK_RELEASE_B2_B2a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B2a",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B2a",
+    "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B2b",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B2b",
+    "Schedule": "SC_PACK_RELEASE_B2b_B3",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B3",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B3",
+    "Schedule": "SC_PACK_RELEASE_B3_B3a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B3a",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B3a",
+    "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B3b",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B3b",
+    "Schedule": "SC_PACK_RELEASE_B3b_B4",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B4",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B4",
+    "Schedule": "SC_PACK_RELEASE_B4_B4a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B4a",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B4a",
+    "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_B4b",
+    "BattleId": "RANDOMBATTLE_ADVANCED_B4b",
+    "Schedule": "SC_PACK_RELEASE_B4b_C1",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_ADVANCED_C1",
+    "BattleId": "RANDOMBATTLE_ADVANCED_C1",
+    "Schedule": "SC_PACK_RELEASE_C1_C2",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B2",
+    "BattleId": "RANDOMBATTLE_BEGINNER",
+    "Schedule": "SC_PACK_RELEASE_B2_B2a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B2a",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B2a",
+    "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B2b",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B2b",
+    "Schedule": "SC_PACK_RELEASE_B2b_B3",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B3",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B3",
+    "Schedule": "SC_PACK_RELEASE_B3_B3a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B3a",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B3a",
+    "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B3b",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B3b",
+    "Schedule": "SC_PACK_RELEASE_B3b_B4",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B4",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B4",
+    "Schedule": "SC_PACK_RELEASE_B4_B4a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B4a",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B4a",
+    "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_B4b",
+    "BattleId": "RANDOMBATTLE_BEGINNER_B4b",
+    "Schedule": "SC_PACK_RELEASE_B4b_C1",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_BEGINNER_C1",
+    "BattleId": "RANDOMBATTLE_BEGINNER_C1",
+    "Schedule": "SC_PACK_RELEASE_C1_C2",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_DC_ADVANCED_C1",
+    "BattleId": "RANDOMBATTLE_ADVANCED_C1",
+    "Schedule": "SC_EV_2610000_DR_RAM_01",
+    "SelectionPriority": 1
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_DC_BEGINNER_C1",
+    "BattleId": "RANDOMBATTLE_BEGINNER_C1",
+    "Schedule": "SC_EV_2610000_DR_RAM_01",
+    "SelectionPriority": 1
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_DC_EXPERT_C1",
+    "BattleId": "RANDOMBATTLE_EXPERT_C1",
+    "Schedule": "SC_EV_2610000_DR_RAM_01",
+    "SelectionPriority": 1
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_DC_INTERMEDIATE_C1",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_C1",
+    "Schedule": "SC_EV_2610000_DR_RAM_01",
+    "SelectionPriority": 1
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B2",
+    "BattleId": "RANDOMBATTLE_EXPERT",
+    "Schedule": "SC_PACK_RELEASE_B2_B2a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B2a",
+    "BattleId": "RANDOMBATTLE_EXPERT_B2a",
+    "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B2b",
+    "BattleId": "RANDOMBATTLE_EXPERT_B2b",
+    "Schedule": "SC_PACK_RELEASE_B2b_B3",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B3",
+    "BattleId": "RANDOMBATTLE_EXPERT_B3",
+    "Schedule": "SC_PACK_RELEASE_B3_B3a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B3a",
+    "BattleId": "RANDOMBATTLE_EXPERT_B3a",
+    "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B3b",
+    "BattleId": "RANDOMBATTLE_EXPERT_B3b",
+    "Schedule": "SC_PACK_RELEASE_B3b_B4",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B4",
+    "BattleId": "RANDOMBATTLE_EXPERT_B4",
+    "Schedule": "SC_PACK_RELEASE_B4_B4a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B4a",
+    "BattleId": "RANDOMBATTLE_EXPERT_B4a",
+    "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_B4b",
+    "BattleId": "RANDOMBATTLE_EXPERT_B4b",
+    "Schedule": "SC_PACK_RELEASE_B4b_C1",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_EXPERT_C1",
+    "BattleId": "RANDOMBATTLE_EXPERT_C1",
+    "Schedule": "SC_PACK_RELEASE_C1_C2",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B2",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE",
+    "Schedule": "SC_PACK_RELEASE_B2_B2a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B2a",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B2a",
+    "Schedule": "SC_PACK_RELEASE_B2a_B2b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B2b",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B2b",
+    "Schedule": "SC_PACK_RELEASE_B2b_B3",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B3",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B3",
+    "Schedule": "SC_PACK_RELEASE_B3_B3a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B3a",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B3a",
+    "Schedule": "SC_PACK_RELEASE_B3a_B3b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B3b",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B3b",
+    "Schedule": "SC_PACK_RELEASE_B3b_B4",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B4",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B4",
+    "Schedule": "SC_PACK_RELEASE_B4_B4a",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B4a",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B4a",
+    "Schedule": "SC_PACK_RELEASE_B4a_B4b",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_B4b",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_B4b",
+    "Schedule": "SC_PACK_RELEASE_B4b_C1",
+    "SelectionPriority": 0
+  },
+  {
+    "NPCDeckGroupID": "DECKGROUP_INTERMEDIATE_C1",
+    "BattleId": "RANDOMBATTLE_INTERMEDIATE_C1",
+    "Schedule": "SC_PACK_RELEASE_C1_C2",
+    "SelectionPriority": 0
+  }
+]

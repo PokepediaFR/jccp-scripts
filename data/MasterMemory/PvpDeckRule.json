@@ -1,0 +1,15 @@
+[
+  {
+    "DeckRuleID": "PVP_RULE_C1_01",
+    "DeckTypeRestriction": 3,
+    "AllowedExpansionIDs": [
+      "C1"
+    ],
+    "AllowedRarities": [],
+    "ExceptionGroupIDs": [
+      "PVP_GR_SHOP_PROMO_01",
+      "PVP_GR_PROMO_C1_01"
+    ],
+    "AllowPromo": false
+  }
+]

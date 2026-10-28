@@ -1,0 +1,16 @@
+[
+  {
+    "PvpCasualType": 1,
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 15,
+    "ExceptionGroupIDs": []
+  },
+  {
+    "PvpCasualType": 2,
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 0,
+    "ExceptionGroupIDs": [
+      "PVP_GR_SHOP_PROMO_01"
+    ]
+  }
+]
