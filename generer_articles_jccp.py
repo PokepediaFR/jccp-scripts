@@ -14,6 +14,11 @@ from typing import NamedTuple
 # Fichiers et langues
 DOSSIER_DONNEES = "data"
 DOSSIER_SORTIE = "out"
+DOSSIERS_DONNEES = (
+    ("master", "MasterMemory"),
+    ("locale", "Locale"),
+    ("descriptions", "Descriptions"),
+)
 NOMS_MASTER = (
     "Expansion ExpansionCollectionNumber PokemonCard Pokemon TrainerCard "
     "Trainer Character PokemonAttack PokemonAttackName PokemonAbility "
@@ -43,6 +48,7 @@ GESTIONNAIRES = {
     ("Img", "Element"): "_element",
     ("Img", "ex"): "_ex",
     ("Text", "CardName"): "_nom_carte",
+    ("Text", "CardNameByCardID"): "_nom_carte_par_id",
     ("Text", "SpecialCondition"): "_condition",
     ("Text", "EvolutionPokemon"): "_evolution",
     ("Text", "AttackName"): "_nom_attaque",
@@ -681,7 +687,11 @@ class Localisation:
 
     def _nom_carte(self, attributs, params):
         """Afficher le nom d'un personnage de carte."""
-        code = str(self._param(attributs, params))
+        code = attributs.get("v", self._param(attributs, params))
+        if code is None:
+            self.inconnues.add("carte:paramètre manquant")
+            return ""
+        code = str(code)
         nom = self.nom(self.jeu.personnages.get(code))
         if nom is None:
             self.inconnues.add(f"carte:{code}")
@@ -691,6 +701,14 @@ class Localisation:
                 nom, SYMBOLE_EX_MEGA if code.startswith("MEGA") else SYMBOLE_EX
             )
         return nom
+
+    def _nom_carte_par_id(self, attributs, params):
+        """Afficher le nom de la carte désignée par son CardID."""
+        card_id = self._param(attributs, params)
+        if card_id not in self.jeu.cartes:
+            self.inconnues.add(f"CardNameByCardID:{card_id}")
+            return ""
+        return self.texte(msid_nom(self.jeu, *self.jeu.cartes[card_id])) or ""
 
     def _condition(self, attributs, params):
         """Afficher un état spécial (Endormi, Brûlé…)."""
@@ -783,6 +801,14 @@ def msid_nom(jeu, genre, carte):
     else:
         personnage = jeu.dresseurs[carte["TrainerID"]]["CharacterID"]
     return jeu.personnages.get(personnage)
+
+
+def symbole_ex(jeu, genre, carte):
+    """Retourner le symbole ex d'une carte (None si ce n'est pas un ex)."""
+    pokemon = jeu.pokemon[carte["PokemonID"]] if genre == "pokemon" else {}
+    if not pokemon.get("IsEX"):
+        return None
+    return SYMBOLE_EX_MEGA if pokemon["IsMegaEvolution"] else SYMBOLE_EX
 
 
 def temps_paradoxe(personnage):
@@ -919,10 +945,7 @@ def decrire_noms(donnees, genre, carte):
     """Décrire les noms d'une carte dans toutes les langues utiles."""
     jeu = donnees.jeu
     msid = msid_nom(jeu, genre, carte)
-    symbole = None
-    if genre == "pokemon" and jeu.pokemon[carte["PokemonID"]]["IsEX"]:
-        mega = jeu.pokemon[carte["PokemonID"]]["IsMegaEvolution"]
-        symbole = SYMBOLE_EX_MEGA if mega else SYMBOLE_EX
+    symbole = symbole_ex(jeu, genre, carte)
     loc_fr = donnees.locs[LANGUE_PRINCIPALE]
     reel = loc_fr.nom(msid, "reel", symbole)
     formes = {"forme": None, "dresseur": None}
@@ -1051,11 +1074,16 @@ def chercher_relations(index, courante, cle):
     return Relations(identiques, reedition, illustration, couleur)
 
 
+def formater_titre(nom, extension, numero):
+    """Formater le titre d'un article : « Nom (Extension 001) »."""
+    return f"{nom} ({extension} {numero:03d})"
+
+
 def titre_carte(donnees, carte):
     """Retourner le titre français de l'article d'une carte de l'index."""
     loc = donnees.locs[LANGUE_PRINCIPALE]
     extension = donnees.ctx.expansions_fr[carte.code]
-    return f"{loc.nom(carte.msid)} ({extension} {carte.numero:03d})"
+    return formater_titre(loc.nom(carte.msid), extension, carte.numero)
 
 
 def decrire_carte(donnees, entree):
@@ -1303,12 +1331,48 @@ def generer(args):
             descriptions=descriptions,
         )
         ecrire_extension(donnees, args.numero, args.sortie)
+    signaler_inconnues(locs)
+
+
+def signaler_inconnues(locs):
+    """Afficher les balises non gérées rencontrées dans les textes."""
     inconnues = set().union(*(loc.inconnues for loc in locs.values()))
     if inconnues:
         print(
             "Balises non gérées : " + ", ".join(sorted(inconnues)),
             file=sys.stderr,
         )
+
+
+def ajouter_options_donnees(parser, dossiers=DOSSIERS_DONNEES):
+    """Ajouter les options des dossiers de données et de sortie."""
+    for option, aide in dossiers:
+        parser.add_argument(
+            f"--{option}",
+            type=Path,
+            help=f"dossier {aide} (défaut : '{DOSSIER_DONNEES}/{aide}')",
+        )
+    parser.add_argument(
+        "-o",
+        "--sortie",
+        type=Path,
+        default=Path(__file__).resolve().parent / DOSSIER_SORTIE,
+        help=f"dossier de sortie (défaut : '{DOSSIER_SORTIE}')",
+    )
+
+
+def resoudre_dossiers(parser, args):
+    """Remplacer les dossiers non précisés par ceux trouvés dans data."""
+    for option, aide in DOSSIERS_DONNEES:
+        if not hasattr(args, option):
+            continue
+        dossier = getattr(args, option) or trouver_dossier(aide)
+        if option != "descriptions" and (
+            dossier is None or not dossier.is_dir()
+        ):
+            parser.error(f"--{option} : dossier introuvable")
+        setattr(args, option, dossier)
+    return args
 
 
 def analyser_arguments(argv):
@@ -1329,23 +1393,7 @@ def analyser_arguments(argv):
         metavar="extension",
         help="code(s) d'extension (A4b, B1, PROMO-B…) ; défaut : toutes",
     )
-    for option, aide in (
-        ("master", "MasterMemory"),
-        ("locale", "Locale"),
-        ("descriptions", "Descriptions"),
-    ):
-        parser.add_argument(
-            f"--{option}",
-            type=Path,
-            help=f"dossier {aide} (défaut : '{DOSSIER_DONNEES}/{aide}')",
-        )
-    parser.add_argument(
-        "-o",
-        "--sortie",
-        type=Path,
-        default=Path(__file__).resolve().parent / DOSSIER_SORTIE,
-        help=f"dossier de sortie (défaut : '{DOSSIER_SORTIE}')",
-    )
+    ajouter_options_donnees(parser)
     parser.add_argument(
         "-n",
         "--numero",
@@ -1353,14 +1401,7 @@ def analyser_arguments(argv):
         action="append",
         help="ne générer que cette carte (option répétable : -n 12 -n 13)",
     )
-    args = parser.parse_args(argv)
-    for nom, defaut in (("master", "MasterMemory"), ("locale", "Locale")):
-        dossier = getattr(args, nom) or trouver_dossier(defaut)
-        if dossier is None or not dossier.is_dir():
-            parser.error(f"--{nom} : dossier introuvable")
-        setattr(args, nom, dossier)
-    args.descriptions = args.descriptions or trouver_dossier("Descriptions")
-    return args
+    return resoudre_dossiers(parser, parser.parse_args(argv))
 
 
 def main(argv=None):
