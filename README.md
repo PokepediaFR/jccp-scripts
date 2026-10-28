@@ -20,6 +20,13 @@ Ces scripts dépendent entièrement du dossier `data` qui contient les sous-doss
 
 Les articles sont générés au format texte dans le dossier `out/<code de l'extension>/`.
 
+### Générer des listes de cartes des extensions
+Le script concerné, `generer_listes_jccp.py` doit être exécuté à côté de `generer_articles_jccp.py` :
+* Exécuter `python generer_listes_jccp.py` pour générer des listes de cartes pour toutes les extensions
+* Exécuter `python generer_redirections_jccp.py A4b B4b`pour générer des listes de cartes uniquement pour les extensions listées
+
+Les listes sont générées au format texte dans le dossier `out/<code de l'extension>.txt`.
+
 ### Générer des redirections de fichiers des cartes
 Le script concerné, `generer_redirections_jccp.py` doit être exécuté à côté de `generer_articles_jccp.py`. Il est principalement utilisé pour les extensions qui rééditent à l'identique une quantité non-négligeable de cartes, par exemple A4b et B4b, qui recyclent ainsi des images de cartes déjà été téléversée sur le wiki :
 * Exécuter `python generer_redirections_jccp.py` pour générer des redirections de fichiers des cartes pour toutes les extensions
