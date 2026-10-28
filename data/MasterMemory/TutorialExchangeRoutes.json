@@ -1,0 +1,17 @@
+[
+  {
+    "PackID": "TUTORIAL_1",
+    "ExchangeRouteType": 2,
+    "TutorialDeckID": "1001003"
+  },
+  {
+    "PackID": "TUTORIAL_2",
+    "ExchangeRouteType": 1,
+    "TutorialDeckID": "1001002"
+  },
+  {
+    "PackID": "TUTORIAL_3",
+    "ExchangeRouteType": 3,
+    "TutorialDeckID": "1001001"
+  }
+]
